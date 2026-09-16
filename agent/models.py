@@ -20,6 +20,10 @@ class Observation:
     evidence_score: float = 0.0
     pain_score: float = 0.0
     tags: list[str] = field(default_factory=list)
+    source_domain: str = ""
+    source_type: str = "unknown"
+    source_credibility: float = 0.0
+    evidence_quality: float = 0.0
 
     def to_dict(self) -> dict[str, Any]:
         return asdict(self)
@@ -38,8 +42,13 @@ class Cluster:
     information_gap_score: float
     automation_score: float
     monetization_signal_score: float
-    representative_problems: list[str]
-    sources: list[str]
+    source_diversity_score: float = 0.0
+    verification_score: float = 0.0
+    evidence_confidence: str = "low"
+    existing_solution_signal: float = 0.0
+    representative_problems: list[str] = field(default_factory=list)
+    sources: list[str] = field(default_factory=list)
+    source_domains: list[str] = field(default_factory=list)
     notes: list[str] = field(default_factory=list)
 
     def to_dict(self) -> dict[str, Any]:
