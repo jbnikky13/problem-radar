@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import hashlib
 import re
+import time
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from urllib.parse import quote_plus
@@ -11,9 +12,8 @@ import requests
 
 from .config import CONFIG
 
-
 SEARCH_QUERIES = [
-    "Nigeria \"can’t find\" OR \"can't find\" OR \"cannot find\"",
+    'Nigeria "can’t find" OR "can\'t find" OR "cannot find"',
     'Nigeria "too expensive" OR "costly" OR "price increase"',
     'Nigeria "takes too long" OR "waste time" OR "long queue"',
     'Nigeria scam OR fraud OR fake OR counterfeit',
@@ -38,32 +38,25 @@ SEARCH_QUERIES = [
 ]
 
 RSS_FEEDS = {
-    "Google News": [
-        "https://news.google.com/rss/search?q={query}&hl=en-NG&gl=NG&ceid=NG:en",
-    ],
+    "Google News": ["https://news.google.com/rss/search?q={query}&hl=en-NG&gl=NG&ceid=NG:en"],
     "Reddit Nigeria": [
         "https://www.reddit.com/r/Nigeria/new/.rss",
         "https://www.reddit.com/r/NigerianFluency/new/.rss",
         "https://www.reddit.com/r/NigerianBusiness/new/.rss",
     ],
-    "Reddit Search": [
-        "https://www.reddit.com/search.rss?q={query}&sort=new&t=week",
-    ],
+    "Reddit Search": ["https://www.reddit.com/search.rss?q={query}&sort=new&t=week"],
 }
 
 PROBLEM_PATTERNS = [
-    ("can't find", 3.0), ("cannot find", 3.0), ("can't get", 3.0),
-    ("cannot get", 3.0), ("how do i", 2.0), ("how can i", 2.0),
-    ("too expensive", 3.0), ("costly", 2.0), ("expensive", 1.5),
-    ("scam", 3.0), ("fraud", 3.0), ("fake", 2.5), ("counterfeit", 3.0),
-    ("waste time", 2.5), ("takes too long", 2.5), ("long queue", 2.0),
-    ("unavailable", 2.0), ("no electricity", 3.0), ("power outage", 2.5),
-    ("poor network", 2.5), ("dropped calls", 2.0), ("failed transaction", 2.5),
-    ("reversal", 2.0), ("complain", 1.5), ("complaint", 1.5),
-    ("problem", 1.5), ("issue", 1.0), ("frustrat", 2.5), ("difficult", 2.0),
-    ("hard to", 2.0), ("looking for", 1.5), ("recommend", 1.0),
-    ("overcharged", 2.5), ("lost money", 3.0), ("charged twice", 3.0),
-    ("delayed", 2.0), ("delay", 1.5), ("not working", 2.0),
+    ("can't find", 3.0), ("cannot find", 3.0), ("can't get", 3.0), ("cannot get", 3.0),
+    ("how do i", 2.0), ("how can i", 2.0), ("too expensive", 3.0), ("costly", 2.0),
+    ("expensive", 1.5), ("scam", 3.0), ("fraud", 3.0), ("fake", 2.5), ("counterfeit", 3.0),
+    ("waste time", 2.5), ("takes too long", 2.5), ("long queue", 2.0), ("unavailable", 2.0),
+    ("no electricity", 3.0), ("power outage", 2.5), ("poor network", 2.5), ("dropped calls", 2.0),
+    ("failed transaction", 2.5), ("reversal", 2.0), ("complain", 1.5), ("complaint", 1.5),
+    ("problem", 1.5), ("issue", 1.0), ("frustrat", 2.5), ("difficult", 2.0), ("hard to", 2.0),
+    ("looking for", 1.5), ("recommend", 1.0), ("overcharged", 2.5), ("lost money", 3.0),
+    ("charged twice", 3.0), ("delayed", 2.0), ("delay", 1.5), ("not working", 2.0),
 ]
 
 
@@ -91,10 +84,24 @@ def _id(url: str, title: str) -> str:
 
 
 def _fetch(url: str):
-    headers = {"User-Agent": CONFIG.user_agent}
-    response = requests.get(url, headers=headers, timeout=20)
-    response.raise_for_status()
-    return feedparser.parse(response.content)
+    headers = {"User-Agent": CONFIG.user_agent, "Accept": "application/rss+xml, application/atom+xml, text/xml"}
+    last_error = None
+    for attempt in range(3):
+        try:
+            response = requests.get(url, headers=headers, timeout=20)
+            if response.status_code == 429:
+                retry_after = response.headers.get("Retry-After")
+                delay = min(int(retry_after), 60) if retry_after and retry_after.isdigit() else 2 ** attempt * 2
+                print(f"[source] rate limited; backing off {delay}s")
+                time.sleep(delay)
+                continue
+            response.raise_for_status()
+            return feedparser.parse(response.content)
+        except Exception as exc:
+            last_error = exc
+            if attempt < 2:
+                time.sleep(2 ** attempt)
+    raise RuntimeError(str(last_error))
 
 
 def _append_feed(items: list[dict], seen: set[str], feed_name: str, feed_url: str, query: str | None = None) -> None:
@@ -126,14 +133,25 @@ def _append_feed(items: list[dict], seen: set[str], feed_name: str, feed_url: st
 def collect() -> list[dict]:
     items: list[dict] = []
     seen: set[str] = set()
+    stats = {"Google News": 0, "Reddit Nigeria": 0, "Reddit Search": 0}
 
     for query in SEARCH_QUERIES:
+        before = len(items)
         _append_feed(items, seen, "Google News", RSS_FEEDS["Google News"][0], query)
+        stats["Google News"] += len(items) - before
 
+    # Reddit is best-effort: rate limits must never stop the research run.
     for feed_url in RSS_FEEDS["Reddit Nigeria"]:
+        before = len(items)
         _append_feed(items, seen, "Reddit Nigeria", feed_url)
+        stats["Reddit Nigeria"] += len(items) - before
+        time.sleep(1)
 
     for query in SEARCH_QUERIES[:12]:
+        before = len(items)
         _append_feed(items, seen, "Reddit Search", RSS_FEEDS["Reddit Search"][0], query)
+        stats["Reddit Search"] += len(items) - before
+        time.sleep(1)
 
+    print(f"[source] collection stats: {stats}; total={len(items)}")
     return items
