@@ -1,8 +1,8 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-16T11:53:00.519224+00:00`
+Generated: `2026-09-16T17:08:06.221221+00:00`
 Research status: **ACTIVE**
-Unique observations collected: **190**
+Unique observations collected: **231**
 
 > Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.
 > A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.
@@ -38,7 +38,34 @@ Unique observations collected: **190**
 
 ---
 
-### 2. Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week
+### 2. Lagos beach break becoming too expensive for locals - africanews.com
+**Category:** `repairs`  
+**Observations:** 3  
+**Evidence:** 5.12/10  
+**Pain signal:** 4.5/10  
+**Recurrence:** 5.3/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 3.55/10  
+**Monetization signal:** 5.55/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.49/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
+- Lagos beach break becoming too expensive for locals - africanews.com
+- A beach break in Nigeria's Lagos is becoming too expensive for many - The Washington Post
+- A beach break in Nigeria's Lagos is becoming too expensive for many - washingtonpost.com
+
+**Source domains:** news.google.com
+- Common signals: too expensive, expensive
+- Independent source domains: 1; unique observations: 2
+- Average source/evidence quality: 3.5/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 3. Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week
 **Category:** `payments`  
 **Observations:** 1  
 **Evidence:** 3.77/10  
@@ -63,14 +90,14 @@ Unique observations collected: **190**
 
 ---
 
-### 3. Lagos beach break becoming too expensive for locals - africanews.com
-**Category:** `repairs`  
+### 4. How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
+**Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
-**Pain signal:** 4.5/10  
+**Pain signal:** 3.5/10  
 **Recurrence:** 4.2/10  
 **Information gap:** 2.8/10  
-**Automation signal:** 3.2/10  
+**Automation signal:** 5.2/10  
 **Monetization signal:** 5.2/10  
 **Source diversity:** 3.5/10  
 **Verification:** 3.49/10  
@@ -78,18 +105,122 @@ Unique observations collected: **190**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- Lagos beach break becoming too expensive for locals - africanews.com
-- A beach break in Nigeria's Lagos is becoming too expensive for many - washingtonpost.com
+- How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
+- How Nigerians Absorb the Cost of Delayed Digital Payments - humanglemedia.com
 
 **Source domains:** news.google.com
-- Common signals: too expensive, expensive
-- Independent source domains: 1; unique observations: 2
+- Common signals: delayed, delay
+- Independent source domains: 1; unique observations: 1
 - Average source/evidence quality: 3.5/10; verification confidence: low
 - Existing-solution language signal: 0.0/10 (not a market-size estimate)
 
 ---
 
-### 4. Kenya telecom complaints shift from poor network to fraud and data billing - TechCabal
+### 5. Customers' complaints against banks rise as CBN refunds billions of naira - legit.ng
+**Category:** `payments`  
+**Observations:** 2  
+**Evidence:** 4.42/10  
+**Pain signal:** 3.0/10  
+**Recurrence:** 4.2/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 5.2/10  
+**Monetization signal:** 5.2/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.49/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
+- Customers' complaints against banks rise as CBN refunds billions of naira - legit.ng
+- Customers' complaints against banks rise as CBN refunds billions of naira - Legit News
+
+**Source domains:** news.google.com
+- Common signals: complain, complaint
+- Independent source domains: 1; unique observations: 1
+- Average source/evidence quality: 3.5/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 6. Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - The Washington Post
+**Category:** `payments`  
+**Observations:** 2  
+**Evidence:** 4.38/10  
+**Pain signal:** 3.0/10  
+**Recurrence:** 4.2/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 5.2/10  
+**Monetization signal:** 5.2/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.34/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
+- Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - The Washington Post
+- Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - washingtonpost.com
+
+**Source domains:** news.google.com
+- Common signals: scam
+- Independent source domains: 1; unique observations: 1
+- Average source/evidence quality: 3.2/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 7. Nigeria’s electronic payments boom leaves some at risk for fraud - therecord.media
+**Category:** `payments`  
+**Observations:** 2  
+**Evidence:** 4.38/10  
+**Pain signal:** 3.0/10  
+**Recurrence:** 4.2/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 5.2/10  
+**Monetization signal:** 5.2/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.34/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
+- Nigeria’s electronic payments boom leaves some at risk for fraud - therecord.media
+- Nigeria’s electronic payments boom leaves some at risk for fraud - The Record from Recorded Future News
+
+**Source domains:** news.google.com
+- Common signals: fraud
+- Independent source domains: 1; unique observations: 1
+- Average source/evidence quality: 3.2/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 8. NIS Warns Against Fraudulent Platforms For Passport Application, Payments - - TVC News
+**Category:** `payments`  
+**Observations:** 2  
+**Evidence:** 4.38/10  
+**Pain signal:** 3.0/10  
+**Recurrence:** 4.2/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 5.2/10  
+**Monetization signal:** 5.2/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.34/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 10.0/10
+
+**Representative evidence:**
+- NIS Warns Against Fraudulent Platforms For Passport Application, Payments - - TVC News
+- NIS Warns Against Fraudulent Platforms For Passport Application, Payments - - tvcnews.tv
+
+**Source domains:** news.google.com
+- Common signals: fraud
+- Independent source domains: 1; unique observations: 1
+- Average source/evidence quality: 3.2/10; verification confidence: low
+- Existing-solution language signal: 10.0/10 (not a market-size estimate)
+
+---
+
+### 9. Kenya telecom complaints shift from poor network to fraud and data billing - TechCabal
 **Category:** `connectivity`  
 **Observations:** 1  
 **Evidence:** 3.81/10  
@@ -114,14 +245,66 @@ Unique observations collected: **190**
 
 ---
 
-### 5. How Nigerians Absorb the Cost of Delayed Digital Payments - humanglemedia.com
-**Category:** `payments`  
+### 10. Social Engineering in Action: How Fraudsters Exploit Trust with Fake Refund Schemes in the Middle East - group-ib.com
+**Category:** `security`  
+**Observations:** 2  
+**Evidence:** 4.42/10  
+**Pain signal:** 5.5/10  
+**Recurrence:** 4.2/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 3.2/10  
+**Monetization signal:** 2.7/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.49/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
+- Social Engineering in Action: How Fraudsters Exploit Trust with Fake Refund Schemes in the Middle East - group-ib.com
+- Social Engineering in Action: How Fraudsters Exploit Trust with Fake Refund Schemes in the Middle East - Group-IB
+
+**Source domains:** news.google.com
+- Common signals: fraud, fake
+- Independent source domains: 1; unique observations: 1
+- Average source/evidence quality: 3.5/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 11. NIS debunks fraud claims, warns public over fake passport payment channels - The Guardian Nigeria News
+**Category:** `security`  
+**Observations:** 2  
+**Evidence:** 4.42/10  
+**Pain signal:** 5.5/10  
+**Recurrence:** 4.2/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 3.2/10  
+**Monetization signal:** 2.7/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.49/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 5.0/10
+
+**Representative evidence:**
+- NIS debunks fraud claims, warns public over fake passport payment channels - The Guardian Nigeria News
+- Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - LEADERSHIP Newspapers
+
+**Source domains:** news.google.com
+- Common signals: fraud, fake
+- Independent source domains: 1; unique observations: 2
+- Average source/evidence quality: 3.5/10; verification confidence: low
+- Existing-solution language signal: 5.0/10 (not a market-size estimate)
+
+---
+
+### 12. Scammers back with fake army face, target landlords - The Times of India
+**Category:** `repairs`  
 **Observations:** 1  
 **Evidence:** 3.72/10  
-**Pain signal:** 3.5/10  
+**Pain signal:** 5.5/10  
 **Recurrence:** 3.1/10  
 **Information gap:** 2.8/10  
-**Automation signal:** 4.85/10  
+**Automation signal:** 2.85/10  
 **Monetization signal:** 4.85/10  
 **Source diversity:** 3.5/10  
 **Verification:** 3.49/10  
@@ -129,17 +312,17 @@ Unique observations collected: **190**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- How Nigerians Absorb the Cost of Delayed Digital Payments - humanglemedia.com
+- Scammers back with fake army face, target landlords - The Times of India
 
 **Source domains:** news.google.com
-- Common signals: delayed, delay
+- Common signals: scam, fake
 - Independent source domains: 1; unique observations: 1
 - Average source/evidence quality: 3.5/10; verification confidence: low
 - Existing-solution language signal: 0.0/10 (not a market-size estimate)
 
 ---
 
-### 6. NAFDAC alerts Nigerians over suspected counterfeit toothpaste - Daily Post Nigeria
+### 13. 13,117 Fraud Linked BVNs: What CBN’s recent directive means for Access Bank, Zenith, UBA Customers - within nigeria
 **Category:** `repairs`  
 **Observations:** 2  
 **Evidence:** 4.38/10  
@@ -154,8 +337,60 @@ Unique observations collected: **190**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- NAFDAC alerts Nigerians over suspected counterfeit toothpaste - Daily Post Nigeria
+- 13,117 Fraud Linked BVNs: What CBN’s recent directive means for Access Bank, Zenith, UBA Customers - within nigeria
+- 13,117 Fraud Linked BVNs: What CBN’s recent directive means for Access Bank, Zenith, UBA Customers - withinnigeria.com
+
+**Source domains:** news.google.com
+- Common signals: fraud
+- Independent source domains: 1; unique observations: 1
+- Average source/evidence quality: 3.2/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 14. How the Massachusetts Attorney General Fought for Investment Fraud Victims - trmlabs.com
+**Category:** `repairs`  
+**Observations:** 2  
+**Evidence:** 4.38/10  
+**Pain signal:** 3.0/10  
+**Recurrence:** 4.2/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 3.2/10  
+**Monetization signal:** 5.2/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.34/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
+- How the Massachusetts Attorney General Fought for Investment Fraud Victims - trmlabs.com
+- How the Massachusetts Attorney General Fought for Investment Fraud Victims - TRM Labs
+
+**Source domains:** news.google.com
+- Common signals: fraud
+- Independent source domains: 1; unique observations: 1
+- Average source/evidence quality: 3.2/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 15. NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - Business Post Nigeria
+**Category:** `repairs`  
+**Observations:** 2  
+**Evidence:** 4.38/10  
+**Pain signal:** 3.0/10  
+**Recurrence:** 4.2/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 3.2/10  
+**Monetization signal:** 5.2/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.34/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
 - NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - Business Post Nigeria
+- NAFDAC alerts Nigerians over suspected counterfeit toothpaste - Daily Post Nigeria
 
 **Source domains:** news.google.com
 - Common signals: counterfeit
@@ -165,7 +400,7 @@ Unique observations collected: **190**
 
 ---
 
-### 7. How failed transactions, unreversed funds frustrate bank customers - Punch Newspapers
+### 16. How failed transactions, unreversed funds frustrate bank customers - Punch Newspapers
 **Category:** `repairs`  
 **Observations:** 1  
 **Evidence:** 3.72/10  
@@ -190,82 +425,7 @@ Unique observations collected: **190**
 
 ---
 
-### 8. Customers' complaints against banks rise as CBN refunds billions of naira - Legit News
-**Category:** `payments`  
-**Observations:** 1  
-**Evidence:** 3.72/10  
-**Pain signal:** 3.0/10  
-**Recurrence:** 3.1/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 4.85/10  
-**Monetization signal:** 4.85/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.49/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- Customers' complaints against banks rise as CBN refunds billions of naira - Legit News
-
-**Source domains:** news.google.com
-- Common signals: complain, complaint
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.5/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 9. Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - washingtonpost.com
-**Category:** `payments`  
-**Observations:** 1  
-**Evidence:** 3.68/10  
-**Pain signal:** 3.0/10  
-**Recurrence:** 3.1/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 4.85/10  
-**Monetization signal:** 4.85/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.34/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - washingtonpost.com
-
-**Source domains:** news.google.com
-- Common signals: scam
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.2/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 10. Nigeria’s electronic payments boom leaves some at risk for fraud - The Record from Recorded Future News
-**Category:** `payments`  
-**Observations:** 1  
-**Evidence:** 3.68/10  
-**Pain signal:** 3.0/10  
-**Recurrence:** 3.1/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 4.85/10  
-**Monetization signal:** 4.85/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.34/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- Nigeria’s electronic payments boom leaves some at risk for fraud - The Record from Recorded Future News
-
-**Source domains:** news.google.com
-- Common signals: fraud
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.2/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 11. CBN Refunds N19.12bn, $329.3m To Customers, Flags 13,117 Fraud-linked BVNs - LEADERSHIP Newspapers
+### 17. CBN Refunds N19.12bn, $329.3m To Customers, Flags 13,117 Fraud-linked BVNs - LEADERSHIP Newspapers
 **Category:** `payments`  
 **Observations:** 1  
 **Evidence:** 3.68/10  
@@ -290,32 +450,7 @@ Unique observations collected: **190**
 
 ---
 
-### 12. NIS Warns Against Fraudulent Platforms For Passport Application, Payments - - tvcnews.tv
-**Category:** `payments`  
-**Observations:** 1  
-**Evidence:** 3.68/10  
-**Pain signal:** 3.0/10  
-**Recurrence:** 3.1/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 4.85/10  
-**Monetization signal:** 4.85/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.34/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 10.0/10
-
-**Representative evidence:**
-- NIS Warns Against Fraudulent Platforms For Passport Application, Payments - - tvcnews.tv
-
-**Source domains:** news.google.com
-- Common signals: fraud
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.2/10; verification confidence: low
-- Existing-solution language signal: 10.0/10 (not a market-size estimate)
-
----
-
-### 13. NIS denies passport payment fraud allegations - Tribune Online
+### 18. NIS denies passport payment fraud allegations - Tribune Online
 **Category:** `payments`  
 **Observations:** 1  
 **Evidence:** 3.68/10  
@@ -340,7 +475,7 @@ Unique observations collected: **190**
 
 ---
 
-### 14. NIS Denies Third-Party Role in Passport Payments, Warns Public Against Fraud - PRNigeria News
+### 19. NIS Denies Third-Party Role in Passport Payments, Warns Public Against Fraud - PRNigeria News
 **Category:** `payments`  
 **Observations:** 1  
 **Evidence:** 3.68/10  
@@ -365,7 +500,7 @@ Unique observations collected: **190**
 
 ---
 
-### 15. ASUU fresh strike threat has exposed fraud in subsidy removal – Atiku - Daily Trust
+### 20. ASUU fresh strike threat has exposed fraud in subsidy removal – Atiku - Daily Trust
 **Category:** `payments`  
 **Observations:** 1  
 **Evidence:** 3.68/10  
@@ -384,131 +519,6 @@ Unique observations collected: **190**
 
 **Source domains:** news.google.com
 - Common signals: fraud
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.2/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 16. Dr Johnson: Advanced Cardiac Care Too Expensive In Nigeria - Arise News
-**Category:** `repairs`  
-**Observations:** 1  
-**Evidence:** 3.72/10  
-**Pain signal:** 4.5/10  
-**Recurrence:** 3.1/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 2.85/10  
-**Monetization signal:** 4.85/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.49/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- Dr Johnson: Advanced Cardiac Care Too Expensive In Nigeria - Arise News
-
-**Source domains:** news.google.com
-- Common signals: too expensive, expensive
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.5/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 17. Banks frustrating growth of e-payments, say customers - The Guardian Nigeria News
-**Category:** `payments`  
-**Observations:** 1  
-**Evidence:** 3.68/10  
-**Pain signal:** 2.5/10  
-**Recurrence:** 3.1/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 4.85/10  
-**Monetization signal:** 4.85/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.34/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- Banks frustrating growth of e-payments, say customers - The Guardian Nigeria News
-
-**Source domains:** news.google.com
-- Common signals: frustrat
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.2/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 18. ‘Power outages cost Nigerian businesses 3% of yearly sales’ - The Guardian Nigeria News
-**Category:** `business`  
-**Observations:** 1  
-**Evidence:** 3.68/10  
-**Pain signal:** 2.5/10  
-**Recurrence:** 3.1/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 4.85/10  
-**Monetization signal:** 4.85/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.34/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- ‘Power outages cost Nigerian businesses 3% of yearly sales’ - The Guardian Nigeria News
-
-**Source domains:** news.google.com
-- Common signals: power outage
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.2/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 19. 47 applicants paid N51.8m for fake LG jobs in C’River – Nsa - Daily Post Nigeria
-**Category:** `payments`  
-**Observations:** 1  
-**Evidence:** 3.68/10  
-**Pain signal:** 2.5/10  
-**Recurrence:** 3.1/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 4.85/10  
-**Monetization signal:** 4.85/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.34/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 10.0/10
-
-**Representative evidence:**
-- 47 applicants paid N51.8m for fake LG jobs in C’River – Nsa - Daily Post Nigeria
-
-**Source domains:** news.google.com
-- Common signals: fake
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.2/10; verification confidence: low
-- Existing-solution language signal: 10.0/10 (not a market-size estimate)
-
----
-
-### 20. NFF exposes fake FIFA letter as Nigeria delegation meets football body - Premium Times Nigeria
-**Category:** `payments`  
-**Observations:** 1  
-**Evidence:** 3.68/10  
-**Pain signal:** 2.5/10  
-**Recurrence:** 3.1/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 4.85/10  
-**Monetization signal:** 4.85/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.34/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- NFF exposes fake FIFA letter as Nigeria delegation meets football body - Premium Times Nigeria
-
-**Source domains:** news.google.com
-- Common signals: fake
 - Independent source domains: 1; unique observations: 1
 - Average source/evidence quality: 3.2/10; verification confidence: low
 - Existing-solution language signal: 0.0/10 (not a market-size estimate)
