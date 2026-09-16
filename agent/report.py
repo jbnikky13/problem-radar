@@ -15,19 +15,20 @@ def generate(clusters: list[Cluster], observation_count: int, active: bool) -> P
         clusters,
         key=lambda c: (
             c.evidence_score + c.pain_score + c.recurrence_score + c.information_gap_score
-            + c.automation_score + c.monetization_signal_score
+            + c.automation_score + c.monetization_signal_score + c.verification_score
         ),
         reverse=True,
     )
     now = datetime.now(timezone.utc).isoformat()
     lines = [
-        "# 🇳🇬 Nigeria Problem Radar — Latest Research",
+        "# 🇳🇬 Nigeria Problem Radar — Evidence Intelligence",
         "",
         f"Generated: `{now}`",
         f"Research status: **{'ACTIVE' if active else 'COMPLETE'}**",
         f"Unique observations collected: **{observation_count}**",
         "",
-        "> This is an evidence report, not an automatic business recommendation. Scores are research signals used to decide what to investigate next.",
+        "> Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.",
+        "> A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.",
         "",
         "## Top recurring problem clusters",
         "",
@@ -38,16 +39,20 @@ def generate(clusters: list[Cluster], observation_count: int, active: bool) -> P
             f"**Category:** `{cluster.category}`  ",
             f"**Observations:** {cluster.observation_count}  ",
             f"**Evidence:** {cluster.evidence_score}/10  ",
-            f"**Pain:** {cluster.pain_score}/10  ",
+            f"**Pain signal:** {cluster.pain_score}/10  ",
             f"**Recurrence:** {cluster.recurrence_score}/10  ",
             f"**Information gap:** {cluster.information_gap_score}/10  ",
             f"**Automation signal:** {cluster.automation_score}/10  ",
-            f"**Monetization signal:** {cluster.monetization_signal_score}/10",
+            f"**Monetization signal:** {cluster.monetization_signal_score}/10  ",
+            f"**Source diversity:** {cluster.source_diversity_score}/10  ",
+            f"**Verification:** {cluster.verification_score}/10  ",
+            f"**Evidence confidence:** **{cluster.evidence_confidence}**  ",
+            f"**Existing-solution language:** {cluster.existing_solution_signal}/10",
             "",
             "**Representative evidence:**",
         ]
         lines += [f"- {item}" for item in cluster.representative_problems]
-        lines += ["", f"**Sources:** {', '.join(cluster.sources)}"]
+        lines += ["", f"**Source domains:** {', '.join(cluster.source_domains) or 'unknown'}"]
         for note in cluster.notes:
             lines.append(f"- {note}")
         lines += ["", "---", ""]
