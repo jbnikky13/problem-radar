@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import re
 from collections import Counter, defaultdict
 from hashlib import sha256
 
@@ -17,8 +16,8 @@ CATEGORIES = {
     "food": ["food", "rice", "beans", "tomato", "market", "grocery", "price", "cooking"],
     "housing": ["rent", "house", "landlord", "property", "apartment", "housing", "estate"],
     "repairs": ["repair", "technician", "plumber", "electrician", "mechanic", "artisan", "ac", "generator"],
-    "payments": ["payment", "transfer", "pos", "bank", "invoice", "reconciliation", "refund"],
-    "business": ["business", "customer", "sales", "inventory", "profit", "expense", "supplier", "wholesale", "accounting"],
+    "payments": ["payment", "transfer", "pos", "bank", "invoice", "reconciliation", "refund", "charge"],
+    "business": ["business", "customer", "sales", "inventory", "profit", "expense", "supplier", "wholesale", "accounting", "merchant"],
     "healthcare": ["hospital", "doctor", "clinic", "medicine", "drug", "health", "patient", "pharmacy"],
     "education": ["school", "student", "teacher", "tuition", "exam", "university", "education"],
     "government": ["government", "cac", "tax", "passport", "license", "registration", "agency", "document"],
@@ -26,6 +25,7 @@ CATEGORIES = {
     "logistics": ["delivery", "package", "shipping", "courier", "logistics", "dispatch", "warehouse"],
     "agriculture": ["farmer", "farm", "crop", "harvest", "fertilizer", "agriculture", "produce"],
     "security": ["security", "scam", "fraud", "theft", "robbery", "fake", "unsafe"],
+    "water": ["water", "borehole", "tanker", "well", "wastewater"],
 }
 
 GROUPS = {
@@ -40,8 +40,7 @@ GROUPS = {
 
 def _signals(text: str) -> tuple[list[str], float]:
     lower = text.lower()
-    found = []
-    score = 0.0
+    found, score = [], 0.0
     for phrase, weight in PROBLEM_PATTERNS:
         if phrase in lower:
             found.append(phrase)
@@ -69,18 +68,10 @@ def extract(raw: list[dict]) -> list[Observation]:
             continue
         category = _category(item["text"])
         observations.append(Observation(
-            id=item["id"],
-            title=item["title"],
-            text=item["text"],
-            source=item["source"],
-            url=item["url"],
-            published_at=item["published_at"],
-            collected_at=item["collected_at"],
-            category=category,
-            signals=signals,
-            affected_groups=_groups(item["text"]),
-            evidence_score=min(10.0, 3.0 + len(signals) * 0.7),
-            pain_score=pain,
+            id=item["id"], title=item["title"], text=item["text"], source=item["source"],
+            url=item["url"], published_at=item["published_at"], collected_at=item["collected_at"],
+            category=category, signals=signals, affected_groups=_groups(item["text"]),
+            evidence_score=min(10.0, 3.0 + len(signals) * 0.7), pain_score=pain,
             tags=signals + [category],
         ))
     return observations
@@ -89,12 +80,10 @@ def extract(raw: list[dict]) -> list[Observation]:
 def cluster(observations: list[Observation]) -> list[Cluster]:
     if not observations:
         return []
-
     texts = [f"{o.category} {o.title} {o.text}" for o in observations]
     vectorizer = TfidfVectorizer(stop_words="english", ngram_range=(1, 2), min_df=1)
     matrix = vectorizer.fit_transform(texts)
     similarity = cosine_similarity(matrix)
-
     parent = list(range(len(observations)))
 
     def find(x):
@@ -118,33 +107,31 @@ def cluster(observations: list[Observation]) -> list[Cluster]:
         groups[find(idx)].append(obs)
 
     clusters = []
-    for idx, members in enumerate(sorted(groups.values(), key=len, reverse=True), start=1):
+    for members in sorted(groups.values(), key=len, reverse=True):
         category = Counter(o.category for o in members).most_common(1)[0][0]
         phrases = Counter(signal for o in members for signal in o.signals)
         representative = [o.title for o in sorted(members, key=lambda x: x.pain_score, reverse=True)[:5]]
-        source_count = len({o.source for o in members})
+        source_names = sorted({o.source for o in members})
+        source_count = len(source_names)
+        unique_urls = len({o.url for o in members})
         recurrence = min(10.0, 2.0 + len(members) * 1.1)
-        evidence = min(10.0, 2.0 + len(members) * 0.9 + source_count)
+        evidence = min(10.0, 2.0 + len(members) * 0.8 + source_count * 1.1)
         pain = sum(o.pain_score for o in members) / len(members)
         gap_terms = {"can't find", "cannot find", "unavailable", "looking for", "how do i", "recommend"}
-        gap = min(10.0, 2.0 + sum(1 for p in phrases if p in gap_terms) * 1.2 + source_count * 0.8)
-        automation = min(10.0, 2.5 + (2.0 if category in {"business", "payments", "logistics", "jobs", "government"} else 0) + len(members) * 0.4)
-        monetization = min(10.0, 2.0 + (2.5 if category in {"business", "payments", "logistics", "housing", "supplier"} else 0) + len(members) * 0.35)
+        gap = min(10.0, 2.0 + sum(1 for p in phrases if p in gap_terms) * 1.2 + source_count * 0.9)
+        automation = min(10.0, 2.5 + (2.0 if category in {"business", "payments", "logistics", "jobs", "government"} else 0) + len(members) * 0.35)
+        monetization = min(10.0, 2.0 + (2.5 if category in {"business", "payments", "logistics", "housing", "jobs", "repairs"} else 0) + len(members) * 0.35)
         cluster_id = sha256("|".join(sorted(o.id for o in members)).encode()).hexdigest()[:12]
         clusters.append(Cluster(
-            id=cluster_id,
-            title=representative[0][:120],
-            category=category,
-            observation_ids=[o.id for o in members],
-            observation_count=len(members),
-            evidence_score=round(evidence, 2),
-            pain_score=round(pain, 2),
-            recurrence_score=round(recurrence, 2),
-            information_gap_score=round(gap, 2),
-            automation_score=round(automation, 2),
-            monetization_signal_score=round(monetization, 2),
-            representative_problems=representative,
-            sources=sorted({o.source for o in members}),
-            notes=[f"Common signals: {', '.join(p for p, _ in phrases.most_common(5))}"],
+            id=cluster_id, title=representative[0][:120], category=category,
+            observation_ids=[o.id for o in members], observation_count=len(members),
+            evidence_score=round(evidence, 2), pain_score=round(pain, 2),
+            recurrence_score=round(recurrence, 2), information_gap_score=round(gap, 2),
+            automation_score=round(automation, 2), monetization_signal_score=round(monetization, 2),
+            representative_problems=representative, sources=source_names,
+            notes=[
+                f"Common signals: {', '.join(p for p, _ in phrases.most_common(5))}",
+                f"Independent source types: {source_count}; unique observations: {unique_urls}",
+            ],
         ))
     return clusters
