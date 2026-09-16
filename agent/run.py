@@ -1,6 +1,10 @@
 from __future__ import annotations
 
+import json
+from pathlib import Path
+
 from .analyzer import cluster, extract
+from .heartbeat import record, record_complete
 from .report import generate
 from .sources import collect
 from .storage import ensure_started, load_observations, merge_observations, research_active, save_clusters
@@ -8,15 +12,16 @@ from .storage import ensure_started, load_observations, merge_observations, rese
 
 def main() -> None:
     state = ensure_started()
-    active = research_active()
-    if not active:
+    if not research_active():
         state["status"] = "complete"
-        print("[radar] Seven-day research window is complete. No new collection performed.")
         existing = [
             __import__("agent.models", fromlist=["Cluster"]).Cluster(**item)
-            for item in __import__("json").loads(open("data/clusters.json", encoding="utf-8").read())
-        ] if __import__("pathlib").Path("data/clusters.json").exists() else []
-        generate(existing, len(load_observations()), False)
+            for item in json.loads(Path("data/clusters.json").read_text(encoding="utf-8"))
+        ] if Path("data/clusters.json").exists() else []
+        total = len(load_observations())
+        record_complete(total, len(existing))
+        generate(existing, total, False)
+        print("[radar] Seven-day research window is complete. No new collection performed.")
         return
 
     print(f"[radar] Research started: {state['started_at']}")
@@ -27,6 +32,13 @@ def main() -> None:
     clusters = cluster(parsed)
     save_clusters(clusters)
     generate(clusters, len(all_observations), True)
+    record(
+        status="success",
+        raw=len(raw),
+        candidates=len(observations),
+        total=len(all_observations),
+        clusters=len(clusters),
+    )
     print(f"[radar] collected={len(raw)} candidates={len(observations)} total={len(all_observations)} clusters={len(clusters)}")
 
 
