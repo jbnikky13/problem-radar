@@ -13,7 +13,7 @@ from .config import CONFIG
 
 
 SEARCH_QUERIES = [
-    'Nigeria "can’t find" OR "can't find" OR "cannot find"',
+    "Nigeria \"can’t find\" OR \"can't find\" OR \"cannot find\"",
     'Nigeria "too expensive" OR "costly" OR "price increase"',
     'Nigeria "takes too long" OR "waste time" OR "long queue"',
     'Nigeria scam OR fraud OR fake OR counterfeit',
