@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from collections import Counter, defaultdict
 from hashlib import sha256
+from urllib.parse import urlparse
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
@@ -37,6 +38,9 @@ GROUPS = {
     "drivers": ["driver", "transport", "vehicle", "dispatch"],
 }
 
+HIGH_TRUST_DOMAINS = {"nigerianstat.gov.ng", "cbn.gov.ng", "worldbank.org", "who.int", "unicef.org", "fccpc.gov.ng", "nerc.gov.ng", "gov.ng"}
+NEWS_DOMAINS = {"punchng.com", "guardian.ng", "vanguardngr.com", "premiumtimesng.com", "businessday.ng", "thisdaylive.com", "nairametrics.com"}
+
 
 def _signals(text: str) -> tuple[list[str], float]:
     lower = text.lower()
@@ -60,6 +64,27 @@ def _groups(text: str) -> list[str]:
     return [name for name, terms in GROUPS.items() if any(term in lower for term in terms)] or ["general_public"]
 
 
+def _domain(url: str) -> str:
+    try:
+        host = urlparse(url).netloc.lower().split(":")[0]
+        return host[4:] if host.startswith("www.") else host
+    except Exception:
+        return ""
+
+
+def _source_quality(source: str, url: str) -> tuple[str, float]:
+    domain = _domain(url)
+    if any(domain == d or domain.endswith("." + d) for d in HIGH_TRUST_DOMAINS):
+        return "official_or_institutional", 9.5
+    if any(domain == d or domain.endswith("." + d) for d in NEWS_DOMAINS):
+        return "established_news", 8.0
+    if "reddit.com" in domain:
+        return "community", 5.5
+    if "google.com" in domain:
+        return "search_aggregator", 4.5
+    return "public_web", 5.0
+
+
 def extract(raw: list[dict]) -> list[Observation]:
     observations = []
     for item in raw:
@@ -67,12 +92,15 @@ def extract(raw: list[dict]) -> list[Observation]:
         if pain < 1.5:
             continue
         category = _category(item["text"])
+        source_type, credibility = _source_quality(item.get("source", ""), item.get("url", ""))
+        evidence_quality = round(min(10.0, credibility * 0.65 + min(10.0, len(signals) * 0.8) * 0.35), 2)
         observations.append(Observation(
             id=item["id"], title=item["title"], text=item["text"], source=item["source"],
             url=item["url"], published_at=item["published_at"], collected_at=item["collected_at"],
             category=category, signals=signals, affected_groups=_groups(item["text"]),
             evidence_score=min(10.0, 3.0 + len(signals) * 0.7), pain_score=pain,
-            tags=signals + [category],
+            tags=signals + [category], source_domain=_domain(item.get("url", "")),
+            source_type=source_type, source_credibility=credibility, evidence_quality=evidence_quality,
         ))
     return observations
 
@@ -112,15 +140,22 @@ def cluster(observations: list[Observation]) -> list[Cluster]:
         phrases = Counter(signal for o in members for signal in o.signals)
         representative = [o.title for o in sorted(members, key=lambda x: x.pain_score, reverse=True)[:5]]
         source_names = sorted({o.source for o in members})
-        source_count = len(source_names)
+        source_domains = sorted({o.source_domain for o in members if o.source_domain})
+        source_count = len(source_domains)
         unique_urls = len({o.url for o in members})
         recurrence = min(10.0, 2.0 + len(members) * 1.1)
-        evidence = min(10.0, 2.0 + len(members) * 0.8 + source_count * 1.1)
+        avg_quality = sum(o.evidence_quality for o in members) / len(members)
+        evidence = min(10.0, 1.5 + len(members) * 0.7 + source_count * 1.0 + avg_quality * 0.15)
         pain = sum(o.pain_score for o in members) / len(members)
-        gap_terms = {"can't find", "cannot find", "unavailable", "looking for", "how do i", "recommend"}
-        gap = min(10.0, 2.0 + sum(1 for p in phrases if p in gap_terms) * 1.2 + source_count * 0.9)
+        gap_terms = {"can't find", "cannot find", "unavailable", "looking for", "how do i", "recommend", "where can i", "how can i"}
+        gap = min(10.0, 2.0 + sum(1 for p in phrases if p in gap_terms) * 1.2 + source_count * 0.8)
         automation = min(10.0, 2.5 + (2.0 if category in {"business", "payments", "logistics", "jobs", "government"} else 0) + len(members) * 0.35)
         monetization = min(10.0, 2.0 + (2.5 if category in {"business", "payments", "logistics", "housing", "jobs", "repairs"} else 0) + len(members) * 0.35)
+        source_diversity = min(10.0, 2.0 + source_count * 1.5)
+        verification = min(10.0, avg_quality * 0.55 + source_diversity * 0.45)
+        existing_solution_terms = ["app", "platform", "website", "marketplace", "service", "already", "available", "directory"]
+        existing_signal = min(10.0, sum(1 for o in members if any(term in o.text.lower() for term in existing_solution_terms)) / max(1, len(members)) * 10.0)
+        confidence = "high" if verification >= 7.5 and source_count >= 3 else "medium" if verification >= 5.5 or source_count >= 2 else "low"
         cluster_id = sha256("|".join(sorted(o.id for o in members)).encode()).hexdigest()[:12]
         clusters.append(Cluster(
             id=cluster_id, title=representative[0][:120], category=category,
@@ -128,10 +163,14 @@ def cluster(observations: list[Observation]) -> list[Cluster]:
             evidence_score=round(evidence, 2), pain_score=round(pain, 2),
             recurrence_score=round(recurrence, 2), information_gap_score=round(gap, 2),
             automation_score=round(automation, 2), monetization_signal_score=round(monetization, 2),
-            representative_problems=representative, sources=source_names,
+            source_diversity_score=round(source_diversity, 2), verification_score=round(verification, 2),
+            evidence_confidence=confidence, existing_solution_signal=round(existing_signal, 2),
+            representative_problems=representative, sources=source_names, source_domains=source_domains,
             notes=[
                 f"Common signals: {', '.join(p for p, _ in phrases.most_common(5))}",
-                f"Independent source types: {source_count}; unique observations: {unique_urls}",
+                f"Independent source domains: {source_count}; unique observations: {unique_urls}",
+                f"Average source/evidence quality: {avg_quality:.1f}/10; verification confidence: {confidence}",
+                f"Existing-solution language signal: {existing_signal:.1f}/10 (not a market-size estimate)",
             ],
         ))
     return clusters
