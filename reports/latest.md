@@ -1,8 +1,8 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-16T17:08:06.221221+00:00`
+Generated: `2026-09-16T21:26:17.566365+00:00`
 Research status: **ACTIVE**
-Unique observations collected: **231**
+Unique observations collected: **259**
 
 > Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.
 > A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.
@@ -90,7 +90,7 @@ Unique observations collected: **231**
 
 ---
 
-### 4. How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
+### 4. How Nigerians Absorb the Cost of Delayed Digital Payments - humanglemedia.com
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -105,8 +105,8 @@ Unique observations collected: **231**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
 - How Nigerians Absorb the Cost of Delayed Digital Payments - humanglemedia.com
+- How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
 
 **Source domains:** news.google.com
 - Common signals: delayed, delay
@@ -116,7 +116,33 @@ Unique observations collected: **231**
 
 ---
 
-### 5. Customers' complaints against banks rise as CBN refunds billions of naira - legit.ng
+### 5. Match Thread: AC Milan vs. Benfica | UEFA Europa League
+**Category:** `repairs`  
+**Observations:** 2  
+**Evidence:** 4.52/10  
+**Pain signal:** 5.0/10  
+**Recurrence:** 4.2/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 3.2/10  
+**Monetization signal:** 5.2/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.85/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
+- Match Thread: AC Milan vs. Benfica | UEFA Europa League
+- Match Thread: AC Milan 0-2 Benfica | UEFA Europa League
+
+**Source domains:** reddit.com
+- Common signals: can't get, difficult
+- Independent source domains: 1; unique observations: 2
+- Average source/evidence quality: 4.1/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 6. Customers' complaints against banks rise as CBN refunds billions of naira - Legit News
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -131,8 +157,8 @@ Unique observations collected: **231**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- Customers' complaints against banks rise as CBN refunds billions of naira - legit.ng
 - Customers' complaints against banks rise as CBN refunds billions of naira - Legit News
+- Customers' complaints against banks rise as CBN refunds billions of naira - legit.ng
 
 **Source domains:** news.google.com
 - Common signals: complain, complaint
@@ -142,7 +168,7 @@ Unique observations collected: **231**
 
 ---
 
-### 6. Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - The Washington Post
+### 7. Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - The Washington Post
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.38/10  
@@ -168,7 +194,7 @@ Unique observations collected: **231**
 
 ---
 
-### 7. Nigeria’s electronic payments boom leaves some at risk for fraud - therecord.media
+### 8. Nigeria’s electronic payments boom leaves some at risk for fraud - The Record from Recorded Future News
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.38/10  
@@ -183,8 +209,8 @@ Unique observations collected: **231**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- Nigeria’s electronic payments boom leaves some at risk for fraud - therecord.media
 - Nigeria’s electronic payments boom leaves some at risk for fraud - The Record from Recorded Future News
+- Nigeria’s electronic payments boom leaves some at risk for fraud - therecord.media
 
 **Source domains:** news.google.com
 - Common signals: fraud
@@ -194,7 +220,7 @@ Unique observations collected: **231**
 
 ---
 
-### 8. NIS Warns Against Fraudulent Platforms For Passport Application, Payments - - TVC News
+### 9. NIS Warns Against Fraudulent Platforms For Passport Application, Payments - - TVC News
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.38/10  
@@ -220,7 +246,7 @@ Unique observations collected: **231**
 
 ---
 
-### 9. Kenya telecom complaints shift from poor network to fraud and data billing - TechCabal
+### 10. Kenya telecom complaints shift from poor network to fraud and data billing - TechCabal
 **Category:** `connectivity`  
 **Observations:** 1  
 **Evidence:** 3.81/10  
@@ -245,7 +271,7 @@ Unique observations collected: **231**
 
 ---
 
-### 10. Social Engineering in Action: How Fraudsters Exploit Trust with Fake Refund Schemes in the Middle East - group-ib.com
+### 11. Social Engineering in Action: How Fraudsters Exploit Trust with Fake Refund Schemes in the Middle East - Group-IB
 **Category:** `security`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -260,8 +286,8 @@ Unique observations collected: **231**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- Social Engineering in Action: How Fraudsters Exploit Trust with Fake Refund Schemes in the Middle East - group-ib.com
 - Social Engineering in Action: How Fraudsters Exploit Trust with Fake Refund Schemes in the Middle East - Group-IB
+- Social Engineering in Action: How Fraudsters Exploit Trust with Fake Refund Schemes in the Middle East - group-ib.com
 
 **Source domains:** news.google.com
 - Common signals: fraud, fake
@@ -271,7 +297,7 @@ Unique observations collected: **231**
 
 ---
 
-### 11. NIS debunks fraud claims, warns public over fake passport payment channels - The Guardian Nigeria News
+### 12. NIS debunks fraud claims, warns public over fake passport payment channels - The Guardian Nigeria News
 **Category:** `security`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -297,7 +323,7 @@ Unique observations collected: **231**
 
 ---
 
-### 12. Scammers back with fake army face, target landlords - The Times of India
+### 13. Scammers back with fake army face, target landlords - The Times of India
 **Category:** `repairs`  
 **Observations:** 1  
 **Evidence:** 3.72/10  
@@ -322,7 +348,7 @@ Unique observations collected: **231**
 
 ---
 
-### 13. 13,117 Fraud Linked BVNs: What CBN’s recent directive means for Access Bank, Zenith, UBA Customers - within nigeria
+### 14. How the Massachusetts Attorney General Fought for Investment Fraud Victims - TRM Labs
 **Category:** `repairs`  
 **Observations:** 2  
 **Evidence:** 4.38/10  
@@ -337,34 +363,8 @@ Unique observations collected: **231**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- 13,117 Fraud Linked BVNs: What CBN’s recent directive means for Access Bank, Zenith, UBA Customers - within nigeria
-- 13,117 Fraud Linked BVNs: What CBN’s recent directive means for Access Bank, Zenith, UBA Customers - withinnigeria.com
-
-**Source domains:** news.google.com
-- Common signals: fraud
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.2/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 14. How the Massachusetts Attorney General Fought for Investment Fraud Victims - trmlabs.com
-**Category:** `repairs`  
-**Observations:** 2  
-**Evidence:** 4.38/10  
-**Pain signal:** 3.0/10  
-**Recurrence:** 4.2/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 3.2/10  
-**Monetization signal:** 5.2/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.34/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- How the Massachusetts Attorney General Fought for Investment Fraud Victims - trmlabs.com
 - How the Massachusetts Attorney General Fought for Investment Fraud Victims - TRM Labs
+- How the Massachusetts Attorney General Fought for Investment Fraud Victims - trmlabs.com
 
 **Source domains:** news.google.com
 - Common signals: fraud
@@ -400,7 +400,59 @@ Unique observations collected: **231**
 
 ---
 
-### 16. How failed transactions, unreversed funds frustrate bank customers - Punch Newspapers
+### 16. 13,117 Fraud Linked BVNs: What CBN’s recent directive means for Access Bank, Zenith, UBA Customers - within nigeria
+**Category:** `repairs`  
+**Observations:** 2  
+**Evidence:** 4.38/10  
+**Pain signal:** 3.0/10  
+**Recurrence:** 4.2/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 3.2/10  
+**Monetization signal:** 5.2/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.34/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
+- 13,117 Fraud Linked BVNs: What CBN’s recent directive means for Access Bank, Zenith, UBA Customers - within nigeria
+- 13,117 Fraud Linked BVNs: What CBN’s recent directive means for Access Bank, Zenith, UBA Customers - withinnigeria.com
+
+**Source domains:** news.google.com
+- Common signals: fraud
+- Independent source domains: 1; unique observations: 1
+- Average source/evidence quality: 3.2/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 17. Nigeria plans mass telecom overhaul in 26 years as rising data costs, poor network frustrate millions - africa.businessi
+**Category:** `connectivity`  
+**Observations:** 2  
+**Evidence:** 4.42/10  
+**Pain signal:** 5.0/10  
+**Recurrence:** 4.2/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 3.2/10  
+**Monetization signal:** 2.7/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.49/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
+- Nigeria plans mass telecom overhaul in 26 years as rising data costs, poor network frustrate millions - africa.businessinsider.com
+- Nigeria plans mass telecom overhaul in 26 years as rising data costs, poor network frustrate millions - Business Insider Africa
+
+**Source domains:** news.google.com
+- Common signals: poor network, frustrat
+- Independent source domains: 1; unique observations: 1
+- Average source/evidence quality: 3.5/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 18. How failed transactions, unreversed funds frustrate bank customers - Punch Newspapers
 **Category:** `repairs`  
 **Observations:** 1  
 **Evidence:** 3.72/10  
@@ -425,7 +477,34 @@ Unique observations collected: **231**
 
 ---
 
-### 17. CBN Refunds N19.12bn, $329.3m To Customers, Flags 13,117 Fraud-linked BVNs - LEADERSHIP Newspapers
+### 19. Adeyanju Calls For State Of Emergency On Fake Drug - independent.ng
+**Category:** `healthcare`  
+**Observations:** 3  
+**Evidence:** 5.08/10  
+**Pain signal:** 2.5/10  
+**Recurrence:** 5.3/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 3.55/10  
+**Monetization signal:** 3.05/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.34/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
+- Adeyanju Calls For State Of Emergency On Fake Drug - independent.ng
+- Adeyanju Calls For State Of Emergency On Fake Drug - Independent Newspaper Nigeria
+- Adeyanju seeks state of emergency on fake drug - The Sun Nigeria
+
+**Source domains:** news.google.com
+- Common signals: fake
+- Independent source domains: 1; unique observations: 2
+- Average source/evidence quality: 3.2/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 20. CBN Refunds N19.12bn, $329.3m To Customers, Flags 13,117 Fraud-linked BVNs - LEADERSHIP Newspapers
 **Category:** `payments`  
 **Observations:** 1  
 **Evidence:** 3.68/10  
@@ -441,81 +520,6 @@ Unique observations collected: **231**
 
 **Representative evidence:**
 - CBN Refunds N19.12bn, $329.3m To Customers, Flags 13,117 Fraud-linked BVNs - LEADERSHIP Newspapers
-
-**Source domains:** news.google.com
-- Common signals: fraud
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.2/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 18. NIS denies passport payment fraud allegations - Tribune Online
-**Category:** `payments`  
-**Observations:** 1  
-**Evidence:** 3.68/10  
-**Pain signal:** 3.0/10  
-**Recurrence:** 3.1/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 4.85/10  
-**Monetization signal:** 4.85/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.34/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- NIS denies passport payment fraud allegations - Tribune Online
-
-**Source domains:** news.google.com
-- Common signals: fraud
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.2/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 19. NIS Denies Third-Party Role in Passport Payments, Warns Public Against Fraud - PRNigeria News
-**Category:** `payments`  
-**Observations:** 1  
-**Evidence:** 3.68/10  
-**Pain signal:** 3.0/10  
-**Recurrence:** 3.1/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 4.85/10  
-**Monetization signal:** 4.85/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.34/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- NIS Denies Third-Party Role in Passport Payments, Warns Public Against Fraud - PRNigeria News
-
-**Source domains:** news.google.com
-- Common signals: fraud
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.2/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 20. ASUU fresh strike threat has exposed fraud in subsidy removal – Atiku - Daily Trust
-**Category:** `payments`  
-**Observations:** 1  
-**Evidence:** 3.68/10  
-**Pain signal:** 3.0/10  
-**Recurrence:** 3.1/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 4.85/10  
-**Monetization signal:** 4.85/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.34/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- ASUU fresh strike threat has exposed fraud in subsidy removal – Atiku - Daily Trust
 
 **Source domains:** news.google.com
 - Common signals: fraud
