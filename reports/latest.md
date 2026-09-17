@@ -1,8 +1,8 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-17T05:01:06.105127+00:00`
+Generated: `2026-09-17T11:51:52.535302+00:00`
 Research status: **ACTIVE**
-Unique observations collected: **281**
+Unique observations collected: **315**
 
 > Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.
 > A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.
@@ -25,10 +25,10 @@ Unique observations collected: **281**
 
 **Representative evidence:**
 - TCN announces planned power outage in Oyo - Daily Post Nigeria
-- NISO announces planned power outage in Kano, Jigawa, Katsina - gazettengr.com
+- NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
+- AEDC Announces Power Outage In Abuja, Nasarawa Over TCN Fault - LEADERSHIP Newspapers
 - AEDC announces fresh power outage in Abuja - Daily Post Nigeria
-- TCN announces six-hour power outage in Lokoja, environs - gazettengr.com
-- Planned power outage to plunge northeastern cities into two days of darkness - Daily Post Nigeria
+- TCN announces six-hour power outage in Lokoja, environs - Peoples Gazette Nigeria
 
 **Source domains:** news.google.com
 - Common signals: power outage
@@ -38,7 +38,33 @@ Unique observations collected: **281**
 
 ---
 
-### 2. Lagos beach break becoming too expensive for locals - africanews.com
+### 2. I’m honestly tired of applying into the void.
+**Category:** `jobs`  
+**Observations:** 2  
+**Evidence:** 4.52/10  
+**Pain signal:** 4.0/10  
+**Recurrence:** 4.2/10  
+**Information gap:** 4.0/10  
+**Automation signal:** 5.2/10  
+**Monetization signal:** 5.2/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.85/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 10.0/10
+
+**Representative evidence:**
+- I’m honestly tired of applying into the void.
+- I’m honestly tired of applying into the void.
+
+**Source domains:** reddit.com
+- Common signals: frustrat, looking for
+- Independent source domains: 1; unique observations: 2
+- Average source/evidence quality: 4.1/10; verification confidence: low
+- Existing-solution language signal: 10.0/10 (not a market-size estimate)
+
+---
+
+### 3. Lagos beach break becoming too expensive for locals - africanews.com
 **Category:** `repairs`  
 **Observations:** 3  
 **Evidence:** 5.12/10  
@@ -65,7 +91,7 @@ Unique observations collected: **281**
 
 ---
 
-### 3. Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week
+### 4. Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week
 **Category:** `payments`  
 **Observations:** 1  
 **Evidence:** 3.77/10  
@@ -90,7 +116,7 @@ Unique observations collected: **281**
 
 ---
 
-### 4. Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - leadership.ng
+### 5. Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - LEADERSHIP Newspapers
 **Category:** `security`  
 **Observations:** 3  
 **Evidence:** 5.12/10  
@@ -105,9 +131,9 @@ Unique observations collected: **281**
 **Existing-solution language:** 6.67/10
 
 **Representative evidence:**
+- Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - LEADERSHIP Newspapers
 - Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - leadership.ng
 - NIS debunks fraud claims, warns public over fake passport payment channels - The Guardian Nigeria News
-- Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - LEADERSHIP Newspapers
 
 **Source domains:** news.google.com
 - Common signals: fraud, fake
@@ -117,7 +143,7 @@ Unique observations collected: **281**
 
 ---
 
-### 5. How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
+### 6. How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -143,7 +169,7 @@ Unique observations collected: **281**
 
 ---
 
-### 6. Match Thread: AC Milan 0-2 Benfica | UEFA Europa League
+### 7. Match Thread: AC Milan 0-2 Benfica | UEFA Europa League
 **Category:** `repairs`  
 **Observations:** 2  
 **Evidence:** 4.52/10  
@@ -169,7 +195,7 @@ Unique observations collected: **281**
 
 ---
 
-### 7. NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - businesspost.ng
+### 8. NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - Business Post Nigeria
 **Category:** `repairs`  
 **Observations:** 3  
 **Evidence:** 5.08/10  
@@ -184,40 +210,15 @@ Unique observations collected: **281**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - businesspost.ng
-- NAFDAC alerts Nigerians over suspected counterfeit toothpaste - Daily Post Nigeria
 - NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - Business Post Nigeria
+- NAFDAC alerts Nigerians over suspected counterfeit toothpaste - Daily Post Nigeria
+- NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - businesspost.ng
 
 **Source domains:** news.google.com
 - Common signals: counterfeit
 - Independent source domains: 1; unique observations: 2
 - Average source/evidence quality: 3.2/10; verification confidence: low
 - Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 8. I’m honestly tired of applying into the void.
-**Category:** `jobs`  
-**Observations:** 1  
-**Evidence:** 3.82/10  
-**Pain signal:** 4.0/10  
-**Recurrence:** 3.1/10  
-**Information gap:** 4.0/10  
-**Automation signal:** 4.85/10  
-**Monetization signal:** 4.85/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.85/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 10.0/10
-
-**Representative evidence:**
-- I’m honestly tired of applying into the void.
-
-**Source domains:** reddit.com
-- Common signals: frustrat, looking for
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 4.1/10; verification confidence: low
-- Existing-solution language signal: 10.0/10 (not a market-size estimate)
 
 ---
 
@@ -299,7 +300,7 @@ Unique observations collected: **281**
 
 ---
 
-### 12. CBN Refunds N19.12bn, $329.3m To Customers, Flags 13,117 Fraud-linked BVNs - leadership.ng
+### 12. CBN Refunds N19.12bn, $329.3m To Customers, Flags 13,117 Fraud-linked BVNs - LEADERSHIP Newspapers
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.38/10  
@@ -314,8 +315,8 @@ Unique observations collected: **281**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- CBN Refunds N19.12bn, $329.3m To Customers, Flags 13,117 Fraud-linked BVNs - leadership.ng
 - CBN Refunds N19.12bn, $329.3m To Customers, Flags 13,117 Fraud-linked BVNs - LEADERSHIP Newspapers
+- CBN Refunds N19.12bn, $329.3m To Customers, Flags 13,117 Fraud-linked BVNs - leadership.ng
 
 **Source domains:** news.google.com
 - Common signals: fraud
@@ -376,7 +377,33 @@ Unique observations collected: **281**
 
 ---
 
-### 15. Social Engineering in Action: How Fraudsters Exploit Trust with Fake Refund Schemes in the Middle East - Group-IB
+### 15. Visa categorised wrongly as FLR(FP) instead of (M)
+**Category:** `repairs`  
+**Observations:** 2  
+**Evidence:** 4.48/10  
+**Pain signal:** 2.0/10  
+**Recurrence:** 4.2/10  
+**Information gap:** 4.0/10  
+**Automation signal:** 3.2/10  
+**Monetization signal:** 5.2/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.69/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 10.0/10
+
+**Representative evidence:**
+- Visa categorised wrongly as FLR(FP) instead of (M)
+- Visa categorised wrongly as FLR(FP) instead of (M)
+
+**Source domains:** reddit.com
+- Common signals: how do i
+- Independent source domains: 1; unique observations: 2
+- Average source/evidence quality: 3.9/10; verification confidence: low
+- Existing-solution language signal: 10.0/10 (not a market-size estimate)
+
+---
+
+### 16. Social Engineering in Action: How Fraudsters Exploit Trust with Fake Refund Schemes in the Middle East - Group-IB
 **Category:** `security`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -402,7 +429,7 @@ Unique observations collected: **281**
 
 ---
 
-### 16. Scammers back with fake army face, target landlords - The Times of India
+### 17. Scammers back with fake army face, target landlords - The Times of India
 **Category:** `repairs`  
 **Observations:** 1  
 **Evidence:** 3.72/10  
@@ -427,7 +454,57 @@ Unique observations collected: **281**
 
 ---
 
-### 17. FULL LIST: Names of Nigerian lawyers disbarred in U.S. for fraud, theft, corruption - gazettengr.com
+### 18. Fake products, real dangers: The hidden risks of counterfeit goods - FactCheckHub
+**Category:** `repairs`  
+**Observations:** 1  
+**Evidence:** 3.72/10  
+**Pain signal:** 5.5/10  
+**Recurrence:** 3.1/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 2.85/10  
+**Monetization signal:** 4.85/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.49/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
+- Fake products, real dangers: The hidden risks of counterfeit goods - FactCheckHub
+
+**Source domains:** news.google.com
+- Common signals: fake, counterfeit
+- Independent source domains: 1; unique observations: 1
+- Average source/evidence quality: 3.5/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 19. Looking for sources to learn Nigerian Pidgin. Any recommendations?
+**Category:** `repairs`  
+**Observations:** 1  
+**Evidence:** 3.82/10  
+**Pain signal:** 2.5/10  
+**Recurrence:** 3.1/10  
+**Information gap:** 5.2/10  
+**Automation signal:** 2.85/10  
+**Monetization signal:** 4.85/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.85/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 10.0/10
+
+**Representative evidence:**
+- Looking for sources to learn Nigerian Pidgin. Any recommendations?
+
+**Source domains:** reddit.com
+- Common signals: looking for, recommend
+- Independent source domains: 1; unique observations: 1
+- Average source/evidence quality: 4.1/10; verification confidence: low
+- Existing-solution language signal: 10.0/10 (not a market-size estimate)
+
+---
+
+### 20. FULL LIST: Names of Nigerian lawyers disbarred in U.S. for fraud, theft, corruption - Peoples Gazette Nigeria
 **Category:** `security`  
 **Observations:** 3  
 **Evidence:** 5.08/10  
@@ -442,92 +519,14 @@ Unique observations collected: **281**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- FULL LIST: Names of Nigerian lawyers disbarred in U.S. for fraud, theft, corruption - gazettengr.com
 - FULL LIST: Names of Nigerian lawyers disbarred in U.S. for fraud, theft, corruption - Peoples Gazette Nigeria
+- FULL LIST: Names of Nigerian lawyers disbarred in U.S. for fraud, theft, corruption - gazettengr.com
 - FULL LIST: U.S.-based Nigerian lawyers suspended for mishandling clients’ money, fraud - Peoples Gazette Nigeria
 
 **Source domains:** news.google.com
 - Common signals: fraud
 - Independent source domains: 1; unique observations: 2
 - Average source/evidence quality: 3.2/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 18. 13,117 Fraud Linked BVNs: What CBN’s recent directive means for Access Bank, Zenith, UBA Customers - within nigeria
-**Category:** `repairs`  
-**Observations:** 2  
-**Evidence:** 4.38/10  
-**Pain signal:** 3.0/10  
-**Recurrence:** 4.2/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 3.2/10  
-**Monetization signal:** 5.2/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.34/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- 13,117 Fraud Linked BVNs: What CBN’s recent directive means for Access Bank, Zenith, UBA Customers - within nigeria
-- 13,117 Fraud Linked BVNs: What CBN’s recent directive means for Access Bank, Zenith, UBA Customers - withinnigeria.com
-
-**Source domains:** news.google.com
-- Common signals: fraud
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.2/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 19. How the Massachusetts Attorney General Fought for Investment Fraud Victims - TRM Labs
-**Category:** `repairs`  
-**Observations:** 2  
-**Evidence:** 4.38/10  
-**Pain signal:** 3.0/10  
-**Recurrence:** 4.2/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 3.2/10  
-**Monetization signal:** 5.2/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.34/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- How the Massachusetts Attorney General Fought for Investment Fraud Victims - TRM Labs
-- How the Massachusetts Attorney General Fought for Investment Fraud Victims - trmlabs.com
-
-**Source domains:** news.google.com
-- Common signals: fraud
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.2/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 20. Nigeria plans mass telecom overhaul in 26 years as rising data costs, poor network frustrate millions - africa.businessi
-**Category:** `connectivity`  
-**Observations:** 2  
-**Evidence:** 4.42/10  
-**Pain signal:** 5.0/10  
-**Recurrence:** 4.2/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 3.2/10  
-**Monetization signal:** 2.7/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.49/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- Nigeria plans mass telecom overhaul in 26 years as rising data costs, poor network frustrate millions - africa.businessinsider.com
-- Nigeria plans mass telecom overhaul in 26 years as rising data costs, poor network frustrate millions - Business Insider Africa
-
-**Source domains:** news.google.com
-- Common signals: poor network, frustrat
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.5/10; verification confidence: low
 - Existing-solution language signal: 0.0/10 (not a market-size estimate)
 
 ---
