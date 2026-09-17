@@ -1,8 +1,8 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-17T17:08:18.896675+00:00`
+Generated: `2026-09-17T21:30:21.925545+00:00`
 Research status: **ACTIVE**
-Unique observations collected: **339**
+Unique observations collected: **354**
 
 > Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.
 > A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.
@@ -80,8 +80,8 @@ Unique observations collected: **339**
 
 **Representative evidence:**
 - Lagos beach break becoming too expensive for locals - africanews.com
-- A beach break in Nigeria's Lagos is becoming too expensive for many - The Washington Post
 - A beach break in Nigeria's Lagos is becoming too expensive for many - washingtonpost.com
+- A beach break in Nigeria's Lagos is becoming too expensive for many - The Washington Post
 
 **Source domains:** news.google.com
 - Common signals: too expensive, expensive
@@ -91,7 +91,7 @@ Unique observations collected: **339**
 
 ---
 
-### 4. Kenya telecom complaints shift from poor network to fraud and data billing - techcabal.com
+### 4. Kenya telecom complaints shift from poor network to fraud and data billing - TechCabal
 **Category:** `connectivity`  
 **Observations:** 2  
 **Evidence:** 4.51/10  
@@ -106,8 +106,8 @@ Unique observations collected: **339**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- Kenya telecom complaints shift from poor network to fraud and data billing - techcabal.com
 - Kenya telecom complaints shift from poor network to fraud and data billing - TechCabal
+- Kenya telecom complaints shift from poor network to fraud and data billing - techcabal.com
 
 **Source domains:** news.google.com
 - Common signals: fraud, poor network, complain, complaint
@@ -299,8 +299,8 @@ Unique observations collected: **339**
 
 ---
 
-### 12. Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - The Washington Post
-**Category:** `payments`  
+### 12. Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - bitdefender.com
+**Category:** `jobs`  
 **Observations:** 2  
 **Evidence:** 4.38/10  
 **Pain signal:** 3.0/10  
@@ -314,8 +314,8 @@ Unique observations collected: **339**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - The Washington Post
-- Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - washingtonpost.com
+- Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - bitdefender.com
+- Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - Bitdefender
 
 **Source domains:** news.google.com
 - Common signals: scam
@@ -325,7 +325,7 @@ Unique observations collected: **339**
 
 ---
 
-### 13. Nigeria’s electronic payments boom leaves some at risk for fraud - The Record from Recorded Future News
+### 13. Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - washingtonpost.com
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.38/10  
@@ -340,8 +340,34 @@ Unique observations collected: **339**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- Nigeria’s electronic payments boom leaves some at risk for fraud - The Record from Recorded Future News
+- Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - washingtonpost.com
+- Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - The Washington Post
+
+**Source domains:** news.google.com
+- Common signals: scam
+- Independent source domains: 1; unique observations: 1
+- Average source/evidence quality: 3.2/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 14. Nigeria’s electronic payments boom leaves some at risk for fraud - therecord.media
+**Category:** `payments`  
+**Observations:** 2  
+**Evidence:** 4.38/10  
+**Pain signal:** 3.0/10  
+**Recurrence:** 4.2/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 5.2/10  
+**Monetization signal:** 5.2/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.34/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
 - Nigeria’s electronic payments boom leaves some at risk for fraud - therecord.media
+- Nigeria’s electronic payments boom leaves some at risk for fraud - The Record from Recorded Future News
 
 **Source domains:** news.google.com
 - Common signals: fraud
@@ -351,7 +377,7 @@ Unique observations collected: **339**
 
 ---
 
-### 14. CBN Refunds N19.12bn, $329.3m To Customers, Flags 13,117 Fraud-linked BVNs - LEADERSHIP Newspapers
+### 15. CBN Refunds N19.12bn, $329.3m To Customers, Flags 13,117 Fraud-linked BVNs - LEADERSHIP Newspapers
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.38/10  
@@ -377,7 +403,7 @@ Unique observations collected: **339**
 
 ---
 
-### 15. NIS Warns Against Fraudulent Platforms For Passport Application, Payments - - TVC News
+### 16. NIS Warns Against Fraudulent Platforms For Passport Application, Payments - - TVC News
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.38/10  
@@ -403,7 +429,60 @@ Unique observations collected: **339**
 
 ---
 
-### 16. How Nigerian Banks Can Fix Transfer Failures and Eliminate Reversals - tekedia.com
+### 17. Speedaf Logistics’ ‘Horrible’ Delivery Service Frustrates Nigerians by the Hundreds - fij.ng
+**Category:** `logistics`  
+**Observations:** 2  
+**Evidence:** 4.38/10  
+**Pain signal:** 2.5/10  
+**Recurrence:** 4.2/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 5.2/10  
+**Monetization signal:** 5.2/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.34/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 10.0/10
+
+**Representative evidence:**
+- Speedaf Logistics’ ‘Horrible’ Delivery Service Frustrates Nigerians by the Hundreds - fij.ng
+- Speedaf Logistics’ ‘Horrible’ Delivery Service Frustrates Nigerians by the Hundreds - FIJ NG
+
+**Source domains:** news.google.com
+- Common signals: frustrat
+- Independent source domains: 1; unique observations: 1
+- Average source/evidence quality: 3.2/10; verification confidence: low
+- Existing-solution language signal: 10.0/10 (not a market-size estimate)
+
+---
+
+### 18. EMS Nigeria Can’t Find ‘Expensive’ Package Sent to the US in December - fij.ng
+**Category:** `repairs`  
+**Observations:** 3  
+**Evidence:** 5.08/10  
+**Pain signal:** 1.5/10  
+**Recurrence:** 5.3/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 3.55/10  
+**Monetization signal:** 5.55/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.34/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
+- EMS Nigeria Can’t Find ‘Expensive’ Package Sent to the US in December - fij.ng
+- EMS Nigeria Can’t Find ‘Expensive’ Package Sent to the US in December - FIJ NG
+- After FIJ’s Story, EMS Nigeria Delivers Expensive Package Held for 2 Months - FIJ NG
+
+**Source domains:** news.google.com
+- Common signals: expensive
+- Independent source domains: 1; unique observations: 2
+- Average source/evidence quality: 3.2/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 19. How Nigerian Banks Can Fix Transfer Failures and Eliminate Reversals - Tekedia
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.38/10  
@@ -418,8 +497,8 @@ Unique observations collected: **339**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- How Nigerian Banks Can Fix Transfer Failures and Eliminate Reversals - tekedia.com
 - How Nigerian Banks Can Fix Transfer Failures and Eliminate Reversals - Tekedia
+- How Nigerian Banks Can Fix Transfer Failures and Eliminate Reversals - tekedia.com
 
 **Source domains:** news.google.com
 - Common signals: reversal
@@ -429,7 +508,7 @@ Unique observations collected: **339**
 
 ---
 
-### 17. Visa categorised wrongly as FLR(FP) instead of (M)
+### 20. Visa categorised wrongly as FLR(FP) instead of (M)
 **Category:** `repairs`  
 **Observations:** 2  
 **Evidence:** 4.48/10  
@@ -452,82 +531,5 @@ Unique observations collected: **339**
 - Independent source domains: 1; unique observations: 2
 - Average source/evidence quality: 3.9/10; verification confidence: low
 - Existing-solution language signal: 10.0/10 (not a market-size estimate)
-
----
-
-### 18. Social Engineering in Action: How Fraudsters Exploit Trust with Fake Refund Schemes in the Middle East - Group-IB
-**Category:** `security`  
-**Observations:** 2  
-**Evidence:** 4.42/10  
-**Pain signal:** 5.5/10  
-**Recurrence:** 4.2/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 3.2/10  
-**Monetization signal:** 2.7/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.49/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- Social Engineering in Action: How Fraudsters Exploit Trust with Fake Refund Schemes in the Middle East - Group-IB
-- Social Engineering in Action: How Fraudsters Exploit Trust with Fake Refund Schemes in the Middle East - group-ib.com
-
-**Source domains:** news.google.com
-- Common signals: fraud, fake
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.5/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 19. Analysis: Coordinator Of ‘Fake’ Made In Nigeria Agency Shares Appointment Letter ‘Issued By SGF Office’ #trusttvnews - i
-**Category:** `government`  
-**Observations:** 2  
-**Evidence:** 4.42/10  
-**Pain signal:** 3.5/10  
-**Recurrence:** 4.2/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 5.2/10  
-**Monetization signal:** 2.7/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.49/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 10.0/10
-
-**Representative evidence:**
-- Analysis: Coordinator Of ‘Fake’ Made In Nigeria Agency Shares Appointment Letter ‘Issued By SGF Office’ #trusttvnews - instagram.com
-- Coordinator of 'fake' Made in Nigeria agency shares appointment letter 'issued by SGF office' - TheCable
-
-**Source domains:** news.google.com
-- Common signals: fake, issue
-- Independent source domains: 1; unique observations: 2
-- Average source/evidence quality: 3.5/10; verification confidence: low
-- Existing-solution language signal: 10.0/10 (not a market-size estimate)
-
----
-
-### 20. Scammers back with fake army face, target landlords - The Times of India
-**Category:** `repairs`  
-**Observations:** 1  
-**Evidence:** 3.72/10  
-**Pain signal:** 5.5/10  
-**Recurrence:** 3.1/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 2.85/10  
-**Monetization signal:** 4.85/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.49/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- Scammers back with fake army face, target landlords - The Times of India
-
-**Source domains:** news.google.com
-- Common signals: scam, fake
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.5/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
 
 ---
