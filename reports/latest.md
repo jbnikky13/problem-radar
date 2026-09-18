@@ -1,8 +1,8 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-18T04:53:23.754681+00:00`
+Generated: `2026-09-18T11:26:22.132991+00:00`
 Research status: **ACTIVE**
-Unique observations collected: **364**
+Unique observations collected: **375**
 
 > Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.
 > A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.
@@ -25,10 +25,10 @@ Unique observations collected: **364**
 
 **Representative evidence:**
 - TCN announces planned power outage in Oyo - Daily Post Nigeria
-- TCN announces six-hour power outage in Lokoja, environs - Peoples Gazette Nigeria
+- NISO announces planned power outage in Kano, Jigawa, Katsina - gazettengr.com
+- AEDC Announces Power Outage In Abuja, Nasarawa Over TCN Fault - LEADERSHIP Newspapers
 - TCN announces 32-hour power outage across seven northeastern cities - The Guardian Nigeria News
 - AEDC announces fresh power outage in Abuja - Daily Post Nigeria
-- Planned power outage to plunge northeastern cities into two days of darkness - Daily Post Nigeria
 
 **Source domains:** news.google.com
 - Common signals: power outage
@@ -196,7 +196,7 @@ Unique observations collected: **364**
 
 ---
 
-### 8. Fake products, real dangers: The hidden risks of counterfeit goods - factcheckhub.com
+### 8. Fake products, real dangers: The hidden risks of counterfeit goods - FactCheckHub
 **Category:** `repairs`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -211,8 +211,8 @@ Unique observations collected: **364**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- Fake products, real dangers: The hidden risks of counterfeit goods - factcheckhub.com
 - Fake products, real dangers: The hidden risks of counterfeit goods - FactCheckHub
+- Fake products, real dangers: The hidden risks of counterfeit goods - factcheckhub.com
 
 **Source domains:** news.google.com
 - Common signals: fake, counterfeit
@@ -289,8 +289,8 @@ Unique observations collected: **364**
 
 **Representative evidence:**
 - NAFDAC alerts Nigerians over suspected counterfeit toothpaste - Daily Post Nigeria
-- NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - businesspost.ng
 - NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - Business Post Nigeria
+- NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - businesspost.ng
 
 **Source domains:** news.google.com
 - Common signals: counterfeit
