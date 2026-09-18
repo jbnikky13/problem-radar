@@ -1,34 +1,34 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-18T16:32:36.810971+00:00`
+Generated: `2026-09-18T21:00:49.260017+00:00`
 Research status: **ACTIVE**
-Unique observations collected: **424**
+Unique observations collected: **459**
 
 > Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.
 > A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.
 
 ## Top recurring problem clusters
 
-### 1. TCN announces planned power outage in Oyo - dailypost.ng
+### 1. NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
 **Category:** `power`  
-**Observations:** 12  
+**Observations:** 13  
 **Evidence:** 10.0/10  
 **Pain signal:** 2.5/10  
 **Recurrence:** 10.0/10  
 **Information gap:** 2.8/10  
-**Automation signal:** 6.7/10  
-**Monetization signal:** 6.2/10  
+**Automation signal:** 7.05/10  
+**Monetization signal:** 6.55/10  
 **Source diversity:** 3.5/10  
 **Verification:** 3.34/10  
 **Evidence confidence:** **low**  
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- TCN announces planned power outage in Oyo - dailypost.ng
 - NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
-- TCN announces 32-hour power outage across seven northeastern cities - The Guardian Nigeria News
-- AEDC announces fresh power outage in Abuja - dailypost.ng
+- TCN announces 32-hour power outage across seven northeastern cities - guardian.ng
+- AEDC announces fresh power outage in Abuja - Daily Post Nigeria
 - TCN announces six-hour power outage in Lokoja, environs - Peoples Gazette Nigeria
+- Planned power outage to plunge northeastern cities into two days of darkness - Daily Post Nigeria
 
 **Source domains:** news.google.com
 - Common signals: power outage
@@ -63,7 +63,32 @@ Unique observations collected: **424**
 
 ---
 
-### 3. Lagos beach break becoming too expensive for locals - africanews.com
+### 3. I just hit my first 6 digits savings last month, now Im in debt
+**Category:** `repairs`  
+**Observations:** 1  
+**Evidence:** 3.95/10  
+**Pain signal:** 10.0/10  
+**Recurrence:** 3.1/10  
+**Information gap:** 4.0/10  
+**Automation signal:** 2.85/10  
+**Monetization signal:** 4.85/10  
+**Source diversity:** 3.5/10  
+**Verification:** 4.31/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 10.0/10
+
+**Representative evidence:**
+- I just hit my first 6 digits savings last month, now Im in debt
+
+**Source domains:** reddit.com
+- Common signals: scam, fraud, complain, complaint, looking for
+- Independent source domains: 1; unique observations: 1
+- Average source/evidence quality: 5.0/10; verification confidence: low
+- Existing-solution language signal: 10.0/10 (not a market-size estimate)
+
+---
+
+### 4. Lagos beach break becoming too expensive for locals - africanews.com
 **Category:** `repairs`  
 **Observations:** 4  
 **Evidence:** 5.82/10  
@@ -91,7 +116,7 @@ Unique observations collected: **424**
 
 ---
 
-### 4. Looking for ASO / conversion advice: Good impressions growth (10.8K), but low installs (348) for my poetry app "Poesie"
+### 5. Looking for ASO / conversion advice: Good impressions growth (10.8K), but low installs (348) for my poetry app "Poesie"
 **Category:** `repairs`  
 **Observations:** 4  
 **Evidence:** 5.88/10  
@@ -119,7 +144,7 @@ Unique observations collected: **424**
 
 ---
 
-### 5. NAFDAC alerts Nigerians over suspected counterfeit toothpaste - dailypost.ng
+### 6. NAFDAC alerts Nigerians over suspected counterfeit toothpaste - Daily Post Nigeria
 **Category:** `repairs`  
 **Observations:** 4  
 **Evidence:** 5.78/10  
@@ -134,10 +159,10 @@ Unique observations collected: **424**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- NAFDAC alerts Nigerians over suspected counterfeit toothpaste - dailypost.ng
-- NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - Business Post Nigeria
 - NAFDAC alerts Nigerians over suspected counterfeit toothpaste - Daily Post Nigeria
 - NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - businesspost.ng
+- NAFDAC alerts Nigerians over suspected counterfeit toothpaste - dailypost.ng
+- NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - Business Post Nigeria
 
 **Source domains:** news.google.com
 - Common signals: counterfeit
@@ -147,7 +172,7 @@ Unique observations collected: **424**
 
 ---
 
-### 6. I’m honestly tired of applying into the void.
+### 7. I’m honestly tired of applying into the void.
 **Category:** `jobs`  
 **Observations:** 2  
 **Evidence:** 4.52/10  
@@ -173,7 +198,7 @@ Unique observations collected: **424**
 
 ---
 
-### 7. Kenya telecom complaints shift from poor network to fraud and data billing - techcabal.com
+### 8. Kenya telecom complaints shift from poor network to fraud and data billing - TechCabal
 **Category:** `connectivity`  
 **Observations:** 2  
 **Evidence:** 4.51/10  
@@ -188,8 +213,8 @@ Unique observations collected: **424**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- Kenya telecom complaints shift from poor network to fraud and data billing - techcabal.com
 - Kenya telecom complaints shift from poor network to fraud and data billing - TechCabal
+- Kenya telecom complaints shift from poor network to fraud and data billing - techcabal.com
 
 **Source domains:** news.google.com
 - Common signals: fraud, poor network, complain, complaint
@@ -199,7 +224,7 @@ Unique observations collected: **424**
 
 ---
 
-### 8. Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week
+### 9. Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week
 **Category:** `payments`  
 **Observations:** 1  
 **Evidence:** 3.77/10  
@@ -224,7 +249,7 @@ Unique observations collected: **424**
 
 ---
 
-### 9. Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - LEADERSHIP Newspapers
+### 10. Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - LEADERSHIP Newspapers
 **Category:** `security`  
 **Observations:** 3  
 **Evidence:** 5.12/10  
@@ -251,7 +276,7 @@ Unique observations collected: **424**
 
 ---
 
-### 10. How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
+### 11. How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -277,7 +302,7 @@ Unique observations collected: **424**
 
 ---
 
-### 11. Fake products, real dangers: The hidden risks of counterfeit goods - factcheckhub.com
+### 12. Fake products, real dangers: The hidden risks of counterfeit goods - FactCheckHub
 **Category:** `repairs`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -292,8 +317,8 @@ Unique observations collected: **424**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- Fake products, real dangers: The hidden risks of counterfeit goods - factcheckhub.com
 - Fake products, real dangers: The hidden risks of counterfeit goods - FactCheckHub
+- Fake products, real dangers: The hidden risks of counterfeit goods - factcheckhub.com
 
 **Source domains:** news.google.com
 - Common signals: fake, counterfeit
@@ -303,7 +328,7 @@ Unique observations collected: **424**
 
 ---
 
-### 12. Match Thread: AC Milan 0-2 Benfica | UEFA Europa League
+### 13. Match Thread: AC Milan 0-2 Benfica | UEFA Europa League
 **Category:** `repairs`  
 **Observations:** 2  
 **Evidence:** 4.52/10  
@@ -329,7 +354,7 @@ Unique observations collected: **424**
 
 ---
 
-### 13. On this “demarketing Nigeria” convo
+### 14. On this “demarketing Nigeria” convo
 **Category:** `repairs`  
 **Observations:** 1  
 **Evidence:** 3.91/10  
@@ -354,7 +379,33 @@ Unique observations collected: **424**
 
 ---
 
-### 14. Customers' complaints against banks rise as CBN refunds billions of naira - legit.ng
+### 15. There is a mental disorder affecting many Nigerians online called ‘Nigerianis Negativitatus Stupidus Syndrome’ (NNSS).
+**Category:** `repairs`  
+**Observations:** 2  
+**Evidence:** 4.56/10  
+**Pain signal:** 4.5/10  
+**Recurrence:** 4.2/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 3.2/10  
+**Monetization signal:** 5.2/10  
+**Source diversity:** 3.5/10  
+**Verification:** 4.01/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 10.0/10
+
+**Representative evidence:**
+- There is a mental disorder affecting many Nigerians online called ‘Nigerianis Negativitatus Stupidus Syndrome’ (NNSS).
+- There is a mental disorder affecting many Nigerians online called ‘Nigerianis Negativitatus Stupidus Syndrome’ (NNSS).
+
+**Source domains:** reddit.com
+- Common signals: complain, complaint, problem
+- Independent source domains: 1; unique observations: 2
+- Average source/evidence quality: 4.4/10; verification confidence: low
+- Existing-solution language signal: 10.0/10 (not a market-size estimate)
+
+---
+
+### 16. Customers' complaints against banks rise as CBN refunds billions of naira - Legit News
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -369,8 +420,8 @@ Unique observations collected: **424**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- Customers' complaints against banks rise as CBN refunds billions of naira - legit.ng
 - Customers' complaints against banks rise as CBN refunds billions of naira - Legit News
+- Customers' complaints against banks rise as CBN refunds billions of naira - legit.ng
 
 **Source domains:** news.google.com
 - Common signals: complain, complaint
@@ -380,7 +431,7 @@ Unique observations collected: **424**
 
 ---
 
-### 15. Power Outage Hits Seven Northern States As NISO Upgrades Grid - arise.tv
+### 17. Power Outage Hits Seven Northern States As NISO Upgrades Grid - arise.tv
 **Category:** `power`  
 **Observations:** 4  
 **Evidence:** 5.78/10  
@@ -408,7 +459,7 @@ Unique observations collected: **424**
 
 ---
 
-### 16. Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - Bitdefender
+### 18. Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - bitdefender.com
 **Category:** `jobs`  
 **Observations:** 2  
 **Evidence:** 4.38/10  
@@ -423,8 +474,8 @@ Unique observations collected: **424**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - Bitdefender
 - Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - bitdefender.com
+- Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - Bitdefender
 
 **Source domains:** news.google.com
 - Common signals: scam
@@ -434,7 +485,7 @@ Unique observations collected: **424**
 
 ---
 
-### 17. Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - The Washington Post
+### 19. Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - The Washington Post
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.38/10  
@@ -460,7 +511,7 @@ Unique observations collected: **424**
 
 ---
 
-### 18. Nigeria’s electronic payments boom leaves some at risk for fraud - The Record from Recorded Future News
+### 20. Nigeria’s electronic payments boom leaves some at risk for fraud - The Record from Recorded Future News
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.38/10  
@@ -483,57 +534,5 @@ Unique observations collected: **424**
 - Independent source domains: 1; unique observations: 1
 - Average source/evidence quality: 3.2/10; verification confidence: low
 - Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 19. CBN Refunds N19.12bn, $329.3m To Customers, Flags 13,117 Fraud-linked BVNs - LEADERSHIP Newspapers
-**Category:** `payments`  
-**Observations:** 2  
-**Evidence:** 4.38/10  
-**Pain signal:** 3.0/10  
-**Recurrence:** 4.2/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 5.2/10  
-**Monetization signal:** 5.2/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.34/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- CBN Refunds N19.12bn, $329.3m To Customers, Flags 13,117 Fraud-linked BVNs - LEADERSHIP Newspapers
-- CBN Refunds N19.12bn, $329.3m To Customers, Flags 13,117 Fraud-linked BVNs - leadership.ng
-
-**Source domains:** news.google.com
-- Common signals: fraud
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.2/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 20. NIS Warns Against Fraudulent Platforms For Passport Application, Payments - - TVC News
-**Category:** `payments`  
-**Observations:** 2  
-**Evidence:** 4.38/10  
-**Pain signal:** 3.0/10  
-**Recurrence:** 4.2/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 5.2/10  
-**Monetization signal:** 5.2/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.34/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 10.0/10
-
-**Representative evidence:**
-- NIS Warns Against Fraudulent Platforms For Passport Application, Payments - - TVC News
-- NIS Warns Against Fraudulent Platforms For Passport Application, Payments - - tvcnews.tv
-
-**Source domains:** news.google.com
-- Common signals: fraud
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.2/10; verification confidence: low
-- Existing-solution language signal: 10.0/10 (not a market-size estimate)
 
 ---
