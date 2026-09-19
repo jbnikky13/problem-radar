@@ -1,8 +1,8 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-19T11:10:06.684054+00:00`
+Generated: `2026-09-19T15:59:02.010473+00:00`
 Research status: **ACTIVE**
-Unique observations collected: **505**
+Unique observations collected: **520**
 
 > Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.
 > A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.
@@ -145,7 +145,7 @@ Unique observations collected: **505**
 
 ---
 
-### 6. NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - businesspost.ng
+### 6. NAFDAC alerts Nigerians over suspected counterfeit toothpaste - Daily Post Nigeria
 **Category:** `repairs`  
 **Observations:** 4  
 **Evidence:** 5.78/10  
@@ -160,9 +160,9 @@ Unique observations collected: **505**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - businesspost.ng
-- NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - Business Post Nigeria
 - NAFDAC alerts Nigerians over suspected counterfeit toothpaste - Daily Post Nigeria
+- NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - Business Post Nigeria
+- NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - businesspost.ng
 - NAFDAC alerts Nigerians over suspected counterfeit toothpaste - dailypost.ng
 
 **Source domains:** news.google.com
@@ -250,7 +250,7 @@ Unique observations collected: **505**
 
 ---
 
-### 10. Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - LEADERSHIP Newspapers
+### 10. Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - leadership.ng
 **Category:** `security`  
 **Observations:** 3  
 **Evidence:** 5.12/10  
@@ -265,8 +265,8 @@ Unique observations collected: **505**
 **Existing-solution language:** 6.67/10
 
 **Representative evidence:**
-- Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - LEADERSHIP Newspapers
 - Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - leadership.ng
+- Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - LEADERSHIP Newspapers
 - NIS debunks fraud claims, warns public over fake passport payment channels - The Guardian Nigeria News
 
 **Source domains:** news.google.com
@@ -432,7 +432,7 @@ Unique observations collected: **505**
 
 ---
 
-### 17. How poor network connectivity limits DPI benefits in Nigeria – FRCN HQ - radionigeria.gov.ng
+### 17. How poor network connectivity limits DPI benefits in Nigeria – FRCN HQ - FRCN HQ
 **Category:** `connectivity`  
 **Observations:** 4  
 **Evidence:** 5.78/10  
@@ -447,8 +447,8 @@ Unique observations collected: **505**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- How poor network connectivity limits DPI benefits in Nigeria – FRCN HQ - radionigeria.gov.ng
 - How poor network connectivity limits DPI benefits in Nigeria – FRCN HQ - FRCN HQ
+- How poor network connectivity limits DPI benefits in Nigeria – FRCN HQ - radionigeria.gov.ng
 - How poor network connectivity limits DPI benefits in Nigeria - FRCN HQ
 - How poor network connectivity limits DPI benefits in Nigeria - radionigeria.gov.ng
 
