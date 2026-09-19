@@ -1,8 +1,8 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-19T15:59:02.010473+00:00`
+Generated: `2026-09-19T20:49:22.049865+00:00`
 Research status: **ACTIVE**
-Unique observations collected: **520**
+Unique observations collected: **533**
 
 > Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.
 > A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.
@@ -54,8 +54,8 @@ Unique observations collected: **520**
 
 **Representative evidence:**
 - Lagos beach break becoming too expensive for locals - africanews.com
-- A beach break in Nigeria’s Lagos is becoming too expensive for many - apnews.com
 - A beach break in Nigeria’s Lagos is becoming too expensive for many - AP News
+- A beach break in Nigeria’s Lagos is becoming too expensive for many - apnews.com
 - A beach break in Nigeria's Lagos is becoming too expensive for many - washingtonpost.com
 - A beach break in Nigeria's Lagos is becoming too expensive for many - The Washington Post
 
@@ -432,7 +432,7 @@ Unique observations collected: **520**
 
 ---
 
-### 17. How poor network connectivity limits DPI benefits in Nigeria – FRCN HQ - FRCN HQ
+### 17. How poor network connectivity limits DPI benefits in Nigeria - FRCN HQ
 **Category:** `connectivity`  
 **Observations:** 4  
 **Evidence:** 5.78/10  
@@ -447,9 +447,9 @@ Unique observations collected: **520**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
+- How poor network connectivity limits DPI benefits in Nigeria - FRCN HQ
 - How poor network connectivity limits DPI benefits in Nigeria – FRCN HQ - FRCN HQ
 - How poor network connectivity limits DPI benefits in Nigeria – FRCN HQ - radionigeria.gov.ng
-- How poor network connectivity limits DPI benefits in Nigeria - FRCN HQ
 - How poor network connectivity limits DPI benefits in Nigeria - radionigeria.gov.ng
 
 **Source domains:** news.google.com
@@ -488,33 +488,7 @@ Unique observations collected: **520**
 
 ---
 
-### 19. Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - Bitdefender
-**Category:** `jobs`  
-**Observations:** 2  
-**Evidence:** 4.38/10  
-**Pain signal:** 3.0/10  
-**Recurrence:** 4.2/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 5.2/10  
-**Monetization signal:** 5.2/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.34/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - Bitdefender
-- Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - bitdefender.com
-
-**Source domains:** news.google.com
-- Common signals: scam
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.2/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 20. Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - The Washington Post
+### 19. Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - The Washington Post
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.38/10  
@@ -534,6 +508,32 @@ Unique observations collected: **520**
 
 **Source domains:** news.google.com
 - Common signals: scam
+- Independent source domains: 1; unique observations: 1
+- Average source/evidence quality: 3.2/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 20. Nigeria’s electronic payments boom leaves some at risk for fraud - The Record from Recorded Future News
+**Category:** `payments`  
+**Observations:** 2  
+**Evidence:** 4.38/10  
+**Pain signal:** 3.0/10  
+**Recurrence:** 4.2/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 5.2/10  
+**Monetization signal:** 5.2/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.34/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
+- Nigeria’s electronic payments boom leaves some at risk for fraud - The Record from Recorded Future News
+- Nigeria’s electronic payments boom leaves some at risk for fraud - therecord.media
+
+**Source domains:** news.google.com
+- Common signals: fraud
 - Independent source domains: 1; unique observations: 1
 - Average source/evidence quality: 3.2/10; verification confidence: low
 - Existing-solution language signal: 0.0/10 (not a market-size estimate)
