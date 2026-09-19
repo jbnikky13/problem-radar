@@ -1,15 +1,15 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-19T04:46:08.422444+00:00`
+Generated: `2026-09-19T11:10:06.684054+00:00`
 Research status: **ACTIVE**
-Unique observations collected: **476**
+Unique observations collected: **505**
 
 > Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.
 > A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.
 
 ## Top recurring problem clusters
 
-### 1. TCN announces planned power outage in Oyo - Daily Post Nigeria
+### 1. NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
 **Category:** `power`  
 **Observations:** 13  
 **Evidence:** 10.0/10  
@@ -24,11 +24,11 @@ Unique observations collected: **476**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- TCN announces planned power outage in Oyo - Daily Post Nigeria
 - NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
 - TCN announces six-hour power outage in Lokoja, environs - Peoples Gazette Nigeria
-- TCN announces 32-hour power outage across seven northeastern cities - The Guardian Nigeria News
 - AEDC announces fresh power outage in Abuja - Daily Post Nigeria
+- TCN announces 32-hour power outage across seven northeastern cities - The Guardian Nigeria News
+- Planned power outage to plunge northeastern cities into two days of darkness - Daily Post Nigeria
 
 **Source domains:** news.google.com
 - Common signals: power outage
@@ -38,7 +38,36 @@ Unique observations collected: **476**
 
 ---
 
-### 2. How should Black Americans think about the relationship between immigration and anti-Blackness in the United States?
+### 2. Lagos beach break becoming too expensive for locals - africanews.com
+**Category:** `repairs`  
+**Observations:** 5  
+**Evidence:** 6.52/10  
+**Pain signal:** 4.5/10  
+**Recurrence:** 7.5/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 4.25/10  
+**Monetization signal:** 6.25/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.49/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
+- Lagos beach break becoming too expensive for locals - africanews.com
+- A beach break in Nigeria’s Lagos is becoming too expensive for many - apnews.com
+- A beach break in Nigeria’s Lagos is becoming too expensive for many - AP News
+- A beach break in Nigeria's Lagos is becoming too expensive for many - washingtonpost.com
+- A beach break in Nigeria's Lagos is becoming too expensive for many - The Washington Post
+
+**Source domains:** news.google.com
+- Common signals: too expensive, expensive
+- Independent source domains: 1; unique observations: 3
+- Average source/evidence quality: 3.5/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 3. How should Black Americans think about the relationship between immigration and anti-Blackness in the United States?
 **Category:** `repairs`  
 **Observations:** 1  
 **Evidence:** 4.07/10  
@@ -63,7 +92,7 @@ Unique observations collected: **476**
 
 ---
 
-### 3. I just hit my first 6 digits savings last month, now Im in debt
+### 4. I just hit my first 6 digits savings last month, now Im in debt
 **Category:** `repairs`  
 **Observations:** 1  
 **Evidence:** 3.95/10  
@@ -85,34 +114,6 @@ Unique observations collected: **476**
 - Independent source domains: 1; unique observations: 1
 - Average source/evidence quality: 5.0/10; verification confidence: low
 - Existing-solution language signal: 10.0/10 (not a market-size estimate)
-
----
-
-### 4. Lagos beach break becoming too expensive for locals - africanews.com
-**Category:** `repairs`  
-**Observations:** 4  
-**Evidence:** 5.82/10  
-**Pain signal:** 4.5/10  
-**Recurrence:** 6.4/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 3.9/10  
-**Monetization signal:** 5.9/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.49/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- Lagos beach break becoming too expensive for locals - africanews.com
-- A beach break in Nigeria’s Lagos is becoming too expensive for many - AP News
-- A beach break in Nigeria's Lagos is becoming too expensive for many - washingtonpost.com
-- A beach break in Nigeria's Lagos is becoming too expensive for many - The Washington Post
-
-**Source domains:** news.google.com
-- Common signals: too expensive, expensive
-- Independent source domains: 1; unique observations: 3
-- Average source/evidence quality: 3.5/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
 
 ---
 
@@ -144,7 +145,7 @@ Unique observations collected: **476**
 
 ---
 
-### 6. NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - Business Post Nigeria
+### 6. NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - businesspost.ng
 **Category:** `repairs`  
 **Observations:** 4  
 **Evidence:** 5.78/10  
@@ -159,9 +160,9 @@ Unique observations collected: **476**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
+- NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - businesspost.ng
 - NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - Business Post Nigeria
 - NAFDAC alerts Nigerians over suspected counterfeit toothpaste - Daily Post Nigeria
-- NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - businesspost.ng
 - NAFDAC alerts Nigerians over suspected counterfeit toothpaste - dailypost.ng
 
 **Source domains:** news.google.com
@@ -431,7 +432,35 @@ Unique observations collected: **476**
 
 ---
 
-### 17. Power Outage Hits Seven Northern States As NISO Upgrades Grid - arise.tv
+### 17. How poor network connectivity limits DPI benefits in Nigeria – FRCN HQ - radionigeria.gov.ng
+**Category:** `connectivity`  
+**Observations:** 4  
+**Evidence:** 5.78/10  
+**Pain signal:** 2.5/10  
+**Recurrence:** 6.4/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 3.9/10  
+**Monetization signal:** 3.4/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.34/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
+- How poor network connectivity limits DPI benefits in Nigeria – FRCN HQ - radionigeria.gov.ng
+- How poor network connectivity limits DPI benefits in Nigeria – FRCN HQ - FRCN HQ
+- How poor network connectivity limits DPI benefits in Nigeria - FRCN HQ
+- How poor network connectivity limits DPI benefits in Nigeria - radionigeria.gov.ng
+
+**Source domains:** news.google.com
+- Common signals: poor network
+- Independent source domains: 1; unique observations: 1
+- Average source/evidence quality: 3.2/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 18. Power Outage Hits Seven Northern States As NISO Upgrades Grid - arise.tv
 **Category:** `power`  
 **Observations:** 4  
 **Evidence:** 5.78/10  
@@ -459,7 +488,7 @@ Unique observations collected: **476**
 
 ---
 
-### 18. Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - Bitdefender
+### 19. Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - Bitdefender
 **Category:** `jobs`  
 **Observations:** 2  
 **Evidence:** 4.38/10  
@@ -485,7 +514,7 @@ Unique observations collected: **476**
 
 ---
 
-### 19. Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - The Washington Post
+### 20. Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - The Washington Post
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.38/10  
@@ -505,32 +534,6 @@ Unique observations collected: **476**
 
 **Source domains:** news.google.com
 - Common signals: scam
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.2/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 20. Nigeria’s electronic payments boom leaves some at risk for fraud - The Record from Recorded Future News
-**Category:** `payments`  
-**Observations:** 2  
-**Evidence:** 4.38/10  
-**Pain signal:** 3.0/10  
-**Recurrence:** 4.2/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 5.2/10  
-**Monetization signal:** 5.2/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.34/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- Nigeria’s electronic payments boom leaves some at risk for fraud - The Record from Recorded Future News
-- Nigeria’s electronic payments boom leaves some at risk for fraud - therecord.media
-
-**Source domains:** news.google.com
-- Common signals: fraud
 - Independent source domains: 1; unique observations: 1
 - Average source/evidence quality: 3.2/10; verification confidence: low
 - Existing-solution language signal: 0.0/10 (not a market-size estimate)
