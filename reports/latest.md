@@ -1,15 +1,15 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-18T21:00:49.260017+00:00`
+Generated: `2026-09-19T04:46:08.422444+00:00`
 Research status: **ACTIVE**
-Unique observations collected: **459**
+Unique observations collected: **476**
 
 > Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.
 > A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.
 
 ## Top recurring problem clusters
 
-### 1. NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
+### 1. TCN announces planned power outage in Oyo - Daily Post Nigeria
 **Category:** `power`  
 **Observations:** 13  
 **Evidence:** 10.0/10  
@@ -24,11 +24,11 @@ Unique observations collected: **459**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
+- TCN announces planned power outage in Oyo - Daily Post Nigeria
 - NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
-- TCN announces 32-hour power outage across seven northeastern cities - guardian.ng
-- AEDC announces fresh power outage in Abuja - Daily Post Nigeria
 - TCN announces six-hour power outage in Lokoja, environs - Peoples Gazette Nigeria
-- Planned power outage to plunge northeastern cities into two days of darkness - Daily Post Nigeria
+- TCN announces 32-hour power outage across seven northeastern cities - The Guardian Nigeria News
+- AEDC announces fresh power outage in Abuja - Daily Post Nigeria
 
 **Source domains:** news.google.com
 - Common signals: power outage
@@ -144,7 +144,7 @@ Unique observations collected: **459**
 
 ---
 
-### 6. NAFDAC alerts Nigerians over suspected counterfeit toothpaste - Daily Post Nigeria
+### 6. NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - Business Post Nigeria
 **Category:** `repairs`  
 **Observations:** 4  
 **Evidence:** 5.78/10  
@@ -159,10 +159,10 @@ Unique observations collected: **459**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
+- NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - Business Post Nigeria
 - NAFDAC alerts Nigerians over suspected counterfeit toothpaste - Daily Post Nigeria
 - NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - businesspost.ng
 - NAFDAC alerts Nigerians over suspected counterfeit toothpaste - dailypost.ng
-- NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - Business Post Nigeria
 
 **Source domains:** news.google.com
 - Common signals: counterfeit
@@ -459,7 +459,7 @@ Unique observations collected: **459**
 
 ---
 
-### 18. Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - bitdefender.com
+### 18. Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - Bitdefender
 **Category:** `jobs`  
 **Observations:** 2  
 **Evidence:** 4.38/10  
@@ -474,8 +474,8 @@ Unique observations collected: **459**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - bitdefender.com
 - Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - Bitdefender
+- Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - bitdefender.com
 
 **Source domains:** news.google.com
 - Common signals: scam
