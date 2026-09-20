@@ -1,15 +1,15 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-20T16:15:37.696103+00:00`
+Generated: `2026-09-20T20:56:37.022427+00:00`
 Research status: **ACTIVE**
-Unique observations collected: **574**
+Unique observations collected: **582**
 
 > Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.
 > A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.
 
 ## Top recurring problem clusters
 
-### 1. NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
+### 1. AEDC Announces Power Outage In Abuja, Nasarawa Over TCN Fault - LEADERSHIP Newspapers
 **Category:** `power`  
 **Observations:** 16  
 **Evidence:** 10.0/10  
@@ -24,11 +24,11 @@ Unique observations collected: **574**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
+- AEDC Announces Power Outage In Abuja, Nasarawa Over TCN Fault - LEADERSHIP Newspapers
 - Ogun communities to experience six-hour power outage today - The Guardian Nigeria News
-- TCN announces six-hour power outage in Lokoja, environs - Peoples Gazette Nigeria
 - AEDC announces fresh power outage in Abuja - Daily Post Nigeria
 - Planned power outage to plunge northeastern cities into two days of darkness - Daily Post Nigeria
+- TCN announces 32-hour power outage across seven northeastern cities - The Guardian Nigeria News
 
 **Source domains:** news.google.com
 - Common signals: power outage
@@ -54,8 +54,8 @@ Unique observations collected: **574**
 
 **Representative evidence:**
 - Lagos beach break becoming too expensive for locals - africanews.com
-- A beach break in Nigeria’s Lagos is becoming too expensive for many - AP News
 - A beach break in Nigeria’s Lagos is becoming too expensive for many - apnews.com
+- A beach break in Nigeria’s Lagos is becoming too expensive for many - AP News
 - A beach break in Nigeria's Lagos is becoming too expensive for many - washingtonpost.com
 - A beach break in Nigeria's Lagos is becoming too expensive for many - The Washington Post
 
@@ -254,7 +254,35 @@ Unique observations collected: **574**
 
 ---
 
-### 10. Kenya telecom complaints shift from poor network to fraud and data billing - TechCabal
+### 10. ICPC UNCOVERS ANOTHER FAKE AGENCY, PRESIDENT DIRECTS SUSPENSION OF THREE FEDERAL PERMANENT SECRETARIES AND ARREST OF FAK
+**Category:** `government`  
+**Observations:** 4  
+**Evidence:** 5.78/10  
+**Pain signal:** 2.5/10  
+**Recurrence:** 6.4/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 5.9/10  
+**Monetization signal:** 3.4/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.34/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
+- ICPC UNCOVERS ANOTHER FAKE AGENCY, PRESIDENT DIRECTS SUSPENSION OF THREE FEDERAL PERMANENT SECRETARIES AND ARREST OF FAKE AGENCY PROMOTER - icpc.gov.ng
+- ICPC UNCOVERS ANOTHER FAKE AGENCY, PRESIDENT DIRECTS SUSPENSION OF THREE FEDERAL PERMANENT SECRETARIES AND ARREST OF FAKE AGENCY PROMOTER - Independent Corrupt Practices and Other Related Offences Commission
+- [UPDATED] Tinubu Orders Arrest, Suspends Three Permanent Secretaries As ICPC Uncovers Another 'Fake' Agency - channelstv.com
+- [UPDATED] Tinubu Orders Arrest, Suspends Three Permanent Secretaries As ICPC Uncovers Another 'Fake' Agency - Channels Television
+
+**Source domains:** news.google.com
+- Common signals: fake
+- Independent source domains: 1; unique observations: 2
+- Average source/evidence quality: 3.2/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 11. Kenya telecom complaints shift from poor network to fraud and data billing - TechCabal
 **Category:** `connectivity`  
 **Observations:** 2  
 **Evidence:** 4.51/10  
@@ -280,7 +308,7 @@ Unique observations collected: **574**
 
 ---
 
-### 11. I’m a 13-year-old dev from Nigeria, and I built an automated legal escrow app to stop freelancers and clients from scamm
+### 12. I’m a 13-year-old dev from Nigeria, and I built an automated legal escrow app to stop freelancers and clients from scamm
 **Category:** `repairs`  
 **Observations:** 2  
 **Evidence:** 4.52/10  
@@ -306,7 +334,7 @@ Unique observations collected: **574**
 
 ---
 
-### 12. Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week
+### 13. Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week
 **Category:** `payments`  
 **Observations:** 1  
 **Evidence:** 3.77/10  
@@ -331,7 +359,7 @@ Unique observations collected: **574**
 
 ---
 
-### 13. Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - leadership.ng
+### 14. Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - leadership.ng
 **Category:** `security`  
 **Observations:** 3  
 **Evidence:** 5.12/10  
@@ -358,7 +386,7 @@ Unique observations collected: **574**
 
 ---
 
-### 14. How Nigerians Absorb the Cost of Delayed Digital Payments - humanglemedia.com
+### 15. How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -373,8 +401,8 @@ Unique observations collected: **574**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- How Nigerians Absorb the Cost of Delayed Digital Payments - humanglemedia.com
 - How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
+- How Nigerians Absorb the Cost of Delayed Digital Payments - humanglemedia.com
 
 **Source domains:** news.google.com
 - Common signals: delayed, delay
@@ -384,7 +412,7 @@ Unique observations collected: **574**
 
 ---
 
-### 15. Fake products, real dangers: The hidden risks of counterfeit goods - FactCheckHub
+### 16. Fake products, real dangers: The hidden risks of counterfeit goods - FactCheckHub
 **Category:** `repairs`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -410,7 +438,7 @@ Unique observations collected: **574**
 
 ---
 
-### 16. Match Thread: AC Milan 0-2 Benfica | UEFA Europa League
+### 17. Match Thread: AC Milan 0-2 Benfica | UEFA Europa League
 **Category:** `repairs`  
 **Observations:** 2  
 **Evidence:** 4.52/10  
@@ -436,7 +464,7 @@ Unique observations collected: **574**
 
 ---
 
-### 17. On this “demarketing Nigeria” convo
+### 18. On this “demarketing Nigeria” convo
 **Category:** `repairs`  
 **Observations:** 1  
 **Evidence:** 3.91/10  
@@ -461,7 +489,7 @@ Unique observations collected: **574**
 
 ---
 
-### 18. There is a mental disorder affecting many Nigerians online called ‘Nigerianis Negativitatus Stupidus Syndrome’ (NNSS).
+### 19. There is a mental disorder affecting many Nigerians online called ‘Nigerianis Negativitatus Stupidus Syndrome’ (NNSS).
 **Category:** `repairs`  
 **Observations:** 2  
 **Evidence:** 4.56/10  
@@ -487,7 +515,7 @@ Unique observations collected: **574**
 
 ---
 
-### 19. Customers' complaints against banks rise as CBN refunds billions of naira - Legit News
+### 20. Customers' complaints against banks rise as CBN refunds billions of naira - Legit News
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -509,34 +537,6 @@ Unique observations collected: **574**
 - Common signals: complain, complaint
 - Independent source domains: 1; unique observations: 1
 - Average source/evidence quality: 3.5/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 20. How poor network connectivity limits DPI benefits in Nigeria - FRCN HQ
-**Category:** `connectivity`  
-**Observations:** 4  
-**Evidence:** 5.78/10  
-**Pain signal:** 2.5/10  
-**Recurrence:** 6.4/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 3.9/10  
-**Monetization signal:** 3.4/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.34/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- How poor network connectivity limits DPI benefits in Nigeria - FRCN HQ
-- How poor network connectivity limits DPI benefits in Nigeria – FRCN HQ - FRCN HQ
-- How poor network connectivity limits DPI benefits in Nigeria – FRCN HQ - radionigeria.gov.ng
-- How poor network connectivity limits DPI benefits in Nigeria - radionigeria.gov.ng
-
-**Source domains:** news.google.com
-- Common signals: poor network
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.2/10; verification confidence: low
 - Existing-solution language signal: 0.0/10 (not a market-size estimate)
 
 ---
