@@ -1,8 +1,8 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-20T05:02:07.618397+00:00`
+Generated: `2026-09-20T11:34:51.189215+00:00`
 Research status: **ACTIVE**
-Unique observations collected: **545**
+Unique observations collected: **557**
 
 > Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.
 > A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.
@@ -11,13 +11,13 @@ Unique observations collected: **545**
 
 ### 1. NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
 **Category:** `power`  
-**Observations:** 13  
+**Observations:** 16  
 **Evidence:** 10.0/10  
 **Pain signal:** 2.5/10  
 **Recurrence:** 10.0/10  
 **Information gap:** 2.8/10  
-**Automation signal:** 7.05/10  
-**Monetization signal:** 6.55/10  
+**Automation signal:** 8.1/10  
+**Monetization signal:** 7.6/10  
 **Source diversity:** 3.5/10  
 **Verification:** 3.34/10  
 **Evidence confidence:** **low**  
@@ -25,14 +25,14 @@ Unique observations collected: **545**
 
 **Representative evidence:**
 - NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
+- TCN announces six-hour power outage in Ogun communities - Punch Newspapers
+- Ogun communities to experience six-hour power outage today - The Guardian Nigeria News
 - TCN announces six-hour power outage in Lokoja, environs - Peoples Gazette Nigeria
-- AEDC announces fresh power outage in Abuja - dailypost.ng
-- TCN announces 32-hour power outage across seven northeastern cities - The Guardian Nigeria News
-- Planned power outage to plunge northeastern cities into two days of darkness - dailypost.ng
+- AEDC announces fresh power outage in Abuja - Daily Post Nigeria
 
 **Source domains:** news.google.com
 - Common signals: power outage
-- Independent source domains: 1; unique observations: 7
+- Independent source domains: 1; unique observations: 9
 - Average source/evidence quality: 3.2/10; verification confidence: low
 - Existing-solution language signal: 0.0/10 (not a market-size estimate)
 
@@ -145,7 +145,7 @@ Unique observations collected: **545**
 
 ---
 
-### 6. NAFDAC alerts Nigerians over suspected counterfeit toothpaste - dailypost.ng
+### 6. NAFDAC alerts Nigerians over suspected counterfeit toothpaste - Daily Post Nigeria
 **Category:** `repairs`  
 **Observations:** 4  
 **Evidence:** 5.78/10  
@@ -160,8 +160,8 @@ Unique observations collected: **545**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- NAFDAC alerts Nigerians over suspected counterfeit toothpaste - dailypost.ng
 - NAFDAC alerts Nigerians over suspected counterfeit toothpaste - Daily Post Nigeria
+- NAFDAC alerts Nigerians over suspected counterfeit toothpaste - dailypost.ng
 - NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - Business Post Nigeria
 - NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - businesspost.ng
 
@@ -515,8 +515,8 @@ Unique observations collected: **545**
 
 ---
 
-### 20. Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - The Washington Post
-**Category:** `payments`  
+### 20. Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - bitdefender.com
+**Category:** `jobs`  
 **Observations:** 2  
 **Evidence:** 4.38/10  
 **Pain signal:** 3.0/10  
@@ -530,8 +530,8 @@ Unique observations collected: **545**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - The Washington Post
-- Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - washingtonpost.com
+- Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - bitdefender.com
+- Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - Bitdefender
 
 **Source domains:** news.google.com
 - Common signals: scam
