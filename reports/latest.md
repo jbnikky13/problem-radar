@@ -1,8 +1,8 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-19T20:49:22.049865+00:00`
+Generated: `2026-09-20T05:02:07.618397+00:00`
 Research status: **ACTIVE**
-Unique observations collected: **533**
+Unique observations collected: **545**
 
 > Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.
 > A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.
@@ -26,9 +26,9 @@ Unique observations collected: **533**
 **Representative evidence:**
 - NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
 - TCN announces six-hour power outage in Lokoja, environs - Peoples Gazette Nigeria
-- AEDC announces fresh power outage in Abuja - Daily Post Nigeria
+- AEDC announces fresh power outage in Abuja - dailypost.ng
 - TCN announces 32-hour power outage across seven northeastern cities - The Guardian Nigeria News
-- Planned power outage to plunge northeastern cities into two days of darkness - Daily Post Nigeria
+- Planned power outage to plunge northeastern cities into two days of darkness - dailypost.ng
 
 **Source domains:** news.google.com
 - Common signals: power outage
@@ -145,7 +145,7 @@ Unique observations collected: **533**
 
 ---
 
-### 6. NAFDAC alerts Nigerians over suspected counterfeit toothpaste - Daily Post Nigeria
+### 6. NAFDAC alerts Nigerians over suspected counterfeit toothpaste - dailypost.ng
 **Category:** `repairs`  
 **Observations:** 4  
 **Evidence:** 5.78/10  
@@ -160,10 +160,10 @@ Unique observations collected: **533**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
+- NAFDAC alerts Nigerians over suspected counterfeit toothpaste - dailypost.ng
 - NAFDAC alerts Nigerians over suspected counterfeit toothpaste - Daily Post Nigeria
 - NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - Business Post Nigeria
 - NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - businesspost.ng
-- NAFDAC alerts Nigerians over suspected counterfeit toothpaste - dailypost.ng
 
 **Source domains:** news.google.com
 - Common signals: counterfeit
@@ -173,7 +173,34 @@ Unique observations collected: **533**
 
 ---
 
-### 7. I’m honestly tired of applying into the void.
+### 7. Considering Bariatric Surgery – Sleeve vs Mini Gastric Bypass vs Gastric Bypass
+**Category:** `housing`  
+**Observations:** 3  
+**Evidence:** 5.22/10  
+**Pain signal:** 3.5/10  
+**Recurrence:** 5.3/10  
+**Information gap:** 4.0/10  
+**Automation signal:** 3.55/10  
+**Monetization signal:** 5.55/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.85/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 10.0/10
+
+**Representative evidence:**
+- Considering Bariatric Surgery – Sleeve vs Mini Gastric Bypass vs Gastric Bypass
+- Considering Bariatric Surgery – Sleeve vs Mini Gastric Bypass vs Gastric Bypass
+- Considering Bariatric Surgery – Sleeve vs Mini Gastric Bypass vs Gastric Bypass
+
+**Source domains:** reddit.com
+- Common signals: difficult, looking for
+- Independent source domains: 1; unique observations: 3
+- Average source/evidence quality: 4.1/10; verification confidence: low
+- Existing-solution language signal: 10.0/10 (not a market-size estimate)
+
+---
+
+### 8. I’m honestly tired of applying into the void.
 **Category:** `jobs`  
 **Observations:** 2  
 **Evidence:** 4.52/10  
@@ -199,7 +226,7 @@ Unique observations collected: **533**
 
 ---
 
-### 8. Kenya telecom complaints shift from poor network to fraud and data billing - TechCabal
+### 9. Kenya telecom complaints shift from poor network to fraud and data billing - TechCabal
 **Category:** `connectivity`  
 **Observations:** 2  
 **Evidence:** 4.51/10  
@@ -225,7 +252,7 @@ Unique observations collected: **533**
 
 ---
 
-### 9. Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week
+### 10. Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week
 **Category:** `payments`  
 **Observations:** 1  
 **Evidence:** 3.77/10  
@@ -250,7 +277,7 @@ Unique observations collected: **533**
 
 ---
 
-### 10. Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - leadership.ng
+### 11. Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - leadership.ng
 **Category:** `security`  
 **Observations:** 3  
 **Evidence:** 5.12/10  
@@ -277,7 +304,7 @@ Unique observations collected: **533**
 
 ---
 
-### 11. How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
+### 12. How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -303,7 +330,7 @@ Unique observations collected: **533**
 
 ---
 
-### 12. Fake products, real dangers: The hidden risks of counterfeit goods - FactCheckHub
+### 13. Fake products, real dangers: The hidden risks of counterfeit goods - FactCheckHub
 **Category:** `repairs`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -329,7 +356,7 @@ Unique observations collected: **533**
 
 ---
 
-### 13. Match Thread: AC Milan 0-2 Benfica | UEFA Europa League
+### 14. Match Thread: AC Milan 0-2 Benfica | UEFA Europa League
 **Category:** `repairs`  
 **Observations:** 2  
 **Evidence:** 4.52/10  
@@ -355,7 +382,7 @@ Unique observations collected: **533**
 
 ---
 
-### 14. On this “demarketing Nigeria” convo
+### 15. On this “demarketing Nigeria” convo
 **Category:** `repairs`  
 **Observations:** 1  
 **Evidence:** 3.91/10  
@@ -380,7 +407,7 @@ Unique observations collected: **533**
 
 ---
 
-### 15. There is a mental disorder affecting many Nigerians online called ‘Nigerianis Negativitatus Stupidus Syndrome’ (NNSS).
+### 16. There is a mental disorder affecting many Nigerians online called ‘Nigerianis Negativitatus Stupidus Syndrome’ (NNSS).
 **Category:** `repairs`  
 **Observations:** 2  
 **Evidence:** 4.56/10  
@@ -406,7 +433,7 @@ Unique observations collected: **533**
 
 ---
 
-### 16. Customers' complaints against banks rise as CBN refunds billions of naira - Legit News
+### 17. Customers' complaints against banks rise as CBN refunds billions of naira - Legit News
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -432,7 +459,7 @@ Unique observations collected: **533**
 
 ---
 
-### 17. How poor network connectivity limits DPI benefits in Nigeria - FRCN HQ
+### 18. How poor network connectivity limits DPI benefits in Nigeria - FRCN HQ
 **Category:** `connectivity`  
 **Observations:** 4  
 **Evidence:** 5.78/10  
@@ -460,7 +487,7 @@ Unique observations collected: **533**
 
 ---
 
-### 18. Power Outage Hits Seven Northern States As NISO Upgrades Grid - arise.tv
+### 19. Power Outage Hits Seven Northern States As NISO Upgrades Grid - arise.tv
 **Category:** `power`  
 **Observations:** 4  
 **Evidence:** 5.78/10  
@@ -488,7 +515,7 @@ Unique observations collected: **533**
 
 ---
 
-### 19. Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - The Washington Post
+### 20. Column | She believed she was an FBI ‘asset.’ The scam drained her life’s savings. - The Washington Post
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.38/10  
@@ -508,32 +535,6 @@ Unique observations collected: **533**
 
 **Source domains:** news.google.com
 - Common signals: scam
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.2/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 20. Nigeria’s electronic payments boom leaves some at risk for fraud - The Record from Recorded Future News
-**Category:** `payments`  
-**Observations:** 2  
-**Evidence:** 4.38/10  
-**Pain signal:** 3.0/10  
-**Recurrence:** 4.2/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 5.2/10  
-**Monetization signal:** 5.2/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.34/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- Nigeria’s electronic payments boom leaves some at risk for fraud - The Record from Recorded Future News
-- Nigeria’s electronic payments boom leaves some at risk for fraud - therecord.media
-
-**Source domains:** news.google.com
-- Common signals: fraud
 - Independent source domains: 1; unique observations: 1
 - Average source/evidence quality: 3.2/10; verification confidence: low
 - Existing-solution language signal: 0.0/10 (not a market-size estimate)
