@@ -5,12 +5,12 @@
     "category": "power",
     "observation_ids": [
       "3642bead6b592a03",
-      "8b89dcb53a2768cc",
       "4d81a8c16b3c2948",
       "f153dc717523094b",
       "7cd790a1edc593b7",
       "c5ea7134704586ad",
       "42acdff1cfe3f1c4",
+      "8b89dcb53a2768cc",
       "02f19fd537b7e174",
       "ea7c060a68f8094b",
       "5aef8b1ba49223b8",
@@ -34,10 +34,10 @@
     "existing_solution_signal": 0.0,
     "representative_problems": [
       "NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria",
-      "TCN announces six-hour power outage in Ogun communities - Punch Newspapers",
       "Ogun communities to experience six-hour power outage today - The Guardian Nigeria News",
       "TCN announces six-hour power outage in Lokoja, environs - Peoples Gazette Nigeria",
-      "AEDC announces fresh power outage in Abuja - Daily Post Nigeria"
+      "AEDC announces fresh power outage in Abuja - Daily Post Nigeria",
+      "Planned power outage to plunge northeastern cities into two days of darkness - Daily Post Nigeria"
     ],
     "sources": [
       "Google News"
@@ -92,6 +92,46 @@
       "Independent source domains: 1; unique observations: 3",
       "Average source/evidence quality: 3.5/10; verification confidence: low",
       "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "f61670d4ec0c",
+    "title": "Is This \"A Story of British Honduras: A Story of Us\"?",
+    "category": "repairs",
+    "observation_ids": [
+      "e234307d71cb13b5",
+      "47446f423ef763b3",
+      "449b97f60d2c2018",
+      "b96e1e86b52aecd5"
+    ],
+    "observation_count": 4,
+    "evidence_score": 5.88,
+    "pain_score": 1.5,
+    "recurrence_score": 6.4,
+    "information_gap_score": 4.0,
+    "automation_score": 3.9,
+    "monetization_signal_score": 5.9,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.69,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 10.0,
+    "representative_problems": [
+      "Is This \"A Story of British Honduras: A Story of Us\"?",
+      "A Story of British Honduras: A Story of Us",
+      "A Story of British Honduras: A Story of Us",
+      "A Story of British Honduras: A Story of Us"
+    ],
+    "sources": [
+      "Reddit Search"
+    ],
+    "source_domains": [
+      "reddit.com"
+    ],
+    "notes": [
+      "Common signals: looking for",
+      "Independent source domains: 1; unique observations: 4",
+      "Average source/evidence quality: 3.9/10; verification confidence: low",
+      "Existing-solution language signal: 10.0/10 (not a market-size estimate)"
     ]
   },
   {
@@ -562,12 +602,48 @@
     ]
   },
   {
+    "id": "4a8e72438a4a",
+    "title": "I’m a 13-year-old dev from Nigeria, and I built an automated legal escrow app to stop freelancers and clients from scamm",
+    "category": "repairs",
+    "observation_ids": [
+      "eebd746898d38ab4",
+      "1600aef7d9b1326f"
+    ],
+    "observation_count": 2,
+    "evidence_score": 4.52,
+    "pain_score": 4.5,
+    "recurrence_score": 4.2,
+    "information_gap_score": 4.0,
+    "automation_score": 3.2,
+    "monetization_signal_score": 5.2,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.85,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 10.0,
+    "representative_problems": [
+      "I’m a 13-year-old dev from Nigeria, and I built an automated legal escrow app to stop freelancers and clients from scamming each other.",
+      "I’m a 13-year-old dev from Nigeria, and I built an automated legal escrow app to stop freelancers and clients from scamming each other."
+    ],
+    "sources": [
+      "Reddit Search"
+    ],
+    "source_domains": [
+      "reddit.com"
+    ],
+    "notes": [
+      "Common signals: scam, looking for",
+      "Independent source domains: 1; unique observations: 2",
+      "Average source/evidence quality: 4.1/10; verification confidence: low",
+      "Existing-solution language signal: 10.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
     "id": "8110fb8c3a12",
-    "title": "How Nigerian Banks Can Fix Transfer Failures and Eliminate Reversals - tekedia.com",
+    "title": "How Nigerian Banks Can Fix Transfer Failures and Eliminate Reversals - Tekedia",
     "category": "payments",
     "observation_ids": [
-      "27f9f2ca43ddd14f",
-      "598e9ebdf7939197"
+      "598e9ebdf7939197",
+      "27f9f2ca43ddd14f"
     ],
     "observation_count": 2,
     "evidence_score": 4.38,
@@ -581,8 +657,8 @@
     "evidence_confidence": "low",
     "existing_solution_signal": 0.0,
     "representative_problems": [
-      "How Nigerian Banks Can Fix Transfer Failures and Eliminate Reversals - tekedia.com",
-      "How Nigerian Banks Can Fix Transfer Failures and Eliminate Reversals - Tekedia"
+      "How Nigerian Banks Can Fix Transfer Failures and Eliminate Reversals - Tekedia",
+      "How Nigerian Banks Can Fix Transfer Failures and Eliminate Reversals - tekedia.com"
     ],
     "sources": [
       "Google News"
@@ -592,42 +668,6 @@
     ],
     "notes": [
       "Common signals: reversal",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
-    "id": "c51ecd4b4da6",
-    "title": "40% of failed transactions unresolved as ePayments hit N49.4 trillion - The Guardian Nigeria News",
-    "category": "repairs",
-    "observation_ids": [
-      "c8d75ec888e5f90a",
-      "527307c0dfceeb5c"
-    ],
-    "observation_count": 2,
-    "evidence_score": 4.38,
-    "pain_score": 2.5,
-    "recurrence_score": 4.2,
-    "information_gap_score": 2.8,
-    "automation_score": 3.2,
-    "monetization_signal_score": 5.2,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "40% of failed transactions unresolved as ePayments hit N49.4 trillion - The Guardian Nigeria News",
-      "40% of failed transactions unresolved as ePayments hit N49.4 trillion - guardian.ng"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: failed transaction",
       "Independent source domains: 1; unique observations: 1",
       "Average source/evidence quality: 3.2/10; verification confidence: low",
       "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
@@ -700,6 +740,42 @@
     ],
     "notes": [
       "Common signals: frustrat",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "c51ecd4b4da6",
+    "title": "40% of failed transactions unresolved as ePayments hit N49.4 trillion - The Guardian Nigeria News",
+    "category": "repairs",
+    "observation_ids": [
+      "c8d75ec888e5f90a",
+      "527307c0dfceeb5c"
+    ],
+    "observation_count": 2,
+    "evidence_score": 4.38,
+    "pain_score": 2.5,
+    "recurrence_score": 4.2,
+    "information_gap_score": 2.8,
+    "automation_score": 3.2,
+    "monetization_signal_score": 5.2,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "40% of failed transactions unresolved as ePayments hit N49.4 trillion - The Guardian Nigeria News",
+      "40% of failed transactions unresolved as ePayments hit N49.4 trillion - guardian.ng"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: failed transaction",
       "Independent source domains: 1; unique observations: 1",
       "Average source/evidence quality: 3.2/10; verification confidence: low",
       "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
@@ -815,11 +891,11 @@
   },
   {
     "id": "152f378cb370",
-    "title": "How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle",
+    "title": "How Nigerians Absorb the Cost of Delayed Digital Payments - humanglemedia.com",
     "category": "payments",
     "observation_ids": [
-      "769ab5c3c17aa3b1",
-      "e4788e72d93071fc"
+      "e4788e72d93071fc",
+      "769ab5c3c17aa3b1"
     ],
     "observation_count": 2,
     "evidence_score": 4.42,
@@ -833,8 +909,8 @@
     "evidence_confidence": "low",
     "existing_solution_signal": 0.0,
     "representative_problems": [
-      "How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle",
-      "How Nigerians Absorb the Cost of Delayed Digital Payments - humanglemedia.com"
+      "How Nigerians Absorb the Cost of Delayed Digital Payments - humanglemedia.com",
+      "How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle"
     ],
     "sources": [
       "Google News"
@@ -850,84 +926,12 @@
     ]
   },
   {
-    "id": "3c80e512f156",
-    "title": "22 Identity Theft Statistics for 2026: ID Fraud on the Rise - Cloudwards.net",
-    "category": "security",
-    "observation_ids": [
-      "047fb72cd9ed08f2",
-      "e16c7a0fcc03d854"
-    ],
-    "observation_count": 2,
-    "evidence_score": 4.38,
-    "pain_score": 3.0,
-    "recurrence_score": 4.2,
-    "information_gap_score": 2.8,
-    "automation_score": 3.2,
-    "monetization_signal_score": 2.7,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "22 Identity Theft Statistics for 2026: ID Fraud on the Rise - Cloudwards.net",
-      "22 Identity Theft Statistics for 2026: ID Fraud on the Rise - cloudwards.net"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: fraud",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
-    "id": "3ed6ace99023",
-    "title": "Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - bitdefender.com",
-    "category": "jobs",
-    "observation_ids": [
-      "5fcd4483a21303a8",
-      "29abe1d0dccfb33b"
-    ],
-    "observation_count": 2,
-    "evidence_score": 4.38,
-    "pain_score": 3.0,
-    "recurrence_score": 4.2,
-    "information_gap_score": 2.8,
-    "automation_score": 5.2,
-    "monetization_signal_score": 5.2,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - bitdefender.com",
-      "Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - Bitdefender"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: scam",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
     "id": "93a4951d9917",
-    "title": "FTC consumer complaints report has Michigan near the top - Detroit Free Press",
+    "title": "FTC consumer complaints report has Michigan near the top - freep.com",
     "category": "other",
     "observation_ids": [
-      "f402abc32102e92b",
-      "74f68211004543de"
+      "74f68211004543de",
+      "f402abc32102e92b"
     ],
     "observation_count": 2,
     "evidence_score": 4.42,
@@ -941,8 +945,8 @@
     "evidence_confidence": "low",
     "existing_solution_signal": 0.0,
     "representative_problems": [
-      "FTC consumer complaints report has Michigan near the top - Detroit Free Press",
-      "FTC consumer complaints report has Michigan near the top - freep.com"
+      "FTC consumer complaints report has Michigan near the top - freep.com",
+      "FTC consumer complaints report has Michigan near the top - Detroit Free Press"
     ],
     "sources": [
       "Google News"
@@ -954,6 +958,42 @@
       "Common signals: complain, complaint",
       "Independent source domains: 1; unique observations: 1",
       "Average source/evidence quality: 3.5/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "3ed6ace99023",
+    "title": "Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - Bitdefender",
+    "category": "jobs",
+    "observation_ids": [
+      "29abe1d0dccfb33b",
+      "5fcd4483a21303a8"
+    ],
+    "observation_count": 2,
+    "evidence_score": 4.38,
+    "pain_score": 3.0,
+    "recurrence_score": 4.2,
+    "information_gap_score": 2.8,
+    "automation_score": 5.2,
+    "monetization_signal_score": 5.2,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - Bitdefender",
+      "Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - bitdefender.com"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: scam",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
       "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
     ]
   },
@@ -1354,6 +1394,42 @@
     ]
   },
   {
+    "id": "04c911c0daaf",
+    "title": "Power outage forces increase in water costs in Yola - Daily Post Nigeria",
+    "category": "power",
+    "observation_ids": [
+      "46b4cd37c5d80e22",
+      "62ee04e00a11278e"
+    ],
+    "observation_count": 2,
+    "evidence_score": 4.38,
+    "pain_score": 2.5,
+    "recurrence_score": 4.2,
+    "information_gap_score": 2.8,
+    "automation_score": 3.2,
+    "monetization_signal_score": 2.7,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "Power outage forces increase in water costs in Yola - Daily Post Nigeria",
+      "Power outage forces increase in water costs in Yola - dailypost.ng"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: power outage",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
     "id": "245cdb6e24e6",
     "title": "N386,000 Unity College fee is scam, ministry warns parents - The Guardian Nigeria News",
     "category": "housing",
@@ -1463,11 +1539,11 @@
   },
   {
     "id": "9211579e9a97",
-    "title": "NIS Warns Against Fraudulent Platforms For Passport Application, Payments - - tvcnews.tv",
+    "title": "NIS Warns Against Fraudulent Platforms For Passport Application, Payments - - TVC News",
     "category": "payments",
     "observation_ids": [
-      "ba7136db1e7fb9e2",
-      "f3e01a1b37fbd4c0"
+      "f3e01a1b37fbd4c0",
+      "ba7136db1e7fb9e2"
     ],
     "observation_count": 2,
     "evidence_score": 4.38,
@@ -1481,8 +1557,8 @@
     "evidence_confidence": "low",
     "existing_solution_signal": 10.0,
     "representative_problems": [
-      "NIS Warns Against Fraudulent Platforms For Passport Application, Payments - - tvcnews.tv",
-      "NIS Warns Against Fraudulent Platforms For Passport Application, Payments - - TVC News"
+      "NIS Warns Against Fraudulent Platforms For Passport Application, Payments - - TVC News",
+      "NIS Warns Against Fraudulent Platforms For Passport Application, Payments - - tvcnews.tv"
     ],
     "sources": [
       "Google News"
@@ -1571,11 +1647,11 @@
   },
   {
     "id": "7a5a2a985f35",
-    "title": "‘I was desperate’: Young job seekers scammed, abused in Nigeria - Al Jazeera",
+    "title": "‘I was desperate’: Young job seekers scammed, abused in Nigeria - aljazeera.com",
     "category": "transport",
     "observation_ids": [
-      "652f686f02b960d7",
-      "977b59e58b2756b6"
+      "977b59e58b2756b6",
+      "652f686f02b960d7"
     ],
     "observation_count": 2,
     "evidence_score": 4.38,
@@ -1589,8 +1665,8 @@
     "evidence_confidence": "low",
     "existing_solution_signal": 0.0,
     "representative_problems": [
-      "‘I was desperate’: Young job seekers scammed, abused in Nigeria - Al Jazeera",
-      "‘I was desperate’: Young job seekers scammed, abused in Nigeria - aljazeera.com"
+      "‘I was desperate’: Young job seekers scammed, abused in Nigeria - aljazeera.com",
+      "‘I was desperate’: Young job seekers scammed, abused in Nigeria - Al Jazeera"
     ],
     "sources": [
       "Google News"
@@ -1715,11 +1791,11 @@
   },
   {
     "id": "5755f29c2cb1",
-    "title": "In Adamawa Hospitals, Poor Digital Systems Frustrate Medical Care - HumAngle",
+    "title": "In Adamawa Hospitals, Poor Digital Systems Frustrate Medical Care - humanglemedia.com",
     "category": "healthcare",
     "observation_ids": [
-      "cab0efbbad295853",
-      "8195102bc801607e"
+      "8195102bc801607e",
+      "cab0efbbad295853"
     ],
     "observation_count": 2,
     "evidence_score": 4.38,
@@ -1733,8 +1809,8 @@
     "evidence_confidence": "low",
     "existing_solution_signal": 0.0,
     "representative_problems": [
-      "In Adamawa Hospitals, Poor Digital Systems Frustrate Medical Care - HumAngle",
-      "In Adamawa Hospitals, Poor Digital Systems Frustrate Medical Care - humanglemedia.com"
+      "In Adamawa Hospitals, Poor Digital Systems Frustrate Medical Care - humanglemedia.com",
+      "In Adamawa Hospitals, Poor Digital Systems Frustrate Medical Care - HumAngle"
     ],
     "sources": [
       "Google News"
@@ -1858,12 +1934,48 @@
     ]
   },
   {
+    "id": "ee9616897b07",
+    "title": "Beware! Landlords, agents scamming new tenants with fake electricity bills - Business News Nigeria",
+    "category": "security",
+    "observation_ids": [
+      "fb2dc7cccde6b55a",
+      "ff85c1b9afa796ad"
+    ],
+    "observation_count": 2,
+    "evidence_score": 4.42,
+    "pain_score": 5.5,
+    "recurrence_score": 4.2,
+    "information_gap_score": 2.8,
+    "automation_score": 3.2,
+    "monetization_signal_score": 2.7,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.49,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "Beware! Landlords, agents scamming new tenants with fake electricity bills - Business News Nigeria",
+      "Beware! Landlords, agents scamming new tenants with fake electricity bills - businessday.ng"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: scam, fake",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.5/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
     "id": "91e8d41f9bcb",
-    "title": "Why solving Nigeria’s housing problem is beyond proptech startups for now - techpoint.africa",
+    "title": "Why solving Nigeria’s housing problem is beyond proptech startups for now - Techpoint Africa",
     "category": "housing",
     "observation_ids": [
-      "fbf41d381071a8c0",
-      "8d78f74173e53609"
+      "8d78f74173e53609",
+      "fbf41d381071a8c0"
     ],
     "observation_count": 2,
     "evidence_score": 4.38,
@@ -1877,8 +1989,8 @@
     "evidence_confidence": "low",
     "existing_solution_signal": 0.0,
     "representative_problems": [
-      "Why solving Nigeria’s housing problem is beyond proptech startups for now - techpoint.africa",
-      "Why solving Nigeria’s housing problem is beyond proptech startups for now - Techpoint Africa"
+      "Why solving Nigeria’s housing problem is beyond proptech startups for now - Techpoint Africa",
+      "Why solving Nigeria’s housing problem is beyond proptech startups for now - techpoint.africa"
     ],
     "sources": [
       "Google News"
@@ -2183,11 +2295,11 @@
   },
   {
     "id": "44780af770bd",
-    "title": "Why Nigerians are experiencing poor network service – MTN Chief - techpoint.africa",
+    "title": "Why Nigerians are experiencing poor network service – MTN Chief - Techpoint Africa",
     "category": "connectivity",
     "observation_ids": [
-      "f4ff3677cde7fb5f",
-      "d6ae7cfbf7e4bd90"
+      "d6ae7cfbf7e4bd90",
+      "f4ff3677cde7fb5f"
     ],
     "observation_count": 2,
     "evidence_score": 4.38,
@@ -2201,8 +2313,8 @@
     "evidence_confidence": "low",
     "existing_solution_signal": 10.0,
     "representative_problems": [
-      "Why Nigerians are experiencing poor network service – MTN Chief - techpoint.africa",
-      "Why Nigerians are experiencing poor network service – MTN Chief - Techpoint Africa"
+      "Why Nigerians are experiencing poor network service – MTN Chief - Techpoint Africa",
+      "Why Nigerians are experiencing poor network service – MTN Chief - techpoint.africa"
     ],
     "sources": [
       "Google News"
@@ -2290,42 +2402,6 @@
     ]
   },
   {
-    "id": "613eeba114ee",
-    "title": "‘Power outages cost Nigerian businesses 3% of yearly sales’ - The Guardian Nigeria News",
-    "category": "business",
-    "observation_ids": [
-      "4ff4aaf956bad8ff",
-      "4f596d2a7cbf5a73"
-    ],
-    "observation_count": 2,
-    "evidence_score": 4.38,
-    "pain_score": 2.5,
-    "recurrence_score": 4.2,
-    "information_gap_score": 2.8,
-    "automation_score": 5.2,
-    "monetization_signal_score": 5.2,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "‘Power outages cost Nigerian businesses 3% of yearly sales’ - The Guardian Nigeria News",
-      "‘Power outages cost Nigerian businesses 3% of yearly sales’ - guardian.ng"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: power outage",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
     "id": "430264ab3e2f",
     "title": "Total Power Outage Plunges Rivers, Bayelsa and Imo Into Darkness - PM News Nigeria",
     "category": "power",
@@ -2347,6 +2423,42 @@
     "representative_problems": [
       "Total Power Outage Plunges Rivers, Bayelsa and Imo Into Darkness - PM News Nigeria",
       "Total Power Outage Plunges Rivers, Bayelsa and Imo Into Darkness - pmnewsnigeria.com"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: power outage",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "613eeba114ee",
+    "title": "‘Power outages cost Nigerian businesses 3% of yearly sales’ - The Guardian Nigeria News",
+    "category": "business",
+    "observation_ids": [
+      "4ff4aaf956bad8ff",
+      "4f596d2a7cbf5a73"
+    ],
+    "observation_count": 2,
+    "evidence_score": 4.38,
+    "pain_score": 2.5,
+    "recurrence_score": 4.2,
+    "information_gap_score": 2.8,
+    "automation_score": 5.2,
+    "monetization_signal_score": 5.2,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "‘Power outages cost Nigerian businesses 3% of yearly sales’ - The Guardian Nigeria News",
+      "‘Power outages cost Nigerian businesses 3% of yearly sales’ - guardian.ng"
     ],
     "sources": [
       "Google News"
@@ -2392,6 +2504,42 @@
     ],
     "notes": [
       "Common signals: no electricity",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "0d8c736443c9",
+    "title": "Nigeria: Fresh power outage hits states - blueprint.ng",
+    "category": "power",
+    "observation_ids": [
+      "183d21da25693d3b",
+      "97f2cd1c14ce31ed"
+    ],
+    "observation_count": 2,
+    "evidence_score": 4.38,
+    "pain_score": 2.5,
+    "recurrence_score": 4.2,
+    "information_gap_score": 2.8,
+    "automation_score": 3.2,
+    "monetization_signal_score": 2.7,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "Nigeria: Fresh power outage hits states - blueprint.ng",
+      "Nigeria: Fresh power outage hits states - Blueprint Newspapers"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: power outage",
       "Independent source domains: 1; unique observations: 1",
       "Average source/evidence quality: 3.2/10; verification confidence: low",
       "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
@@ -2467,6 +2615,42 @@
       "Independent source domains: 1; unique observations: 1",
       "Average source/evidence quality: 3.2/10; verification confidence: low",
       "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "b78df1af713b",
+    "title": "Ghost workers: Top five ministries wey ICPC say get plenty fake workers for Nigeria civil service - BBC",
+    "category": "jobs",
+    "observation_ids": [
+      "9dbb349096a76ec1",
+      "fc69e37d5b77d28f"
+    ],
+    "observation_count": 2,
+    "evidence_score": 4.38,
+    "pain_score": 2.5,
+    "recurrence_score": 4.2,
+    "information_gap_score": 2.8,
+    "automation_score": 5.2,
+    "monetization_signal_score": 5.2,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 10.0,
+    "representative_problems": [
+      "Ghost workers: Top five ministries wey ICPC say get plenty fake workers for Nigeria civil service - BBC",
+      "Ghost workers: Top five ministries wey ICPC say get plenty fake workers for Nigeria civil service - bbc.com"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: fake",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 10.0/10 (not a market-size estimate)"
     ]
   },
   {
@@ -2722,6 +2906,42 @@
     ]
   },
   {
+    "id": "5c125cac833a",
+    "title": "How is Nigeria’s anti-fraud unit doing? Case study asks detectives how they manage with few funds - The Conversation",
+    "category": "security",
+    "observation_ids": [
+      "ea654f822a41154e",
+      "ca77b4cf52140884"
+    ],
+    "observation_count": 2,
+    "evidence_score": 4.38,
+    "pain_score": 3.0,
+    "recurrence_score": 4.2,
+    "information_gap_score": 2.8,
+    "automation_score": 3.2,
+    "monetization_signal_score": 2.7,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "How is Nigeria’s anti-fraud unit doing? Case study asks detectives how they manage with few funds - The Conversation",
+      "How is Nigeria’s anti-fraud unit doing? Case study asks detectives how they manage with few funds - theconversation.com"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: fraud",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
     "id": "70fed5ea9111",
     "title": "Nigerian arrested in UK airport over mining fraud - Punch Newspapers",
     "category": "security",
@@ -2752,6 +2972,42 @@
     ],
     "notes": [
       "Common signals: fraud",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "4019178d7f56",
+    "title": "Army dismisses Boko Haram, ISWAP attack alert as fake - Daily Post Nigeria",
+    "category": "repairs",
+    "observation_ids": [
+      "1c9c83da65183e87",
+      "6b82471508744917"
+    ],
+    "observation_count": 2,
+    "evidence_score": 4.38,
+    "pain_score": 2.5,
+    "recurrence_score": 4.2,
+    "information_gap_score": 2.8,
+    "automation_score": 3.2,
+    "monetization_signal_score": 5.2,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "Army dismisses Boko Haram, ISWAP attack alert as fake - Daily Post Nigeria",
+      "Army dismisses Boko Haram, ISWAP attack alert as fake - dailypost.ng"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: fake",
       "Independent source domains: 1; unique observations: 1",
       "Average source/evidence quality: 3.2/10; verification confidence: low",
       "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
@@ -2824,114 +3080,6 @@
     ],
     "notes": [
       "Common signals: fraud",
-      "Independent source domains: 1; unique observations: 2",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
-    "id": "4019178d7f56",
-    "title": "Army dismisses Boko Haram, ISWAP attack alert as fake - Daily Post Nigeria",
-    "category": "repairs",
-    "observation_ids": [
-      "1c9c83da65183e87",
-      "6b82471508744917"
-    ],
-    "observation_count": 2,
-    "evidence_score": 4.38,
-    "pain_score": 2.5,
-    "recurrence_score": 4.2,
-    "information_gap_score": 2.8,
-    "automation_score": 3.2,
-    "monetization_signal_score": 5.2,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "Army dismisses Boko Haram, ISWAP attack alert as fake - Daily Post Nigeria",
-      "Army dismisses Boko Haram, ISWAP attack alert as fake - dailypost.ng"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: fake",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
-    "id": "5c125cac833a",
-    "title": "How is Nigeria’s anti-fraud unit doing? Case study asks detectives how they manage with few funds - The Conversation",
-    "category": "security",
-    "observation_ids": [
-      "ea654f822a41154e",
-      "ca77b4cf52140884"
-    ],
-    "observation_count": 2,
-    "evidence_score": 4.38,
-    "pain_score": 3.0,
-    "recurrence_score": 4.2,
-    "information_gap_score": 2.8,
-    "automation_score": 3.2,
-    "monetization_signal_score": 2.7,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "How is Nigeria’s anti-fraud unit doing? Case study asks detectives how they manage with few funds - The Conversation",
-      "How is Nigeria’s anti-fraud unit doing? Case study asks detectives how they manage with few funds - theconversation.com"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: fraud",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
-    "id": "d31473ed8200",
-    "title": "EFCC investigates suspect arrested with fake $212,200 in Kano - Premium Times Nigeria",
-    "category": "security",
-    "observation_ids": [
-      "8bcb5c1bd7b6bf2f",
-      "0c97dbdd7b7c181a"
-    ],
-    "observation_count": 2,
-    "evidence_score": 4.38,
-    "pain_score": 2.5,
-    "recurrence_score": 4.2,
-    "information_gap_score": 2.8,
-    "automation_score": 3.2,
-    "monetization_signal_score": 2.7,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "EFCC investigates suspect arrested with fake $212,200 in Kano - Premium Times Nigeria",
-      "EFCC Probes Man Arrested With Fake $212,200 In Kano - The Whistler Newspaper"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: fake",
       "Independent source domains: 1; unique observations: 2",
       "Average source/evidence quality: 3.2/10; verification confidence: low",
       "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
@@ -3083,11 +3231,11 @@
   },
   {
     "id": "063979f2c42b",
-    "title": "Fake products, real dangers: The hidden risks of counterfeit and substandard products - icirnigeria.org",
+    "title": "Fake products, real dangers: The hidden risks of counterfeit and substandard products - The ICIR",
     "category": "security",
     "observation_ids": [
-      "1eb1f39d55628859",
-      "8e66310afc626ea1"
+      "8e66310afc626ea1",
+      "1eb1f39d55628859"
     ],
     "observation_count": 2,
     "evidence_score": 4.42,
@@ -3101,8 +3249,8 @@
     "evidence_confidence": "low",
     "existing_solution_signal": 0.0,
     "representative_problems": [
-      "Fake products, real dangers: The hidden risks of counterfeit and substandard products - icirnigeria.org",
-      "Fake products, real dangers: The hidden risks of counterfeit and substandard products - The ICIR"
+      "Fake products, real dangers: The hidden risks of counterfeit and substandard products - The ICIR",
+      "Fake products, real dangers: The hidden risks of counterfeit and substandard products - icirnigeria.org"
     ],
     "sources": [
       "Google News"
@@ -3115,6 +3263,42 @@
       "Independent source domains: 1; unique observations: 1",
       "Average source/evidence quality: 3.5/10; verification confidence: low",
       "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "67299e2ec2ec",
+    "title": "FRSC Disowns Fake Recruitment Notice, Warns Applicants Against Scammers - Nigeria Info FM",
+    "category": "security",
+    "observation_ids": [
+      "da235b7c0b2217b9",
+      "2552f0f9e5a534d5"
+    ],
+    "observation_count": 2,
+    "evidence_score": 4.4,
+    "pain_score": 4.0,
+    "recurrence_score": 4.2,
+    "information_gap_score": 2.8,
+    "automation_score": 3.2,
+    "monetization_signal_score": 2.7,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.42,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 10.0,
+    "representative_problems": [
+      "FRSC Disowns Fake Recruitment Notice, Warns Applicants Against Scammers - Nigeria Info FM",
+      "FRSC Warns Applicants After Fake Recruitment Notice Goes Viral - The Whistler Newspaper"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: fake, scam",
+      "Independent source domains: 1; unique observations: 2",
+      "Average source/evidence quality: 3.4/10; verification confidence: low",
+      "Existing-solution language signal: 10.0/10 (not a market-size estimate)"
     ]
   },
   {
@@ -3262,6 +3446,42 @@
     ]
   },
   {
+    "id": "9ff886a1b8ff",
+    "title": "Nigerians should stop complaining, embrace productivity for country’s growth: Minister - Peoples Gazette Nigeria",
+    "category": "repairs",
+    "observation_ids": [
+      "b9346456445d7f89",
+      "9839e47f71988eb4"
+    ],
+    "observation_count": 2,
+    "evidence_score": 4.38,
+    "pain_score": 1.5,
+    "recurrence_score": 4.2,
+    "information_gap_score": 2.8,
+    "automation_score": 3.2,
+    "monetization_signal_score": 5.2,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "Nigerians should stop complaining, embrace productivity for country’s growth: Minister - Peoples Gazette Nigeria",
+      "Nigerians should stop complaining, embrace productivity for country’s growth: Minister - gazettengr.com"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: complain",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
     "id": "67db75c8feac",
     "title": "Fuel scarcity in Nigeria 2019: NNPC say na 'Fake news' as dem get over 1 billion litres of petrol - BBC",
     "category": "power",
@@ -3334,12 +3554,12 @@
     ]
   },
   {
-    "id": "a62ed62a2223",
-    "title": "Lagos: Nigerian youths waste time on ‘frivolities’, says Deputy Governor Hamzat - Peoples Gazette Nigeria",
-    "category": "other",
+    "id": "1e73cd2f6747",
+    "title": "Nigeria: Insecurity - Frustrated Nigerian Senators Call for 'Shutdown' of National Assembly - allafrica.com",
+    "category": "security",
     "observation_ids": [
-      "3b70ea813222a6cc",
-      "3443cc0c011ba2a6"
+      "ed9abe823e416552",
+      "461eb0f73daaed9f"
     ],
     "observation_count": 2,
     "evidence_score": 4.38,
@@ -3353,8 +3573,8 @@
     "evidence_confidence": "low",
     "existing_solution_signal": 0.0,
     "representative_problems": [
-      "Lagos: Nigerian youths waste time on ‘frivolities’, says Deputy Governor Hamzat - Peoples Gazette Nigeria",
-      "Lagos: Nigerian youths waste time on ‘frivolities’, says Deputy Governor Hamzat - gazettengr.com"
+      "Nigeria: Insecurity - Frustrated Nigerian Senators Call for 'Shutdown' of National Assembly - allafrica.com",
+      "Nigeria: Insecurity - Frustrated Nigerian Senators Call for 'Shutdown' of National Assembly - allAfrica.com"
     ],
     "sources": [
       "Google News"
@@ -3363,7 +3583,7 @@
       "news.google.com"
     ],
     "notes": [
-      "Common signals: waste time",
+      "Common signals: frustrat",
       "Independent source domains: 1; unique observations: 1",
       "Average source/evidence quality: 3.2/10; verification confidence: low",
       "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
@@ -3391,6 +3611,42 @@
     "representative_problems": [
       "VIDEO: Govs-Elect Shouldn’t Waste Time Probing Predecessors — Umar-Radda - Channels Television",
       "VIDEO: Govs-Elect Shouldn’t Waste Time Probing Predecessors — Umar-Radda - channelstv.com"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: waste time",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "a62ed62a2223",
+    "title": "Lagos: Nigerian youths waste time on ‘frivolities’, says Deputy Governor Hamzat - Peoples Gazette Nigeria",
+    "category": "other",
+    "observation_ids": [
+      "3b70ea813222a6cc",
+      "3443cc0c011ba2a6"
+    ],
+    "observation_count": 2,
+    "evidence_score": 4.38,
+    "pain_score": 2.5,
+    "recurrence_score": 4.2,
+    "information_gap_score": 2.8,
+    "automation_score": 3.2,
+    "monetization_signal_score": 2.7,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "Lagos: Nigerian youths waste time on ‘frivolities’, says Deputy Governor Hamzat - Peoples Gazette Nigeria",
+      "Lagos: Nigerian youths waste time on ‘frivolities’, says Deputy Governor Hamzat - gazettengr.com"
     ],
     "sources": [
       "Google News"
@@ -3838,6 +4094,42 @@
     ]
   },
   {
+    "id": "bb2f52e04902",
+    "title": "When Global Giants Find Nigeria Too Costly to Stay - THISDAYLIVE",
+    "category": "connectivity",
+    "observation_ids": [
+      "ce56ab55326d312b",
+      "7d52e125930c4627"
+    ],
+    "observation_count": 2,
+    "evidence_score": 4.38,
+    "pain_score": 2.0,
+    "recurrence_score": 4.2,
+    "information_gap_score": 2.8,
+    "automation_score": 3.2,
+    "monetization_signal_score": 2.7,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "When Global Giants Find Nigeria Too Costly to Stay - THISDAYLIVE",
+      "When Global Giants Find Nigeria Too Costly to Stay - thisdaylive.com"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: costly",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
     "id": "fc33497b591c",
     "title": "Break the costly addiction to imported building materials - The Guardian Nigeria News",
     "category": "other",
@@ -3911,11 +4203,11 @@
   },
   {
     "id": "bd71f090e3b7",
-    "title": "Budget Surge, Security Plunge: Nigeria’s Costly Crisis of Accountability - The Budgit Foundation",
+    "title": "Budget Surge, Security Plunge: Nigeria’s Costly Crisis of Accountability - budgit.org",
     "category": "repairs",
     "observation_ids": [
-      "71ccefa06e826ada",
-      "514ebfc875548f96"
+      "514ebfc875548f96",
+      "71ccefa06e826ada"
     ],
     "observation_count": 2,
     "evidence_score": 4.38,
@@ -3929,8 +4221,8 @@
     "evidence_confidence": "low",
     "existing_solution_signal": 0.0,
     "representative_problems": [
-      "Budget Surge, Security Plunge: Nigeria’s Costly Crisis of Accountability - The Budgit Foundation",
-      "Budget Surge, Security Plunge: Nigeria’s Costly Crisis of Accountability - budgit.org"
+      "Budget Surge, Security Plunge: Nigeria’s Costly Crisis of Accountability - budgit.org",
+      "Budget Surge, Security Plunge: Nigeria’s Costly Crisis of Accountability - The Budgit Foundation"
     ],
     "sources": [
       "Google News"
@@ -4198,6 +4490,78 @@
     ]
   },
   {
+    "id": "3c80e512f156",
+    "title": "22 Identity Theft Statistics for 2026: ID Fraud on the Rise - Cloudwards.net",
+    "category": "security",
+    "observation_ids": [
+      "047fb72cd9ed08f2",
+      "e16c7a0fcc03d854"
+    ],
+    "observation_count": 2,
+    "evidence_score": 4.38,
+    "pain_score": 3.0,
+    "recurrence_score": 4.2,
+    "information_gap_score": 2.8,
+    "automation_score": 3.2,
+    "monetization_signal_score": 2.7,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "22 Identity Theft Statistics for 2026: ID Fraud on the Rise - Cloudwards.net",
+      "22 Identity Theft Statistics for 2026: ID Fraud on the Rise - cloudwards.net"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: fraud",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "d31473ed8200",
+    "title": "EFCC investigates suspect arrested with fake $212,200 in Kano - Premium Times Nigeria",
+    "category": "security",
+    "observation_ids": [
+      "8bcb5c1bd7b6bf2f",
+      "0c97dbdd7b7c181a"
+    ],
+    "observation_count": 2,
+    "evidence_score": 4.38,
+    "pain_score": 2.5,
+    "recurrence_score": 4.2,
+    "information_gap_score": 2.8,
+    "automation_score": 3.2,
+    "monetization_signal_score": 2.7,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "EFCC investigates suspect arrested with fake $212,200 in Kano - Premium Times Nigeria",
+      "EFCC Probes Man Arrested With Fake $212,200 In Kano - The Whistler Newspaper"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: fake",
+      "Independent source domains: 1; unique observations: 2",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
     "id": "98127e5d3b69",
     "title": "Nigerians, ignore fake Facebook accounts posing as GTBank and offering bogus loans - Africa Check",
     "category": "repairs",
@@ -4228,114 +4592,6 @@
     ],
     "notes": [
       "Common signals: fake",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
-    "id": "ee9616897b07",
-    "title": "Beware! Landlords, agents scamming new tenants with fake electricity bills - Business News Nigeria",
-    "category": "security",
-    "observation_ids": [
-      "fb2dc7cccde6b55a",
-      "ff85c1b9afa796ad"
-    ],
-    "observation_count": 2,
-    "evidence_score": 4.42,
-    "pain_score": 5.5,
-    "recurrence_score": 4.2,
-    "information_gap_score": 2.8,
-    "automation_score": 3.2,
-    "monetization_signal_score": 2.7,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.49,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "Beware! Landlords, agents scamming new tenants with fake electricity bills - Business News Nigeria",
-      "Beware! Landlords, agents scamming new tenants with fake electricity bills - businessday.ng"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: scam, fake",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.5/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
-    "id": "b78df1af713b",
-    "title": "Ghost workers: Top five ministries wey ICPC say get plenty fake workers for Nigeria civil service - BBC",
-    "category": "jobs",
-    "observation_ids": [
-      "9dbb349096a76ec1",
-      "fc69e37d5b77d28f"
-    ],
-    "observation_count": 2,
-    "evidence_score": 4.38,
-    "pain_score": 2.5,
-    "recurrence_score": 4.2,
-    "information_gap_score": 2.8,
-    "automation_score": 5.2,
-    "monetization_signal_score": 5.2,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 10.0,
-    "representative_problems": [
-      "Ghost workers: Top five ministries wey ICPC say get plenty fake workers for Nigeria civil service - BBC",
-      "Ghost workers: Top five ministries wey ICPC say get plenty fake workers for Nigeria civil service - bbc.com"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: fake",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 10.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
-    "id": "9ff886a1b8ff",
-    "title": "Nigerians should stop complaining, embrace productivity for country’s growth: Minister - Peoples Gazette Nigeria",
-    "category": "repairs",
-    "observation_ids": [
-      "b9346456445d7f89",
-      "9839e47f71988eb4"
-    ],
-    "observation_count": 2,
-    "evidence_score": 4.38,
-    "pain_score": 1.5,
-    "recurrence_score": 4.2,
-    "information_gap_score": 2.8,
-    "automation_score": 3.2,
-    "monetization_signal_score": 5.2,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "Nigerians should stop complaining, embrace productivity for country’s growth: Minister - Peoples Gazette Nigeria",
-      "Nigerians should stop complaining, embrace productivity for country’s growth: Minister - gazettengr.com"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: complain",
       "Independent source domains: 1; unique observations: 1",
       "Average source/evidence quality: 3.2/10; verification confidence: low",
       "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
@@ -4378,42 +4634,6 @@
     ]
   },
   {
-    "id": "bb2f52e04902",
-    "title": "When Global Giants Find Nigeria Too Costly to Stay - THISDAYLIVE",
-    "category": "connectivity",
-    "observation_ids": [
-      "ce56ab55326d312b",
-      "7d52e125930c4627"
-    ],
-    "observation_count": 2,
-    "evidence_score": 4.38,
-    "pain_score": 2.0,
-    "recurrence_score": 4.2,
-    "information_gap_score": 2.8,
-    "automation_score": 3.2,
-    "monetization_signal_score": 2.7,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "When Global Giants Find Nigeria Too Costly to Stay - THISDAYLIVE",
-      "When Global Giants Find Nigeria Too Costly to Stay - thisdaylive.com"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: costly",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
     "id": "34a0c46db252",
     "title": "There is a mental disorder affecting many Nigerians online called ‘Nigerianis Negativitatus Stupidus Syndrome’ (NNSS).",
     "category": "repairs",
@@ -4448,42 +4668,6 @@
       "Independent source domains: 1; unique observations: 2",
       "Average source/evidence quality: 4.4/10; verification confidence: low",
       "Existing-solution language signal: 10.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
-    "id": "04c911c0daaf",
-    "title": "Power outage forces increase in water costs in Yola - Daily Post Nigeria",
-    "category": "power",
-    "observation_ids": [
-      "46b4cd37c5d80e22",
-      "62ee04e00a11278e"
-    ],
-    "observation_count": 2,
-    "evidence_score": 4.38,
-    "pain_score": 2.5,
-    "recurrence_score": 4.2,
-    "information_gap_score": 2.8,
-    "automation_score": 3.2,
-    "monetization_signal_score": 2.7,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "Power outage forces increase in water costs in Yola - Daily Post Nigeria",
-      "Power outage forces increase in water costs in Yola - dailypost.ng"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: power outage",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
     ]
   },
   {
@@ -5676,11 +5860,11 @@
     ]
   },
   {
-    "id": "49c59ca7d1e2",
-    "title": "Ask a Specialist: Ask your tech, auto, home or life questions here",
-    "category": "repairs",
+    "id": "769247864899",
+    "title": "Asian domination of the AI market",
+    "category": "food",
     "observation_ids": [
-      "3473825a97b6ec54"
+      "fc90a197e761105e"
     ],
     "observation_count": 1,
     "evidence_score": 3.78,
@@ -5688,13 +5872,13 @@
     "recurrence_score": 3.1,
     "information_gap_score": 2.8,
     "automation_score": 2.85,
-    "monetization_signal_score": 4.85,
+    "monetization_signal_score": 2.35,
     "source_diversity_score": 3.5,
     "verification_score": 3.69,
     "evidence_confidence": "low",
-    "existing_solution_signal": 10.0,
+    "existing_solution_signal": 0.0,
     "representative_problems": [
-      "Ask a Specialist: Ask your tech, auto, home or life questions here"
+      "Asian domination of the AI market"
     ],
     "sources": [
       "Reddit Search"
@@ -5706,131 +5890,29 @@
       "Common signals: problem",
       "Independent source domains: 1; unique observations: 1",
       "Average source/evidence quality: 3.9/10; verification confidence: low",
-      "Existing-solution language signal: 10.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
-    "id": "7ec94120720d",
-    "title": "Beware of PALESTINIAN ACCOUNT SCAMMERS",
-    "category": "repairs",
-    "observation_ids": [
-      "e35704feed4855c8"
-    ],
-    "observation_count": 1,
-    "evidence_score": 3.82,
-    "pain_score": 5.5,
-    "recurrence_score": 3.1,
-    "information_gap_score": 2.8,
-    "automation_score": 2.85,
-    "monetization_signal_score": 4.85,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.85,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 10.0,
-    "representative_problems": [
-      "Beware of PALESTINIAN ACCOUNT SCAMMERS"
-    ],
-    "sources": [
-      "Reddit Search"
-    ],
-    "source_domains": [
-      "reddit.com"
-    ],
-    "notes": [
-      "Common signals: scam, frustrat",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 4.1/10; verification confidence: low",
-      "Existing-solution language signal: 10.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
-    "id": "74ee0e27aed4",
-    "title": "FakeCryptoWallets",
-    "category": "security",
-    "observation_ids": [
-      "dda5ce45f127b9eb"
-    ],
-    "observation_count": 1,
-    "evidence_score": 3.82,
-    "pain_score": 5.5,
-    "recurrence_score": 3.1,
-    "information_gap_score": 2.8,
-    "automation_score": 2.85,
-    "monetization_signal_score": 2.35,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.85,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 10.0,
-    "representative_problems": [
-      "FakeCryptoWallets"
-    ],
-    "sources": [
-      "Reddit Search"
-    ],
-    "source_domains": [
-      "reddit.com"
-    ],
-    "notes": [
-      "Common signals: fraud, fake",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 4.1/10; verification confidence: low",
-      "Existing-solution language signal: 10.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
-    "id": "38a06e71e5d3",
-    "title": "Nigerian Scam - A place to Post all the Fake Emails that try to loosen money from peoples' Pockets",
-    "category": "security",
-    "observation_ids": [
-      "fae1f4075da73504"
-    ],
-    "observation_count": 1,
-    "evidence_score": 3.82,
-    "pain_score": 5.5,
-    "recurrence_score": 3.1,
-    "information_gap_score": 2.8,
-    "automation_score": 2.85,
-    "monetization_signal_score": 2.35,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.85,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "Nigerian Scam - A place to Post all the Fake Emails that try to loosen money from peoples' Pockets"
-    ],
-    "sources": [
-      "Reddit Search"
-    ],
-    "source_domains": [
-      "reddit.com"
-    ],
-    "notes": [
-      "Common signals: scam, fake",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 4.1/10; verification confidence: low",
       "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
     ]
   },
   {
-    "id": "8dccaa7e4685",
-    "title": "/r/Scams",
-    "category": "security",
+    "id": "e6ed0eeb3d9d",
+    "title": "👋Welcome to r/KanoNigeria - Introduce Yourself and Read First!",
+    "category": "payments",
     "observation_ids": [
-      "d1bd484afa03e9e0"
+      "24a623d653a00142"
     ],
     "observation_count": 1,
     "evidence_score": 3.78,
-    "pain_score": 3.0,
+    "pain_score": 1.5,
     "recurrence_score": 3.1,
-    "information_gap_score": 2.8,
-    "automation_score": 2.85,
-    "monetization_signal_score": 2.35,
+    "information_gap_score": 4.0,
+    "automation_score": 4.85,
+    "monetization_signal_score": 4.85,
     "source_diversity_score": 3.5,
     "verification_score": 3.69,
     "evidence_confidence": "low",
     "existing_solution_signal": 10.0,
     "representative_problems": [
-      "/r/Scams"
+      "👋Welcome to r/KanoNigeria - Introduce Yourself and Read First!"
     ],
     "sources": [
       "Reddit Search"
@@ -5839,112 +5921,78 @@
       "reddit.com"
     ],
     "notes": [
-      "Common signals: scam",
+      "Common signals: looking for",
       "Independent source domains: 1; unique observations: 1",
       "Average source/evidence quality: 3.9/10; verification confidence: low",
       "Existing-solution language signal: 10.0/10 (not a market-size estimate)"
     ]
   },
   {
-    "id": "257930d656dc",
-    "title": "Finding comprehensive (listening) input for Ibibio language",
-    "category": "housing",
+    "id": "8639cdc30f64",
+    "title": "How do I get an Angolan Girlfriend?",
+    "category": "other",
     "observation_ids": [
-      "ab742de2b82e051b"
+      "69f58e8eb9333438"
     ],
     "observation_count": 1,
     "evidence_score": 3.78,
     "pain_score": 2.0,
     "recurrence_score": 3.1,
-    "information_gap_score": 2.8,
+    "information_gap_score": 4.0,
     "automation_score": 2.85,
-    "monetization_signal_score": 4.85,
+    "monetization_signal_score": 2.35,
     "source_diversity_score": 3.5,
     "verification_score": 3.69,
     "evidence_confidence": "low",
-    "existing_solution_signal": 10.0,
+    "existing_solution_signal": 0.0,
     "representative_problems": [
-      "Finding comprehensive (listening) input for Ibibio language"
+      "How do I get an Angolan Girlfriend?"
     ],
     "sources": [
-      "Reddit Nigeria"
+      "Reddit Search"
     ],
     "source_domains": [
       "reddit.com"
     ],
     "notes": [
-      "Common signals: difficult",
+      "Common signals: how do i",
       "Independent source domains: 1; unique observations: 1",
       "Average source/evidence quality: 3.9/10; verification confidence: low",
-      "Existing-solution language signal: 10.0/10 (not a market-size estimate)"
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
     ]
   },
   {
-    "id": "fa0eef64c6b4",
-    "title": "Any websites where you can learn Ibibio for free? (can't find user flair, sorry!)",
-    "category": "housing",
+    "id": "d03e5fde4df0",
+    "title": "Power Outage Discussions",
+    "category": "power",
     "observation_ids": [
-      "b7b08059a4a9f1b7"
+      "72a3b1d13ce98ff9"
     ],
     "observation_count": 1,
     "evidence_score": 3.78,
-    "pain_score": 3.0,
+    "pain_score": 2.5,
     "recurrence_score": 3.1,
-    "information_gap_score": 4.0,
+    "information_gap_score": 2.8,
     "automation_score": 2.85,
-    "monetization_signal_score": 4.85,
+    "monetization_signal_score": 2.35,
     "source_diversity_score": 3.5,
     "verification_score": 3.69,
     "evidence_confidence": "low",
-    "existing_solution_signal": 10.0,
+    "existing_solution_signal": 0.0,
     "representative_problems": [
-      "Any websites where you can learn Ibibio for free? (can't find user flair, sorry!)"
+      "Power Outage Discussions"
     ],
     "sources": [
-      "Reddit Nigeria"
+      "Reddit Search"
     ],
     "source_domains": [
       "reddit.com"
     ],
     "notes": [
-      "Common signals: can't find",
+      "Common signals: power outage",
       "Independent source domains: 1; unique observations: 1",
       "Average source/evidence quality: 3.9/10; verification confidence: low",
-      "Existing-solution language signal: 10.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
-    "id": "e47dff627601",
-    "title": "Looking for sources to learn Nigerian Pidgin. Any recommendations?",
-    "category": "repairs",
-    "observation_ids": [
-      "720078d18373dd12"
-    ],
-    "observation_count": 1,
-    "evidence_score": 3.82,
-    "pain_score": 2.5,
-    "recurrence_score": 3.1,
-    "information_gap_score": 5.2,
-    "automation_score": 2.85,
-    "monetization_signal_score": 4.85,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.85,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 10.0,
-    "representative_problems": [
-      "Looking for sources to learn Nigerian Pidgin. Any recommendations?"
-    ],
-    "sources": [
-      "Reddit Nigeria"
-    ],
-    "source_domains": [
-      "reddit.com"
-    ],
-    "notes": [
-      "Common signals: looking for, recommend",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 4.1/10; verification confidence: low",
-      "Existing-solution language signal: 10.0/10 (not a market-size estimate)"
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
     ]
   },
   {
@@ -6152,6 +6200,40 @@
     ]
   },
   {
+    "id": "f89b04861e3e",
+    "title": "Mastering my Nigerian Jollof Rice",
+    "category": "food",
+    "observation_ids": [
+      "8681d0233a2563a3"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.82,
+    "pain_score": 2.5,
+    "recurrence_score": 3.1,
+    "information_gap_score": 4.0,
+    "automation_score": 2.85,
+    "monetization_signal_score": 2.35,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.85,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "Mastering my Nigerian Jollof Rice"
+    ],
+    "sources": [
+      "Reddit Nigeria"
+    ],
+    "source_domains": [
+      "reddit.com"
+    ],
+    "notes": [
+      "Common signals: problem, recommend",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 4.1/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
     "id": "bed9746f25ef",
     "title": "New lodging reservation scam can trick you into giving up credit card information - WRTV",
     "category": "security",
@@ -6220,25 +6302,25 @@
     ]
   },
   {
-    "id": "3034045e6c36",
-    "title": "Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week",
-    "category": "payments",
+    "id": "19364a6ff4f9",
+    "title": "Nigerian man pleads guilty in $6 million inheritance scam targeting over 400 U.S. seniors - WPEC",
+    "category": "security",
     "observation_ids": [
-      "7665559e570d40b5"
+      "33ba5391729df6e6"
     ],
     "observation_count": 1,
-    "evidence_score": 3.77,
-    "pain_score": 6.0,
+    "evidence_score": 3.68,
+    "pain_score": 3.0,
     "recurrence_score": 3.1,
     "information_gap_score": 2.8,
-    "automation_score": 4.85,
-    "monetization_signal_score": 4.85,
+    "automation_score": 2.85,
+    "monetization_signal_score": 2.35,
     "source_diversity_score": 3.5,
-    "verification_score": 3.65,
+    "verification_score": 3.34,
     "evidence_confidence": "low",
     "existing_solution_signal": 0.0,
     "representative_problems": [
-      "Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week"
+      "Nigerian man pleads guilty in $6 million inheritance scam targeting over 400 U.S. seniors - WPEC"
     ],
     "sources": [
       "Google News"
@@ -6247,9 +6329,43 @@
       "news.google.com"
     ],
     "notes": [
-      "Common signals: fraud, complain, complaint",
+      "Common signals: scam",
       "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.8/10; verification confidence: low",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "8a7e06844c2e",
+    "title": "FirstBank highlights solid firewall against e-banking fraud - TheNiche",
+    "category": "payments",
+    "observation_ids": [
+      "b28e0cf131939d14"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.68,
+    "pain_score": 3.0,
+    "recurrence_score": 3.1,
+    "information_gap_score": 2.8,
+    "automation_score": 4.85,
+    "monetization_signal_score": 4.85,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "FirstBank highlights solid firewall against e-banking fraud - TheNiche"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: fraud",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
       "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
     ]
   },
@@ -6384,6 +6500,40 @@
     ],
     "notes": [
       "Common signals: frustrat",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "951311df4319",
+    "title": "When learning gets expensive: Parents, students, schools sound the alarm - Tribune Online",
+    "category": "education",
+    "observation_ids": [
+      "4b9ceb5c69c4197e"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.68,
+    "pain_score": 1.5,
+    "recurrence_score": 3.1,
+    "information_gap_score": 2.8,
+    "automation_score": 2.85,
+    "monetization_signal_score": 2.35,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "When learning gets expensive: Parents, students, schools sound the alarm - Tribune Online"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: expensive",
       "Independent source domains: 1; unique observations: 1",
       "Average source/evidence quality: 3.2/10; verification confidence: low",
       "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
@@ -6628,6 +6778,40 @@
     ]
   },
   {
+    "id": "ea73ea49edff",
+    "title": "Avoid Scams: Renting Property Safely in Nigeria This Detty December - nigeriahousingmarket.com",
+    "category": "housing",
+    "observation_ids": [
+      "d7dad7d5a267aac3"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.68,
+    "pain_score": 3.0,
+    "recurrence_score": 3.1,
+    "information_gap_score": 2.8,
+    "automation_score": 2.85,
+    "monetization_signal_score": 4.85,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "Avoid Scams: Renting Property Safely in Nigeria This Detty December - nigeriahousingmarket.com"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: scam",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
     "id": "26de7c9e7cdc",
     "title": "Housing Transparency Concerns Grow After Lagos Apartment Fraud Allegations - nigeriahousingmarket.com",
     "category": "housing",
@@ -6662,15 +6846,15 @@
     ]
   },
   {
-    "id": "1f6265f46e64",
-    "title": "10 problems of road transportation and solutions in Nigeria - Legit News",
-    "category": "transport",
+    "id": "303cfc5f2cab",
+    "title": "How Nigeria’s poor network causes phone overheating, drains batteries - The Guardian Nigeria News",
+    "category": "connectivity",
     "observation_ids": [
-      "9a1723e37655f8a8"
+      "ac31770479247e4f"
     ],
     "observation_count": 1,
     "evidence_score": 3.68,
-    "pain_score": 1.5,
+    "pain_score": 2.5,
     "recurrence_score": 3.1,
     "information_gap_score": 2.8,
     "automation_score": 2.85,
@@ -6680,7 +6864,7 @@
     "evidence_confidence": "low",
     "existing_solution_signal": 0.0,
     "representative_problems": [
-      "10 problems of road transportation and solutions in Nigeria - Legit News"
+      "How Nigeria’s poor network causes phone overheating, drains batteries - The Guardian Nigeria News"
     ],
     "sources": [
       "Google News"
@@ -6689,7 +6873,7 @@
       "news.google.com"
     ],
     "notes": [
-      "Common signals: problem",
+      "Common signals: poor network",
       "Independent source domains: 1; unique observations: 1",
       "Average source/evidence quality: 3.2/10; verification confidence: low",
       "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
@@ -6764,40 +6948,6 @@
     ]
   },
   {
-    "id": "263e96fc5924",
-    "title": "Three-Year Power Outage Cripples Businesses In Kastina Communities - The Whistler Newspaper",
-    "category": "power",
-    "observation_ids": [
-      "6695bfb0950d24b1"
-    ],
-    "observation_count": 1,
-    "evidence_score": 3.68,
-    "pain_score": 2.5,
-    "recurrence_score": 3.1,
-    "information_gap_score": 2.8,
-    "automation_score": 2.85,
-    "monetization_signal_score": 2.35,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "Three-Year Power Outage Cripples Businesses In Kastina Communities - The Whistler Newspaper"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: power outage",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
     "id": "67d7bfc032db",
     "title": "Power outage hits Abuja, Jos as vandals destroy 6 TCN towers - Business News Nigeria",
     "category": "power",
@@ -6817,40 +6967,6 @@
     "existing_solution_signal": 0.0,
     "representative_problems": [
       "Power outage hits Abuja, Jos as vandals destroy 6 TCN towers - Business News Nigeria"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: power outage",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
-    "id": "bd63524fb9b0",
-    "title": "Nigeria: Fresh power outage hits states - Blueprint Newspapers",
-    "category": "power",
-    "observation_ids": [
-      "97f2cd1c14ce31ed"
-    ],
-    "observation_count": 1,
-    "evidence_score": 3.68,
-    "pain_score": 2.5,
-    "recurrence_score": 3.1,
-    "information_gap_score": 2.8,
-    "automation_score": 2.85,
-    "monetization_signal_score": 2.35,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "Nigeria: Fresh power outage hits states - Blueprint Newspapers"
     ],
     "sources": [
       "Google News"
@@ -6900,40 +7016,6 @@
     ]
   },
   {
-    "id": "8babb1cf1062",
-    "title": "FAKE! PM NEWS never published ‘Peter Obi Cured of Madness’ story - PM News Nigeria",
-    "category": "security",
-    "observation_ids": [
-      "fec975c083a73def"
-    ],
-    "observation_count": 1,
-    "evidence_score": 3.68,
-    "pain_score": 2.5,
-    "recurrence_score": 3.1,
-    "information_gap_score": 2.8,
-    "automation_score": 2.85,
-    "monetization_signal_score": 2.35,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "FAKE! PM NEWS never published ‘Peter Obi Cured of Madness’ story - PM News Nigeria"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: fake",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
     "id": "df3f1f3f32d2",
     "title": "Fake agency discoveries deepen questions over Nigeria’s public sector controls - Business News Nigeria",
     "category": "transport",
@@ -6968,45 +7050,11 @@
     ]
   },
   {
-    "id": "6f2a69dc7dcd",
-    "title": "Time to dismantle the fake drug cartel - Blueprint Newspapers",
-    "category": "healthcare",
-    "observation_ids": [
-      "2969367efa7948c0"
-    ],
-    "observation_count": 1,
-    "evidence_score": 3.68,
-    "pain_score": 2.5,
-    "recurrence_score": 3.1,
-    "information_gap_score": 2.8,
-    "automation_score": 2.85,
-    "monetization_signal_score": 2.35,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "Time to dismantle the fake drug cartel - Blueprint Newspapers"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: fake",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
-    "id": "642630306e21",
-    "title": "Concerns as fake herbal products flood social media - The Sun Nigeria",
+    "id": "8babb1cf1062",
+    "title": "FAKE! PM NEWS never published ‘Peter Obi Cured of Madness’ story - PM News Nigeria",
     "category": "security",
     "observation_ids": [
-      "a95bb187bf7a3102"
+      "fec975c083a73def"
     ],
     "observation_count": 1,
     "evidence_score": 3.68,
@@ -7020,7 +7068,7 @@
     "evidence_confidence": "low",
     "existing_solution_signal": 0.0,
     "representative_problems": [
-      "Concerns as fake herbal products flood social media - The Sun Nigeria"
+      "FAKE! PM NEWS never published ‘Peter Obi Cured of Madness’ story - PM News Nigeria"
     ],
     "sources": [
       "Google News"
@@ -7030,40 +7078,6 @@
     ],
     "notes": [
       "Common signals: fake",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
-    "id": "14fd79ebb6e0",
-    "title": "Unilever, customs move to curb counterfeit products in Nigeria - Business News Nigeria",
-    "category": "transport",
-    "observation_ids": [
-      "aec9b1a0ae282e65"
-    ],
-    "observation_count": 1,
-    "evidence_score": 3.68,
-    "pain_score": 3.0,
-    "recurrence_score": 3.1,
-    "information_gap_score": 2.8,
-    "automation_score": 2.85,
-    "monetization_signal_score": 2.35,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "Unilever, customs move to curb counterfeit products in Nigeria - Business News Nigeria"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: counterfeit",
       "Independent source domains: 1; unique observations: 1",
       "Average source/evidence quality: 3.2/10; verification confidence: low",
       "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
@@ -7098,6 +7112,40 @@
     ],
     "notes": [
       "Common signals: fraud",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "14fd79ebb6e0",
+    "title": "Unilever, customs move to curb counterfeit products in Nigeria - Business News Nigeria",
+    "category": "transport",
+    "observation_ids": [
+      "aec9b1a0ae282e65"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.68,
+    "pain_score": 3.0,
+    "recurrence_score": 3.1,
+    "information_gap_score": 2.8,
+    "automation_score": 2.85,
+    "monetization_signal_score": 2.35,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "Unilever, customs move to curb counterfeit products in Nigeria - Business News Nigeria"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: counterfeit",
       "Independent source domains: 1; unique observations: 1",
       "Average source/evidence quality: 3.2/10; verification confidence: low",
       "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
@@ -7172,40 +7220,6 @@
     ]
   },
   {
-    "id": "757356314366",
-    "title": "FACT-CHECK: Is Peter Obi parading a fake university degree certificate? Here are our findings - Premium Times Nigeria",
-    "category": "repairs",
-    "observation_ids": [
-      "bd2cb19001e55abc"
-    ],
-    "observation_count": 1,
-    "evidence_score": 3.68,
-    "pain_score": 2.5,
-    "recurrence_score": 3.1,
-    "information_gap_score": 2.8,
-    "automation_score": 2.85,
-    "monetization_signal_score": 4.85,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "FACT-CHECK: Is Peter Obi parading a fake university degree certificate? Here are our findings - Premium Times Nigeria"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: fake",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
     "id": "15aa9be5dae6",
     "title": "ICPC UNCOVERS ANOTHER FAKE AGENCY, PRESIDENT DIRECTS SUSPENSION OF THREE FEDERAL PERMANENT SECRETARIES AND ARREST OF FAK",
     "category": "government",
@@ -7259,6 +7273,40 @@
     "existing_solution_signal": 0.0,
     "representative_problems": [
       "Fake agencies expose weak checks on Nigeria’s MDA oversight - dataphyte.com"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: fake",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "385f5f9762d5",
+    "title": "NDLEA intercepts N3.4bn Loud, opioids, arrests fake police officer, mechanic-drug dealer - Daily Post Nigeria",
+    "category": "repairs",
+    "observation_ids": [
+      "bccedb454d133295"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.68,
+    "pain_score": 2.5,
+    "recurrence_score": 3.1,
+    "information_gap_score": 2.8,
+    "automation_score": 2.85,
+    "monetization_signal_score": 4.85,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "NDLEA intercepts N3.4bn Loud, opioids, arrests fake police officer, mechanic-drug dealer - Daily Post Nigeria"
     ],
     "sources": [
       "Google News"
@@ -7342,25 +7390,25 @@
     ]
   },
   {
-    "id": "fcd50d729fe9",
-    "title": "Counterfeit food, drugs flood Nigeria’s markets as regulators face fresh scrutiny - Tribune Online",
-    "category": "food",
+    "id": "5e8c3513c1eb",
+    "title": "INVESTIGATION: How Online Platform Slipcraft Helps Scammers Fake Transfers, Generate Fraudulent Receipts - Sahara Report",
+    "category": "security",
     "observation_ids": [
-      "ed67ae1cb5f48fae"
+      "578045c015a7fb6f"
     ],
     "observation_count": 1,
-    "evidence_score": 3.68,
-    "pain_score": 3.0,
+    "evidence_score": 3.77,
+    "pain_score": 8.5,
     "recurrence_score": 3.1,
     "information_gap_score": 2.8,
     "automation_score": 2.85,
     "monetization_signal_score": 2.35,
     "source_diversity_score": 3.5,
-    "verification_score": 3.34,
+    "verification_score": 3.65,
     "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
+    "existing_solution_signal": 10.0,
     "representative_problems": [
-      "Counterfeit food, drugs flood Nigeria’s markets as regulators face fresh scrutiny - Tribune Online"
+      "INVESTIGATION: How Online Platform Slipcraft Helps Scammers Fake Transfers, Generate Fraudulent Receipts - Sahara Reporters"
     ],
     "sources": [
       "Google News"
@@ -7369,10 +7417,10 @@
       "news.google.com"
     ],
     "notes": [
-      "Common signals: counterfeit",
+      "Common signals: scam, fraud, fake",
       "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+      "Average source/evidence quality: 3.8/10; verification confidence: low",
+      "Existing-solution language signal: 10.0/10 (not a market-size estimate)"
     ]
   },
   {
@@ -7682,74 +7730,6 @@
     ]
   },
   {
-    "id": "551c42c36ff8",
-    "title": "Nigeria: Insecurity - Frustrated Nigerian Senators Call for 'Shutdown' of National Assembly - allAfrica.com",
-    "category": "security",
-    "observation_ids": [
-      "461eb0f73daaed9f"
-    ],
-    "observation_count": 1,
-    "evidence_score": 3.68,
-    "pain_score": 2.5,
-    "recurrence_score": 3.1,
-    "information_gap_score": 2.8,
-    "automation_score": 2.85,
-    "monetization_signal_score": 2.35,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "Nigeria: Insecurity - Frustrated Nigerian Senators Call for 'Shutdown' of National Assembly - allAfrica.com"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: frustrat",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
-    "id": "83c08979398e",
-    "title": "“Let us not waste time”: Nigeria tells neighbours to hurry with gas pipe to Europe - Global Construction Review",
-    "category": "connectivity",
-    "observation_ids": [
-      "3f095cbaf19b3a69"
-    ],
-    "observation_count": 1,
-    "evidence_score": 3.68,
-    "pain_score": 2.5,
-    "recurrence_score": 3.1,
-    "information_gap_score": 2.8,
-    "automation_score": 2.85,
-    "monetization_signal_score": 2.35,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "“Let us not waste time”: Nigeria tells neighbours to hurry with gas pipe to Europe - Global Construction Review"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: waste time",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
     "id": "4cc058724014",
     "title": "‘Alahun: The Weaver’ Review: Dare Olaitan’s Long-Awaited Epic Adventure Return Takes Too Long to Get Going - What Kept M",
     "category": "other",
@@ -7778,40 +7758,6 @@
     ],
     "notes": [
       "Common signals: takes too long",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
-    "id": "65e6b1c54efa",
-    "title": "Duke Says Lagos-Calabar Highway Is a Costly Misplaced Priority - thesouthernexaminer.com",
-    "category": "repairs",
-    "observation_ids": [
-      "d32b85b569ece13b"
-    ],
-    "observation_count": 1,
-    "evidence_score": 3.68,
-    "pain_score": 2.0,
-    "recurrence_score": 3.1,
-    "information_gap_score": 2.8,
-    "automation_score": 2.85,
-    "monetization_signal_score": 4.85,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "Duke Says Lagos-Calabar Highway Is a Costly Misplaced Priority - thesouthernexaminer.com"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: costly",
       "Independent source domains: 1; unique observations: 1",
       "Average source/evidence quality: 3.2/10; verification confidence: low",
       "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
@@ -7852,40 +7798,6 @@
     ]
   },
   {
-    "id": "e53a1f4dde25",
-    "title": "M’East crisis exposes costly weakness in Nigeria’s cloud economy - The Guardian Nigeria News",
-    "category": "payments",
-    "observation_ids": [
-      "dddec0c89f0dca92"
-    ],
-    "observation_count": 1,
-    "evidence_score": 3.68,
-    "pain_score": 2.0,
-    "recurrence_score": 3.1,
-    "information_gap_score": 2.8,
-    "automation_score": 4.85,
-    "monetization_signal_score": 4.85,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "M’East crisis exposes costly weakness in Nigeria’s cloud economy - The Guardian Nigeria News"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: costly",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
     "id": "24ec9af0753e",
     "title": "Fubara Says June 12 Remains Nigeria’s Costly Road to Democracy, Unity and Freedom - thesouthernexaminer.com",
     "category": "transport",
@@ -7905,6 +7817,40 @@
     "existing_solution_signal": 0.0,
     "representative_problems": [
       "Fubara Says June 12 Remains Nigeria’s Costly Road to Democracy, Unity and Freedom - thesouthernexaminer.com"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: costly",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "e53a1f4dde25",
+    "title": "M’East crisis exposes costly weakness in Nigeria’s cloud economy - The Guardian Nigeria News",
+    "category": "payments",
+    "observation_ids": [
+      "dddec0c89f0dca92"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.68,
+    "pain_score": 2.0,
+    "recurrence_score": 3.1,
+    "information_gap_score": 2.8,
+    "automation_score": 4.85,
+    "monetization_signal_score": 4.85,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "M’East crisis exposes costly weakness in Nigeria’s cloud economy - The Guardian Nigeria News"
     ],
     "sources": [
       "Google News"
@@ -8090,6 +8036,40 @@
     ]
   },
   {
+    "id": "bcdc3c6d470e",
+    "title": "FIFA U20 World Cup: Mafisere’s error proves costly as Colombia dump out Nigeria - Soccernet.ng",
+    "category": "other",
+    "observation_ids": [
+      "3fddf512b253e76d"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.68,
+    "pain_score": 2.0,
+    "recurrence_score": 3.1,
+    "information_gap_score": 2.8,
+    "automation_score": 2.85,
+    "monetization_signal_score": 2.35,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "FIFA U20 World Cup: Mafisere’s error proves costly as Colombia dump out Nigeria - Soccernet.ng"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: costly",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
     "id": "281ef7a7869d",
     "title": "Alleged Pension Fraud: I can’t find Maina, Ndume tells court - Premium Times Nigeria",
     "category": "security",
@@ -8152,6 +8132,584 @@
     ],
     "notes": [
       "Common signals: cannot find",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "49c59ca7d1e2",
+    "title": "Ask a Specialist: Ask your tech, auto, home or life questions here",
+    "category": "repairs",
+    "observation_ids": [
+      "3473825a97b6ec54"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.78,
+    "pain_score": 1.5,
+    "recurrence_score": 3.1,
+    "information_gap_score": 2.8,
+    "automation_score": 2.85,
+    "monetization_signal_score": 4.85,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.69,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 10.0,
+    "representative_problems": [
+      "Ask a Specialist: Ask your tech, auto, home or life questions here"
+    ],
+    "sources": [
+      "Reddit Search"
+    ],
+    "source_domains": [
+      "reddit.com"
+    ],
+    "notes": [
+      "Common signals: problem",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.9/10; verification confidence: low",
+      "Existing-solution language signal: 10.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "7ec94120720d",
+    "title": "Beware of PALESTINIAN ACCOUNT SCAMMERS",
+    "category": "repairs",
+    "observation_ids": [
+      "e35704feed4855c8"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.82,
+    "pain_score": 5.5,
+    "recurrence_score": 3.1,
+    "information_gap_score": 2.8,
+    "automation_score": 2.85,
+    "monetization_signal_score": 4.85,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.85,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 10.0,
+    "representative_problems": [
+      "Beware of PALESTINIAN ACCOUNT SCAMMERS"
+    ],
+    "sources": [
+      "Reddit Search"
+    ],
+    "source_domains": [
+      "reddit.com"
+    ],
+    "notes": [
+      "Common signals: scam, frustrat",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 4.1/10; verification confidence: low",
+      "Existing-solution language signal: 10.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "74ee0e27aed4",
+    "title": "FakeCryptoWallets",
+    "category": "security",
+    "observation_ids": [
+      "dda5ce45f127b9eb"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.82,
+    "pain_score": 5.5,
+    "recurrence_score": 3.1,
+    "information_gap_score": 2.8,
+    "automation_score": 2.85,
+    "monetization_signal_score": 2.35,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.85,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 10.0,
+    "representative_problems": [
+      "FakeCryptoWallets"
+    ],
+    "sources": [
+      "Reddit Search"
+    ],
+    "source_domains": [
+      "reddit.com"
+    ],
+    "notes": [
+      "Common signals: fraud, fake",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 4.1/10; verification confidence: low",
+      "Existing-solution language signal: 10.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "38a06e71e5d3",
+    "title": "Nigerian Scam - A place to Post all the Fake Emails that try to loosen money from peoples' Pockets",
+    "category": "security",
+    "observation_ids": [
+      "fae1f4075da73504"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.82,
+    "pain_score": 5.5,
+    "recurrence_score": 3.1,
+    "information_gap_score": 2.8,
+    "automation_score": 2.85,
+    "monetization_signal_score": 2.35,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.85,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "Nigerian Scam - A place to Post all the Fake Emails that try to loosen money from peoples' Pockets"
+    ],
+    "sources": [
+      "Reddit Search"
+    ],
+    "source_domains": [
+      "reddit.com"
+    ],
+    "notes": [
+      "Common signals: scam, fake",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 4.1/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "8dccaa7e4685",
+    "title": "/r/Scams",
+    "category": "security",
+    "observation_ids": [
+      "d1bd484afa03e9e0"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.78,
+    "pain_score": 3.0,
+    "recurrence_score": 3.1,
+    "information_gap_score": 2.8,
+    "automation_score": 2.85,
+    "monetization_signal_score": 2.35,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.69,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 10.0,
+    "representative_problems": [
+      "/r/Scams"
+    ],
+    "sources": [
+      "Reddit Search"
+    ],
+    "source_domains": [
+      "reddit.com"
+    ],
+    "notes": [
+      "Common signals: scam",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.9/10; verification confidence: low",
+      "Existing-solution language signal: 10.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "257930d656dc",
+    "title": "Finding comprehensive (listening) input for Ibibio language",
+    "category": "housing",
+    "observation_ids": [
+      "ab742de2b82e051b"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.78,
+    "pain_score": 2.0,
+    "recurrence_score": 3.1,
+    "information_gap_score": 2.8,
+    "automation_score": 2.85,
+    "monetization_signal_score": 4.85,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.69,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 10.0,
+    "representative_problems": [
+      "Finding comprehensive (listening) input for Ibibio language"
+    ],
+    "sources": [
+      "Reddit Nigeria"
+    ],
+    "source_domains": [
+      "reddit.com"
+    ],
+    "notes": [
+      "Common signals: difficult",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.9/10; verification confidence: low",
+      "Existing-solution language signal: 10.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "fa0eef64c6b4",
+    "title": "Any websites where you can learn Ibibio for free? (can't find user flair, sorry!)",
+    "category": "housing",
+    "observation_ids": [
+      "b7b08059a4a9f1b7"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.78,
+    "pain_score": 3.0,
+    "recurrence_score": 3.1,
+    "information_gap_score": 4.0,
+    "automation_score": 2.85,
+    "monetization_signal_score": 4.85,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.69,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 10.0,
+    "representative_problems": [
+      "Any websites where you can learn Ibibio for free? (can't find user flair, sorry!)"
+    ],
+    "sources": [
+      "Reddit Nigeria"
+    ],
+    "source_domains": [
+      "reddit.com"
+    ],
+    "notes": [
+      "Common signals: can't find",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.9/10; verification confidence: low",
+      "Existing-solution language signal: 10.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "e47dff627601",
+    "title": "Looking for sources to learn Nigerian Pidgin. Any recommendations?",
+    "category": "repairs",
+    "observation_ids": [
+      "720078d18373dd12"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.82,
+    "pain_score": 2.5,
+    "recurrence_score": 3.1,
+    "information_gap_score": 5.2,
+    "automation_score": 2.85,
+    "monetization_signal_score": 4.85,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.85,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 10.0,
+    "representative_problems": [
+      "Looking for sources to learn Nigerian Pidgin. Any recommendations?"
+    ],
+    "sources": [
+      "Reddit Nigeria"
+    ],
+    "source_domains": [
+      "reddit.com"
+    ],
+    "notes": [
+      "Common signals: looking for, recommend",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 4.1/10; verification confidence: low",
+      "Existing-solution language signal: 10.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "3034045e6c36",
+    "title": "Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week",
+    "category": "payments",
+    "observation_ids": [
+      "7665559e570d40b5"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.77,
+    "pain_score": 6.0,
+    "recurrence_score": 3.1,
+    "information_gap_score": 2.8,
+    "automation_score": 4.85,
+    "monetization_signal_score": 4.85,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.65,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: fraud, complain, complaint",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.8/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "1f6265f46e64",
+    "title": "10 problems of road transportation and solutions in Nigeria - Legit News",
+    "category": "transport",
+    "observation_ids": [
+      "9a1723e37655f8a8"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.68,
+    "pain_score": 1.5,
+    "recurrence_score": 3.1,
+    "information_gap_score": 2.8,
+    "automation_score": 2.85,
+    "monetization_signal_score": 2.35,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "10 problems of road transportation and solutions in Nigeria - Legit News"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: problem",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "263e96fc5924",
+    "title": "Three-Year Power Outage Cripples Businesses In Kastina Communities - The Whistler Newspaper",
+    "category": "power",
+    "observation_ids": [
+      "6695bfb0950d24b1"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.68,
+    "pain_score": 2.5,
+    "recurrence_score": 3.1,
+    "information_gap_score": 2.8,
+    "automation_score": 2.85,
+    "monetization_signal_score": 2.35,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "Three-Year Power Outage Cripples Businesses In Kastina Communities - The Whistler Newspaper"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: power outage",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "6f2a69dc7dcd",
+    "title": "Time to dismantle the fake drug cartel - Blueprint Newspapers",
+    "category": "healthcare",
+    "observation_ids": [
+      "2969367efa7948c0"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.68,
+    "pain_score": 2.5,
+    "recurrence_score": 3.1,
+    "information_gap_score": 2.8,
+    "automation_score": 2.85,
+    "monetization_signal_score": 2.35,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "Time to dismantle the fake drug cartel - Blueprint Newspapers"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: fake",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "642630306e21",
+    "title": "Concerns as fake herbal products flood social media - The Sun Nigeria",
+    "category": "security",
+    "observation_ids": [
+      "a95bb187bf7a3102"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.68,
+    "pain_score": 2.5,
+    "recurrence_score": 3.1,
+    "information_gap_score": 2.8,
+    "automation_score": 2.85,
+    "monetization_signal_score": 2.35,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "Concerns as fake herbal products flood social media - The Sun Nigeria"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: fake",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "757356314366",
+    "title": "FACT-CHECK: Is Peter Obi parading a fake university degree certificate? Here are our findings - Premium Times Nigeria",
+    "category": "repairs",
+    "observation_ids": [
+      "bd2cb19001e55abc"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.68,
+    "pain_score": 2.5,
+    "recurrence_score": 3.1,
+    "information_gap_score": 2.8,
+    "automation_score": 2.85,
+    "monetization_signal_score": 4.85,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "FACT-CHECK: Is Peter Obi parading a fake university degree certificate? Here are our findings - Premium Times Nigeria"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: fake",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "fcd50d729fe9",
+    "title": "Counterfeit food, drugs flood Nigeria’s markets as regulators face fresh scrutiny - Tribune Online",
+    "category": "food",
+    "observation_ids": [
+      "ed67ae1cb5f48fae"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.68,
+    "pain_score": 3.0,
+    "recurrence_score": 3.1,
+    "information_gap_score": 2.8,
+    "automation_score": 2.85,
+    "monetization_signal_score": 2.35,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "Counterfeit food, drugs flood Nigeria’s markets as regulators face fresh scrutiny - Tribune Online"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: counterfeit",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "83c08979398e",
+    "title": "“Let us not waste time”: Nigeria tells neighbours to hurry with gas pipe to Europe - Global Construction Review",
+    "category": "connectivity",
+    "observation_ids": [
+      "3f095cbaf19b3a69"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.68,
+    "pain_score": 2.5,
+    "recurrence_score": 3.1,
+    "information_gap_score": 2.8,
+    "automation_score": 2.85,
+    "monetization_signal_score": 2.35,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "“Let us not waste time”: Nigeria tells neighbours to hurry with gas pipe to Europe - Global Construction Review"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: waste time",
+      "Independent source domains: 1; unique observations: 1",
+      "Average source/evidence quality: 3.2/10; verification confidence: low",
+      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
+    ]
+  },
+  {
+    "id": "65e6b1c54efa",
+    "title": "Duke Says Lagos-Calabar Highway Is a Costly Misplaced Priority - thesouthernexaminer.com",
+    "category": "repairs",
+    "observation_ids": [
+      "d32b85b569ece13b"
+    ],
+    "observation_count": 1,
+    "evidence_score": 3.68,
+    "pain_score": 2.0,
+    "recurrence_score": 3.1,
+    "information_gap_score": 2.8,
+    "automation_score": 2.85,
+    "monetization_signal_score": 4.85,
+    "source_diversity_score": 3.5,
+    "verification_score": 3.34,
+    "evidence_confidence": "low",
+    "existing_solution_signal": 0.0,
+    "representative_problems": [
+      "Duke Says Lagos-Calabar Highway Is a Costly Misplaced Priority - thesouthernexaminer.com"
+    ],
+    "sources": [
+      "Google News"
+    ],
+    "source_domains": [
+      "news.google.com"
+    ],
+    "notes": [
+      "Common signals: costly",
       "Independent source domains: 1; unique observations: 1",
       "Average source/evidence quality: 3.2/10; verification confidence: low",
       "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
@@ -8362,40 +8920,6 @@
     ]
   },
   {
-    "id": "8a7e06844c2e",
-    "title": "FirstBank highlights solid firewall against e-banking fraud - TheNiche",
-    "category": "payments",
-    "observation_ids": [
-      "b28e0cf131939d14"
-    ],
-    "observation_count": 1,
-    "evidence_score": 3.68,
-    "pain_score": 3.0,
-    "recurrence_score": 3.1,
-    "information_gap_score": 2.8,
-    "automation_score": 4.85,
-    "monetization_signal_score": 4.85,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "FirstBank highlights solid firewall against e-banking fraud - TheNiche"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: fraud",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
     "id": "ffc9a8e87d8a",
     "title": "5 Frustrating Things About House Hunting In Nigeria - Zikoko!",
     "category": "housing",
@@ -8424,74 +8948,6 @@
     ],
     "notes": [
       "Common signals: frustrat",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
-    "id": "ea73ea49edff",
-    "title": "Avoid Scams: Renting Property Safely in Nigeria This Detty December - nigeriahousingmarket.com",
-    "category": "housing",
-    "observation_ids": [
-      "d7dad7d5a267aac3"
-    ],
-    "observation_count": 1,
-    "evidence_score": 3.68,
-    "pain_score": 3.0,
-    "recurrence_score": 3.1,
-    "information_gap_score": 2.8,
-    "automation_score": 2.85,
-    "monetization_signal_score": 4.85,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "Avoid Scams: Renting Property Safely in Nigeria This Detty December - nigeriahousingmarket.com"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: scam",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
-    "id": "303cfc5f2cab",
-    "title": "How Nigeria’s poor network causes phone overheating, drains batteries - The Guardian Nigeria News",
-    "category": "connectivity",
-    "observation_ids": [
-      "ac31770479247e4f"
-    ],
-    "observation_count": 1,
-    "evidence_score": 3.68,
-    "pain_score": 2.5,
-    "recurrence_score": 3.1,
-    "information_gap_score": 2.8,
-    "automation_score": 2.85,
-    "monetization_signal_score": 2.35,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "How Nigeria’s poor network causes phone overheating, drains batteries - The Guardian Nigeria News"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: poor network",
       "Independent source domains: 1; unique observations: 1",
       "Average source/evidence quality: 3.2/10; verification confidence: low",
       "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
@@ -8900,40 +9356,6 @@
     ],
     "notes": [
       "Common signals: reversal",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
-    "id": "19364a6ff4f9",
-    "title": "Nigerian man pleads guilty in $6 million inheritance scam targeting over 400 U.S. seniors - WPEC",
-    "category": "security",
-    "observation_ids": [
-      "33ba5391729df6e6"
-    ],
-    "observation_count": 1,
-    "evidence_score": 3.68,
-    "pain_score": 3.0,
-    "recurrence_score": 3.1,
-    "information_gap_score": 2.8,
-    "automation_score": 2.85,
-    "monetization_signal_score": 2.35,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "Nigerian man pleads guilty in $6 million inheritance scam targeting over 400 U.S. seniors - WPEC"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: scam",
       "Independent source domains: 1; unique observations: 1",
       "Average source/evidence quality: 3.2/10; verification confidence: low",
       "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
@@ -10096,40 +10518,6 @@
     ]
   },
   {
-    "id": "d03e5fde4df0",
-    "title": "Power Outage Discussions",
-    "category": "power",
-    "observation_ids": [
-      "72a3b1d13ce98ff9"
-    ],
-    "observation_count": 1,
-    "evidence_score": 3.78,
-    "pain_score": 2.5,
-    "recurrence_score": 3.1,
-    "information_gap_score": 2.8,
-    "automation_score": 2.85,
-    "monetization_signal_score": 2.35,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.69,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "Power Outage Discussions"
-    ],
-    "sources": [
-      "Reddit Search"
-    ],
-    "source_domains": [
-      "reddit.com"
-    ],
-    "notes": [
-      "Common signals: power outage",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.9/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
     "id": "66625edb2333",
     "title": "EFCC Arraigns Man Over Alleged N6.8m Vehicle Fraud - The Whistler Newspaper",
     "category": "security",
@@ -10466,40 +10854,6 @@
       "Common signals: not working",
       "Independent source domains: 1; unique observations: 1",
       "Average source/evidence quality: 3.9/10; verification confidence: low",
-      "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
-    ]
-  },
-  {
-    "id": "951311df4319",
-    "title": "When learning gets expensive: Parents, students, schools sound the alarm - Tribune Online",
-    "category": "education",
-    "observation_ids": [
-      "4b9ceb5c69c4197e"
-    ],
-    "observation_count": 1,
-    "evidence_score": 3.68,
-    "pain_score": 1.5,
-    "recurrence_score": 3.1,
-    "information_gap_score": 2.8,
-    "automation_score": 2.85,
-    "monetization_signal_score": 2.35,
-    "source_diversity_score": 3.5,
-    "verification_score": 3.34,
-    "evidence_confidence": "low",
-    "existing_solution_signal": 0.0,
-    "representative_problems": [
-      "When learning gets expensive: Parents, students, schools sound the alarm - Tribune Online"
-    ],
-    "sources": [
-      "Google News"
-    ],
-    "source_domains": [
-      "news.google.com"
-    ],
-    "notes": [
-      "Common signals: expensive",
-      "Independent source domains: 1; unique observations: 1",
-      "Average source/evidence quality: 3.2/10; verification confidence: low",
       "Existing-solution language signal: 0.0/10 (not a market-size estimate)"
     ]
   },

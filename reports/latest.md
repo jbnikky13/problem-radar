@@ -1,8 +1,8 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-20T11:34:51.189215+00:00`
+Generated: `2026-09-20T16:15:37.696103+00:00`
 Research status: **ACTIVE**
-Unique observations collected: **557**
+Unique observations collected: **574**
 
 > Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.
 > A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.
@@ -25,10 +25,10 @@ Unique observations collected: **557**
 
 **Representative evidence:**
 - NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
-- TCN announces six-hour power outage in Ogun communities - Punch Newspapers
 - Ogun communities to experience six-hour power outage today - The Guardian Nigeria News
 - TCN announces six-hour power outage in Lokoja, environs - Peoples Gazette Nigeria
 - AEDC announces fresh power outage in Abuja - Daily Post Nigeria
+- Planned power outage to plunge northeastern cities into two days of darkness - Daily Post Nigeria
 
 **Source domains:** news.google.com
 - Common signals: power outage
@@ -117,7 +117,35 @@ Unique observations collected: **557**
 
 ---
 
-### 5. Looking for ASO / conversion advice: Good impressions growth (10.8K), but low installs (348) for my poetry app "Poesie"
+### 5. Is This "A Story of British Honduras: A Story of Us"?
+**Category:** `repairs`  
+**Observations:** 4  
+**Evidence:** 5.88/10  
+**Pain signal:** 1.5/10  
+**Recurrence:** 6.4/10  
+**Information gap:** 4.0/10  
+**Automation signal:** 3.9/10  
+**Monetization signal:** 5.9/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.69/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 10.0/10
+
+**Representative evidence:**
+- Is This "A Story of British Honduras: A Story of Us"?
+- A Story of British Honduras: A Story of Us
+- A Story of British Honduras: A Story of Us
+- A Story of British Honduras: A Story of Us
+
+**Source domains:** reddit.com
+- Common signals: looking for
+- Independent source domains: 1; unique observations: 4
+- Average source/evidence quality: 3.9/10; verification confidence: low
+- Existing-solution language signal: 10.0/10 (not a market-size estimate)
+
+---
+
+### 6. Looking for ASO / conversion advice: Good impressions growth (10.8K), but low installs (348) for my poetry app "Poesie"
 **Category:** `repairs`  
 **Observations:** 4  
 **Evidence:** 5.88/10  
@@ -145,7 +173,7 @@ Unique observations collected: **557**
 
 ---
 
-### 6. NAFDAC alerts Nigerians over suspected counterfeit toothpaste - Daily Post Nigeria
+### 7. NAFDAC alerts Nigerians over suspected counterfeit toothpaste - Daily Post Nigeria
 **Category:** `repairs`  
 **Observations:** 4  
 **Evidence:** 5.78/10  
@@ -173,7 +201,7 @@ Unique observations collected: **557**
 
 ---
 
-### 7. Considering Bariatric Surgery – Sleeve vs Mini Gastric Bypass vs Gastric Bypass
+### 8. Considering Bariatric Surgery – Sleeve vs Mini Gastric Bypass vs Gastric Bypass
 **Category:** `housing`  
 **Observations:** 3  
 **Evidence:** 5.22/10  
@@ -200,7 +228,7 @@ Unique observations collected: **557**
 
 ---
 
-### 8. I’m honestly tired of applying into the void.
+### 9. I’m honestly tired of applying into the void.
 **Category:** `jobs`  
 **Observations:** 2  
 **Evidence:** 4.52/10  
@@ -226,7 +254,7 @@ Unique observations collected: **557**
 
 ---
 
-### 9. Kenya telecom complaints shift from poor network to fraud and data billing - TechCabal
+### 10. Kenya telecom complaints shift from poor network to fraud and data billing - TechCabal
 **Category:** `connectivity`  
 **Observations:** 2  
 **Evidence:** 4.51/10  
@@ -252,7 +280,33 @@ Unique observations collected: **557**
 
 ---
 
-### 10. Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week
+### 11. I’m a 13-year-old dev from Nigeria, and I built an automated legal escrow app to stop freelancers and clients from scamm
+**Category:** `repairs`  
+**Observations:** 2  
+**Evidence:** 4.52/10  
+**Pain signal:** 4.5/10  
+**Recurrence:** 4.2/10  
+**Information gap:** 4.0/10  
+**Automation signal:** 3.2/10  
+**Monetization signal:** 5.2/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.85/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 10.0/10
+
+**Representative evidence:**
+- I’m a 13-year-old dev from Nigeria, and I built an automated legal escrow app to stop freelancers and clients from scamming each other.
+- I’m a 13-year-old dev from Nigeria, and I built an automated legal escrow app to stop freelancers and clients from scamming each other.
+
+**Source domains:** reddit.com
+- Common signals: scam, looking for
+- Independent source domains: 1; unique observations: 2
+- Average source/evidence quality: 4.1/10; verification confidence: low
+- Existing-solution language signal: 10.0/10 (not a market-size estimate)
+
+---
+
+### 12. Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week
 **Category:** `payments`  
 **Observations:** 1  
 **Evidence:** 3.77/10  
@@ -277,7 +331,7 @@ Unique observations collected: **557**
 
 ---
 
-### 11. Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - leadership.ng
+### 13. Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - leadership.ng
 **Category:** `security`  
 **Observations:** 3  
 **Evidence:** 5.12/10  
@@ -304,7 +358,7 @@ Unique observations collected: **557**
 
 ---
 
-### 12. How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
+### 14. How Nigerians Absorb the Cost of Delayed Digital Payments - humanglemedia.com
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -319,8 +373,8 @@ Unique observations collected: **557**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
 - How Nigerians Absorb the Cost of Delayed Digital Payments - humanglemedia.com
+- How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
 
 **Source domains:** news.google.com
 - Common signals: delayed, delay
@@ -330,7 +384,7 @@ Unique observations collected: **557**
 
 ---
 
-### 13. Fake products, real dangers: The hidden risks of counterfeit goods - FactCheckHub
+### 15. Fake products, real dangers: The hidden risks of counterfeit goods - FactCheckHub
 **Category:** `repairs`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -356,7 +410,7 @@ Unique observations collected: **557**
 
 ---
 
-### 14. Match Thread: AC Milan 0-2 Benfica | UEFA Europa League
+### 16. Match Thread: AC Milan 0-2 Benfica | UEFA Europa League
 **Category:** `repairs`  
 **Observations:** 2  
 **Evidence:** 4.52/10  
@@ -382,7 +436,7 @@ Unique observations collected: **557**
 
 ---
 
-### 15. On this “demarketing Nigeria” convo
+### 17. On this “demarketing Nigeria” convo
 **Category:** `repairs`  
 **Observations:** 1  
 **Evidence:** 3.91/10  
@@ -407,7 +461,7 @@ Unique observations collected: **557**
 
 ---
 
-### 16. There is a mental disorder affecting many Nigerians online called ‘Nigerianis Negativitatus Stupidus Syndrome’ (NNSS).
+### 18. There is a mental disorder affecting many Nigerians online called ‘Nigerianis Negativitatus Stupidus Syndrome’ (NNSS).
 **Category:** `repairs`  
 **Observations:** 2  
 **Evidence:** 4.56/10  
@@ -433,7 +487,7 @@ Unique observations collected: **557**
 
 ---
 
-### 17. Customers' complaints against banks rise as CBN refunds billions of naira - Legit News
+### 19. Customers' complaints against banks rise as CBN refunds billions of naira - Legit News
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -459,7 +513,7 @@ Unique observations collected: **557**
 
 ---
 
-### 18. How poor network connectivity limits DPI benefits in Nigeria - FRCN HQ
+### 20. How poor network connectivity limits DPI benefits in Nigeria - FRCN HQ
 **Category:** `connectivity`  
 **Observations:** 4  
 **Evidence:** 5.78/10  
@@ -481,60 +535,6 @@ Unique observations collected: **557**
 
 **Source domains:** news.google.com
 - Common signals: poor network
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.2/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 19. Power Outage Hits Seven Northern States As NISO Upgrades Grid - arise.tv
-**Category:** `power`  
-**Observations:** 4  
-**Evidence:** 5.78/10  
-**Pain signal:** 2.5/10  
-**Recurrence:** 6.4/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 3.9/10  
-**Monetization signal:** 3.4/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.34/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- Power Outage Hits Seven Northern States As NISO Upgrades Grid - arise.tv
-- NISO Announces Power Outage Across 7 Northern States for Grid Upgrade - THISDAYLIVE
-- Power Outage Hits Seven Northern States As NISO Upgrades Grid - Arise News
-- NISO Announces Power Outage Across 7 Northern States for Grid Upgrade - thisdaylive.com
-
-**Source domains:** news.google.com
-- Common signals: power outage
-- Independent source domains: 1; unique observations: 2
-- Average source/evidence quality: 3.2/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 20. Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - bitdefender.com
-**Category:** `jobs`  
-**Observations:** 2  
-**Evidence:** 4.38/10  
-**Pain signal:** 3.0/10  
-**Recurrence:** 4.2/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 5.2/10  
-**Monetization signal:** 5.2/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.34/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - bitdefender.com
-- Psychic and Fortune-Telling Scams: How They Work and How to Protect Against Them - Bitdefender
-
-**Source domains:** news.google.com
-- Common signals: scam
 - Independent source domains: 1; unique observations: 1
 - Average source/evidence quality: 3.2/10; verification confidence: low
 - Existing-solution language signal: 0.0/10 (not a market-size estimate)
