@@ -1,8 +1,8 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-21T12:59:36.087357+00:00`
+Generated: `2026-09-21T22:04:38.280521+00:00`
 Research status: **ACTIVE**
-Unique observations collected: **615**
+Unique observations collected: **625**
 
 > Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.
 > A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.
@@ -25,10 +25,10 @@ Unique observations collected: **615**
 
 **Representative evidence:**
 - NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
-- AEDC announces fresh power outage in Abuja - dailypost.ng
-- Planned power outage to plunge northeastern cities into two days of darkness - dailypost.ng
 - AEDC announces fresh power outage in Abuja - Daily Post Nigeria
 - Planned power outage to plunge northeastern cities into two days of darkness - Daily Post Nigeria
+- AEDC announces fresh power outage in Abuja - dailypost.ng
+- Planned power outage to plunge northeastern cities into two days of darkness - dailypost.ng
 
 **Source domains:** news.google.com
 - Common signals: power outage
@@ -38,7 +38,36 @@ Unique observations collected: **615**
 
 ---
 
-### 2. Ogun communities to experience six-hour power outage today - guardian.ng
+### 2. Navy disowns fake recruitment notice, warns applicants against fraud - The Guardian Nigeria News
+**Category:** `security`  
+**Observations:** 7  
+**Evidence:** 7.9/10  
+**Pain signal:** 3.79/10  
+**Recurrence:** 9.7/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 4.95/10  
+**Monetization signal:** 4.45/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.41/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 5.71/10
+
+**Representative evidence:**
+- Navy disowns fake recruitment notice, warns applicants against fraud - The Guardian Nigeria News
+- Navy disowns fake recruitment notice, warns applicants against fraud - guardian.ng
+- FRSC Disowns Fake Recruitment Notice, Warns Applicants Against Scammers - Nigeria Info FM
+- FRSC Warns Applicants After Fake Recruitment Notice Goes Viral - The Whistler Newspaper
+- Nigerian Navy Disclaims Fake 2026 Batch 39 Recruitment Notice - TVC News
+
+**Source domains:** news.google.com
+- Common signals: fake, fraud, scam
+- Independent source domains: 1; unique observations: 6
+- Average source/evidence quality: 3.3/10; verification confidence: low
+- Existing-solution language signal: 5.7/10 (not a market-size estimate)
+
+---
+
+### 3. Ogun communities to experience six-hour power outage today - The Guardian Nigeria News
 **Category:** `power`  
 **Observations:** 7  
 **Evidence:** 7.88/10  
@@ -53,11 +82,11 @@ Unique observations collected: **615**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- Ogun communities to experience six-hour power outage today - guardian.ng
-- TCN announces six-hour power outage in Lokoja, environs - Peoples Gazette Nigeria
-- TCN announces 32-hour power outage across seven northeastern cities - guardian.ng
 - Ogun communities to experience six-hour power outage today - The Guardian Nigeria News
+- TCN announces six-hour power outage in Lokoja, environs - Peoples Gazette Nigeria
 - TCN announces 32-hour power outage across seven northeastern cities - The Guardian Nigeria News
+- Ogun communities to experience six-hour power outage today - guardian.ng
+- TCN announces 32-hour power outage across seven northeastern cities - guardian.ng
 
 **Source domains:** news.google.com
 - Common signals: power outage
@@ -67,7 +96,7 @@ Unique observations collected: **615**
 
 ---
 
-### 3. Lagos beach break becoming too expensive for locals - africanews.com
+### 4. Lagos beach break becoming too expensive for locals - africanews.com
 **Category:** `repairs`  
 **Observations:** 5  
 **Evidence:** 6.52/10  
@@ -96,7 +125,7 @@ Unique observations collected: **615**
 
 ---
 
-### 4. How should Black Americans think about the relationship between immigration and anti-Blackness in the United States?
+### 5. How should Black Americans think about the relationship between immigration and anti-Blackness in the United States?
 **Category:** `repairs`  
 **Observations:** 1  
 **Evidence:** 4.07/10  
@@ -118,35 +147,6 @@ Unique observations collected: **615**
 - Independent source domains: 1; unique observations: 1
 - Average source/evidence quality: 5.8/10; verification confidence: low
 - Existing-solution language signal: 10.0/10 (not a market-size estimate)
-
----
-
-### 5. Navy disowns fake recruitment notice, warns applicants against fraud - guardian.ng
-**Category:** `security`  
-**Observations:** 6  
-**Evidence:** 7.2/10  
-**Pain signal:** 3.5/10  
-**Recurrence:** 8.6/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 4.6/10  
-**Monetization signal:** 4.1/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.39/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 5.0/10
-
-**Representative evidence:**
-- Navy disowns fake recruitment notice, warns applicants against fraud - guardian.ng
-- FRSC Disowns Fake Recruitment Notice, Warns Applicants Against Scammers - Nigeria Info FM
-- FRSC Warns Applicants After Fake Recruitment Notice Goes Viral - The Whistler Newspaper
-- Nigerian Navy Disclaims Fake 2026 Batch 39 Recruitment Notice - TVC News
-- Nigerian Navy warns public against fake recruitment notice - Punch Newspapers
-
-**Source domains:** news.google.com
-- Common signals: fake, fraud, scam
-- Independent source domains: 1; unique observations: 6
-- Average source/evidence quality: 3.3/10; verification confidence: low
-- Existing-solution language signal: 5.0/10 (not a market-size estimate)
 
 ---
 
@@ -525,7 +525,7 @@ Unique observations collected: **615**
 
 ---
 
-### 20. How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
+### 20. How Nigerians Absorb the Cost of Delayed Digital Payments - humanglemedia.com
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -540,8 +540,8 @@ Unique observations collected: **615**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
 - How Nigerians Absorb the Cost of Delayed Digital Payments - humanglemedia.com
+- How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
 
 **Source domains:** news.google.com
 - Common signals: delayed, delay
