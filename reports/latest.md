@@ -1,8 +1,8 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-21T05:07:07.931747+00:00`
+Generated: `2026-09-21T12:59:36.087357+00:00`
 Research status: **ACTIVE**
-Unique observations collected: **597**
+Unique observations collected: **615**
 
 > Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.
 > A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.
@@ -11,13 +11,13 @@ Unique observations collected: **597**
 
 ### 1. NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
 **Category:** `power`  
-**Observations:** 16  
-**Evidence:** 10.0/10  
+**Observations:** 9  
+**Evidence:** 9.28/10  
 **Pain signal:** 2.5/10  
 **Recurrence:** 10.0/10  
 **Information gap:** 2.8/10  
-**Automation signal:** 8.1/10  
-**Monetization signal:** 7.6/10  
+**Automation signal:** 5.65/10  
+**Monetization signal:** 5.15/10  
 **Source diversity:** 3.5/10  
 **Verification:** 3.34/10  
 **Evidence confidence:** **low**  
@@ -25,20 +25,49 @@ Unique observations collected: **597**
 
 **Representative evidence:**
 - NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
-- Ogun communities to experience six-hour power outage today - The Guardian Nigeria News
-- TCN announces six-hour power outage in Lokoja, environs - Peoples Gazette Nigeria
+- AEDC announces fresh power outage in Abuja - dailypost.ng
+- Planned power outage to plunge northeastern cities into two days of darkness - dailypost.ng
 - AEDC announces fresh power outage in Abuja - Daily Post Nigeria
 - Planned power outage to plunge northeastern cities into two days of darkness - Daily Post Nigeria
 
 **Source domains:** news.google.com
 - Common signals: power outage
-- Independent source domains: 1; unique observations: 9
+- Independent source domains: 1; unique observations: 5
 - Average source/evidence quality: 3.2/10; verification confidence: low
 - Existing-solution language signal: 0.0/10 (not a market-size estimate)
 
 ---
 
-### 2. Lagos beach break becoming too expensive for locals - africanews.com
+### 2. Ogun communities to experience six-hour power outage today - guardian.ng
+**Category:** `power`  
+**Observations:** 7  
+**Evidence:** 7.88/10  
+**Pain signal:** 2.5/10  
+**Recurrence:** 9.7/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 4.95/10  
+**Monetization signal:** 4.45/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.34/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
+- Ogun communities to experience six-hour power outage today - guardian.ng
+- TCN announces six-hour power outage in Lokoja, environs - Peoples Gazette Nigeria
+- TCN announces 32-hour power outage across seven northeastern cities - guardian.ng
+- Ogun communities to experience six-hour power outage today - The Guardian Nigeria News
+- TCN announces 32-hour power outage across seven northeastern cities - The Guardian Nigeria News
+
+**Source domains:** news.google.com
+- Common signals: power outage
+- Independent source domains: 1; unique observations: 4
+- Average source/evidence quality: 3.2/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 3. Lagos beach break becoming too expensive for locals - africanews.com
 **Category:** `repairs`  
 **Observations:** 5  
 **Evidence:** 6.52/10  
@@ -67,7 +96,7 @@ Unique observations collected: **597**
 
 ---
 
-### 3. How should Black Americans think about the relationship between immigration and anti-Blackness in the United States?
+### 4. How should Black Americans think about the relationship between immigration and anti-Blackness in the United States?
 **Category:** `repairs`  
 **Observations:** 1  
 **Evidence:** 4.07/10  
@@ -92,7 +121,36 @@ Unique observations collected: **597**
 
 ---
 
-### 4. I just hit my first 6 digits savings last month, now Im in debt
+### 5. Navy disowns fake recruitment notice, warns applicants against fraud - guardian.ng
+**Category:** `security`  
+**Observations:** 6  
+**Evidence:** 7.2/10  
+**Pain signal:** 3.5/10  
+**Recurrence:** 8.6/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 4.6/10  
+**Monetization signal:** 4.1/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.39/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 5.0/10
+
+**Representative evidence:**
+- Navy disowns fake recruitment notice, warns applicants against fraud - guardian.ng
+- FRSC Disowns Fake Recruitment Notice, Warns Applicants Against Scammers - Nigeria Info FM
+- FRSC Warns Applicants After Fake Recruitment Notice Goes Viral - The Whistler Newspaper
+- Nigerian Navy Disclaims Fake 2026 Batch 39 Recruitment Notice - TVC News
+- Nigerian Navy warns public against fake recruitment notice - Punch Newspapers
+
+**Source domains:** news.google.com
+- Common signals: fake, fraud, scam
+- Independent source domains: 1; unique observations: 6
+- Average source/evidence quality: 3.3/10; verification confidence: low
+- Existing-solution language signal: 5.0/10 (not a market-size estimate)
+
+---
+
+### 6. I just hit my first 6 digits savings last month, now Im in debt
 **Category:** `repairs`  
 **Observations:** 1  
 **Evidence:** 3.95/10  
@@ -117,7 +175,7 @@ Unique observations collected: **597**
 
 ---
 
-### 5. Is This "A Story of British Honduras: A Story of Us"?
+### 7. Is This "A Story of British Honduras: A Story of Us"?
 **Category:** `repairs`  
 **Observations:** 4  
 **Evidence:** 5.88/10  
@@ -145,7 +203,7 @@ Unique observations collected: **597**
 
 ---
 
-### 6. Looking for ASO / conversion advice: Good impressions growth (10.8K), but low installs (348) for my poetry app "Poesie"
+### 8. Looking for ASO / conversion advice: Good impressions growth (10.8K), but low installs (348) for my poetry app "Poesie"
 **Category:** `repairs`  
 **Observations:** 4  
 **Evidence:** 5.88/10  
@@ -173,7 +231,7 @@ Unique observations collected: **597**
 
 ---
 
-### 7. NAFDAC alerts Nigerians over suspected counterfeit toothpaste - Daily Post Nigeria
+### 9. NAFDAC alerts Nigerians over suspected counterfeit toothpaste - dailypost.ng
 **Category:** `repairs`  
 **Observations:** 4  
 **Evidence:** 5.78/10  
@@ -188,8 +246,8 @@ Unique observations collected: **597**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- NAFDAC alerts Nigerians over suspected counterfeit toothpaste - Daily Post Nigeria
 - NAFDAC alerts Nigerians over suspected counterfeit toothpaste - dailypost.ng
+- NAFDAC alerts Nigerians over suspected counterfeit toothpaste - Daily Post Nigeria
 - NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - Business Post Nigeria
 - NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - businesspost.ng
 
@@ -201,7 +259,7 @@ Unique observations collected: **597**
 
 ---
 
-### 8. Considering Bariatric Surgery – Sleeve vs Mini Gastric Bypass vs Gastric Bypass
+### 10. Considering Bariatric Surgery – Sleeve vs Mini Gastric Bypass vs Gastric Bypass
 **Category:** `housing`  
 **Observations:** 3  
 **Evidence:** 5.22/10  
@@ -228,7 +286,7 @@ Unique observations collected: **597**
 
 ---
 
-### 9. I’m honestly tired of applying into the void.
+### 11. I’m honestly tired of applying into the void.
 **Category:** `jobs`  
 **Observations:** 2  
 **Evidence:** 4.52/10  
@@ -254,7 +312,7 @@ Unique observations collected: **597**
 
 ---
 
-### 10. ICPC UNCOVERS ANOTHER FAKE AGENCY, PRESIDENT DIRECTS SUSPENSION OF THREE FEDERAL PERMANENT SECRETARIES AND ARREST OF FAK
+### 12. ICPC UNCOVERS ANOTHER FAKE AGENCY, PRESIDENT DIRECTS SUSPENSION OF THREE FEDERAL PERMANENT SECRETARIES AND ARREST OF FAK
 **Category:** `government`  
 **Observations:** 4  
 **Evidence:** 5.78/10  
@@ -282,7 +340,7 @@ Unique observations collected: **597**
 
 ---
 
-### 11. Kenya telecom complaints shift from poor network to fraud and data billing - TechCabal
+### 13. Kenya telecom complaints shift from poor network to fraud and data billing - TechCabal
 **Category:** `connectivity`  
 **Observations:** 2  
 **Evidence:** 4.51/10  
@@ -308,7 +366,7 @@ Unique observations collected: **597**
 
 ---
 
-### 12. After FIJ’s Story, EMS Nigeria Delivers Expensive Package Held for 2 Months - fij.ng
+### 14. After FIJ’s Story, EMS Nigeria Delivers Expensive Package Held for 2 Months - FIJ NG
 **Category:** `repairs`  
 **Observations:** 4  
 **Evidence:** 5.78/10  
@@ -323,10 +381,10 @@ Unique observations collected: **597**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- After FIJ’s Story, EMS Nigeria Delivers Expensive Package Held for 2 Months - fij.ng
-- EMS Nigeria Can’t Find ‘Expensive’ Package Sent to the US in December - fij.ng
 - After FIJ’s Story, EMS Nigeria Delivers Expensive Package Held for 2 Months - FIJ NG
 - EMS Nigeria Can’t Find ‘Expensive’ Package Sent to the US in December - FIJ NG
+- After FIJ’s Story, EMS Nigeria Delivers Expensive Package Held for 2 Months - fij.ng
+- EMS Nigeria Can’t Find ‘Expensive’ Package Sent to the US in December - fij.ng
 
 **Source domains:** news.google.com
 - Common signals: expensive
@@ -336,7 +394,7 @@ Unique observations collected: **597**
 
 ---
 
-### 13. INVESTIGATION: How Online Platform Slipcraft Helps Scammers Fake Transfers, Generate Fraudulent Receipts - saharareporte
+### 15. INVESTIGATION: How Online Platform Slipcraft Helps Scammers Fake Transfers, Generate Fraudulent Receipts - Sahara Report
 **Category:** `security`  
 **Observations:** 2  
 **Evidence:** 4.47/10  
@@ -351,8 +409,8 @@ Unique observations collected: **597**
 **Existing-solution language:** 10.0/10
 
 **Representative evidence:**
-- INVESTIGATION: How Online Platform Slipcraft Helps Scammers Fake Transfers, Generate Fraudulent Receipts - saharareporters.com
 - INVESTIGATION: How Online Platform Slipcraft Helps Scammers Fake Transfers, Generate Fraudulent Receipts - Sahara Reporters
+- INVESTIGATION: How Online Platform Slipcraft Helps Scammers Fake Transfers, Generate Fraudulent Receipts - saharareporters.com
 
 **Source domains:** news.google.com
 - Common signals: scam, fraud, fake
@@ -362,7 +420,7 @@ Unique observations collected: **597**
 
 ---
 
-### 14. I’m a 13-year-old dev from Nigeria, and I built an automated legal escrow app to stop freelancers and clients from scamm
+### 16. I’m a 13-year-old dev from Nigeria, and I built an automated legal escrow app to stop freelancers and clients from scamm
 **Category:** `repairs`  
 **Observations:** 2  
 **Evidence:** 4.52/10  
@@ -388,7 +446,7 @@ Unique observations collected: **597**
 
 ---
 
-### 15. Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week
+### 17. Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week
 **Category:** `payments`  
 **Observations:** 1  
 **Evidence:** 3.77/10  
@@ -413,7 +471,7 @@ Unique observations collected: **597**
 
 ---
 
-### 16. Coordinator of 'fake' Made in Nigeria agency shares appointment letter 'issued by SGF office' - thecable.ng
+### 18. Coordinator of 'fake' Made in Nigeria agency shares appointment letter 'issued by SGF office' - thecable.ng
 **Category:** `government`  
 **Observations:** 3  
 **Evidence:** 5.12/10  
@@ -440,7 +498,7 @@ Unique observations collected: **597**
 
 ---
 
-### 17. Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - leadership.ng
+### 19. Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - leadership.ng
 **Category:** `security`  
 **Observations:** 3  
 **Evidence:** 5.12/10  
@@ -467,7 +525,7 @@ Unique observations collected: **597**
 
 ---
 
-### 18. How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
+### 20. How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -489,58 +547,6 @@ Unique observations collected: **597**
 - Common signals: delayed, delay
 - Independent source domains: 1; unique observations: 1
 - Average source/evidence quality: 3.5/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 19. Fake products, real dangers: The hidden risks of counterfeit goods - FactCheckHub
-**Category:** `repairs`  
-**Observations:** 2  
-**Evidence:** 4.42/10  
-**Pain signal:** 5.5/10  
-**Recurrence:** 4.2/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 3.2/10  
-**Monetization signal:** 5.2/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.49/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- Fake products, real dangers: The hidden risks of counterfeit goods - FactCheckHub
-- Fake products, real dangers: The hidden risks of counterfeit goods - factcheckhub.com
-
-**Source domains:** news.google.com
-- Common signals: fake, counterfeit
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.5/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 20. Match Thread: AC Milan 0-2 Benfica | UEFA Europa League
-**Category:** `repairs`  
-**Observations:** 2  
-**Evidence:** 4.52/10  
-**Pain signal:** 5.0/10  
-**Recurrence:** 4.2/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 3.2/10  
-**Monetization signal:** 5.2/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.85/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- Match Thread: AC Milan 0-2 Benfica | UEFA Europa League
-- Match Thread: AC Milan vs. Benfica | UEFA Europa League
-
-**Source domains:** reddit.com
-- Common signals: can't get, difficult
-- Independent source domains: 1; unique observations: 2
-- Average source/evidence quality: 4.1/10; verification confidence: low
 - Existing-solution language signal: 0.0/10 (not a market-size estimate)
 
 ---
