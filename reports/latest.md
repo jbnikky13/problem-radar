@@ -1,15 +1,15 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-20T20:56:37.022427+00:00`
+Generated: `2026-09-21T05:07:07.931747+00:00`
 Research status: **ACTIVE**
-Unique observations collected: **582**
+Unique observations collected: **597**
 
 > Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.
 > A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.
 
 ## Top recurring problem clusters
 
-### 1. AEDC Announces Power Outage In Abuja, Nasarawa Over TCN Fault - LEADERSHIP Newspapers
+### 1. NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
 **Category:** `power`  
 **Observations:** 16  
 **Evidence:** 10.0/10  
@@ -24,11 +24,11 @@ Unique observations collected: **582**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- AEDC Announces Power Outage In Abuja, Nasarawa Over TCN Fault - LEADERSHIP Newspapers
+- NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
 - Ogun communities to experience six-hour power outage today - The Guardian Nigeria News
+- TCN announces six-hour power outage in Lokoja, environs - Peoples Gazette Nigeria
 - AEDC announces fresh power outage in Abuja - Daily Post Nigeria
 - Planned power outage to plunge northeastern cities into two days of darkness - Daily Post Nigeria
-- TCN announces 32-hour power outage across seven northeastern cities - The Guardian Nigeria News
 
 **Source domains:** news.google.com
 - Common signals: power outage
@@ -54,8 +54,8 @@ Unique observations collected: **582**
 
 **Representative evidence:**
 - Lagos beach break becoming too expensive for locals - africanews.com
-- A beach break in Nigeria’s Lagos is becoming too expensive for many - apnews.com
 - A beach break in Nigeria’s Lagos is becoming too expensive for many - AP News
+- A beach break in Nigeria’s Lagos is becoming too expensive for many - apnews.com
 - A beach break in Nigeria's Lagos is becoming too expensive for many - washingtonpost.com
 - A beach break in Nigeria's Lagos is becoming too expensive for many - The Washington Post
 
@@ -269,8 +269,8 @@ Unique observations collected: **582**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- ICPC UNCOVERS ANOTHER FAKE AGENCY, PRESIDENT DIRECTS SUSPENSION OF THREE FEDERAL PERMANENT SECRETARIES AND ARREST OF FAKE AGENCY PROMOTER - icpc.gov.ng
 - ICPC UNCOVERS ANOTHER FAKE AGENCY, PRESIDENT DIRECTS SUSPENSION OF THREE FEDERAL PERMANENT SECRETARIES AND ARREST OF FAKE AGENCY PROMOTER - Independent Corrupt Practices and Other Related Offences Commission
+- ICPC UNCOVERS ANOTHER FAKE AGENCY, PRESIDENT DIRECTS SUSPENSION OF THREE FEDERAL PERMANENT SECRETARIES AND ARREST OF FAKE AGENCY PROMOTER - icpc.gov.ng
 - [UPDATED] Tinubu Orders Arrest, Suspends Three Permanent Secretaries As ICPC Uncovers Another 'Fake' Agency - channelstv.com
 - [UPDATED] Tinubu Orders Arrest, Suspends Three Permanent Secretaries As ICPC Uncovers Another 'Fake' Agency - Channels Television
 
@@ -308,7 +308,61 @@ Unique observations collected: **582**
 
 ---
 
-### 12. I’m a 13-year-old dev from Nigeria, and I built an automated legal escrow app to stop freelancers and clients from scamm
+### 12. After FIJ’s Story, EMS Nigeria Delivers Expensive Package Held for 2 Months - fij.ng
+**Category:** `repairs`  
+**Observations:** 4  
+**Evidence:** 5.78/10  
+**Pain signal:** 1.5/10  
+**Recurrence:** 6.4/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 3.9/10  
+**Monetization signal:** 5.9/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.34/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
+- After FIJ’s Story, EMS Nigeria Delivers Expensive Package Held for 2 Months - fij.ng
+- EMS Nigeria Can’t Find ‘Expensive’ Package Sent to the US in December - fij.ng
+- After FIJ’s Story, EMS Nigeria Delivers Expensive Package Held for 2 Months - FIJ NG
+- EMS Nigeria Can’t Find ‘Expensive’ Package Sent to the US in December - FIJ NG
+
+**Source domains:** news.google.com
+- Common signals: expensive
+- Independent source domains: 1; unique observations: 2
+- Average source/evidence quality: 3.2/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 13. INVESTIGATION: How Online Platform Slipcraft Helps Scammers Fake Transfers, Generate Fraudulent Receipts - saharareporte
+**Category:** `security`  
+**Observations:** 2  
+**Evidence:** 4.47/10  
+**Pain signal:** 8.5/10  
+**Recurrence:** 4.2/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 3.2/10  
+**Monetization signal:** 2.7/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.65/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 10.0/10
+
+**Representative evidence:**
+- INVESTIGATION: How Online Platform Slipcraft Helps Scammers Fake Transfers, Generate Fraudulent Receipts - saharareporters.com
+- INVESTIGATION: How Online Platform Slipcraft Helps Scammers Fake Transfers, Generate Fraudulent Receipts - Sahara Reporters
+
+**Source domains:** news.google.com
+- Common signals: scam, fraud, fake
+- Independent source domains: 1; unique observations: 1
+- Average source/evidence quality: 3.8/10; verification confidence: low
+- Existing-solution language signal: 10.0/10 (not a market-size estimate)
+
+---
+
+### 14. I’m a 13-year-old dev from Nigeria, and I built an automated legal escrow app to stop freelancers and clients from scamm
 **Category:** `repairs`  
 **Observations:** 2  
 **Evidence:** 4.52/10  
@@ -334,7 +388,7 @@ Unique observations collected: **582**
 
 ---
 
-### 13. Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week
+### 15. Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week
 **Category:** `payments`  
 **Observations:** 1  
 **Evidence:** 3.77/10  
@@ -359,7 +413,34 @@ Unique observations collected: **582**
 
 ---
 
-### 14. Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - leadership.ng
+### 16. Coordinator of 'fake' Made in Nigeria agency shares appointment letter 'issued by SGF office' - thecable.ng
+**Category:** `government`  
+**Observations:** 3  
+**Evidence:** 5.12/10  
+**Pain signal:** 3.5/10  
+**Recurrence:** 5.3/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 5.55/10  
+**Monetization signal:** 3.05/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.49/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 10.0/10
+
+**Representative evidence:**
+- Coordinator of 'fake' Made in Nigeria agency shares appointment letter 'issued by SGF office' - thecable.ng
+- Coordinator of 'fake' Made in Nigeria agency shares appointment letter 'issued by SGF office' - TheCable
+- Analysis: Coordinator Of ‘Fake’ Made In Nigeria Agency Shares Appointment Letter ‘Issued By SGF Office’ #trusttvnews - instagram.com
+
+**Source domains:** news.google.com
+- Common signals: fake, issue
+- Independent source domains: 1; unique observations: 2
+- Average source/evidence quality: 3.5/10; verification confidence: low
+- Existing-solution language signal: 10.0/10 (not a market-size estimate)
+
+---
+
+### 17. Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - leadership.ng
 **Category:** `security`  
 **Observations:** 3  
 **Evidence:** 5.12/10  
@@ -386,7 +467,7 @@ Unique observations collected: **582**
 
 ---
 
-### 15. How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
+### 18. How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
 **Category:** `payments`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -412,7 +493,7 @@ Unique observations collected: **582**
 
 ---
 
-### 16. Fake products, real dangers: The hidden risks of counterfeit goods - FactCheckHub
+### 19. Fake products, real dangers: The hidden risks of counterfeit goods - FactCheckHub
 **Category:** `repairs`  
 **Observations:** 2  
 **Evidence:** 4.42/10  
@@ -438,7 +519,7 @@ Unique observations collected: **582**
 
 ---
 
-### 17. Match Thread: AC Milan 0-2 Benfica | UEFA Europa League
+### 20. Match Thread: AC Milan 0-2 Benfica | UEFA Europa League
 **Category:** `repairs`  
 **Observations:** 2  
 **Evidence:** 4.52/10  
@@ -460,83 +541,6 @@ Unique observations collected: **582**
 - Common signals: can't get, difficult
 - Independent source domains: 1; unique observations: 2
 - Average source/evidence quality: 4.1/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 18. On this “demarketing Nigeria” convo
-**Category:** `repairs`  
-**Observations:** 1  
-**Evidence:** 3.91/10  
-**Pain signal:** 7.0/10  
-**Recurrence:** 3.1/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 2.85/10  
-**Monetization signal:** 4.85/10  
-**Source diversity:** 3.5/10  
-**Verification:** 4.16/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 10.0/10
-
-**Representative evidence:**
-- On this “demarketing Nigeria” convo
-
-**Source domains:** reddit.com
-- Common signals: fraud, complain, problem, issue
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 4.7/10; verification confidence: low
-- Existing-solution language signal: 10.0/10 (not a market-size estimate)
-
----
-
-### 19. There is a mental disorder affecting many Nigerians online called ‘Nigerianis Negativitatus Stupidus Syndrome’ (NNSS).
-**Category:** `repairs`  
-**Observations:** 2  
-**Evidence:** 4.56/10  
-**Pain signal:** 4.5/10  
-**Recurrence:** 4.2/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 3.2/10  
-**Monetization signal:** 5.2/10  
-**Source diversity:** 3.5/10  
-**Verification:** 4.01/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 10.0/10
-
-**Representative evidence:**
-- There is a mental disorder affecting many Nigerians online called ‘Nigerianis Negativitatus Stupidus Syndrome’ (NNSS).
-- There is a mental disorder affecting many Nigerians online called ‘Nigerianis Negativitatus Stupidus Syndrome’ (NNSS).
-
-**Source domains:** reddit.com
-- Common signals: complain, complaint, problem
-- Independent source domains: 1; unique observations: 2
-- Average source/evidence quality: 4.4/10; verification confidence: low
-- Existing-solution language signal: 10.0/10 (not a market-size estimate)
-
----
-
-### 20. Customers' complaints against banks rise as CBN refunds billions of naira - Legit News
-**Category:** `payments`  
-**Observations:** 2  
-**Evidence:** 4.42/10  
-**Pain signal:** 3.0/10  
-**Recurrence:** 4.2/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 5.2/10  
-**Monetization signal:** 5.2/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.49/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- Customers' complaints against banks rise as CBN refunds billions of naira - Legit News
-- Customers' complaints against banks rise as CBN refunds billions of naira - legit.ng
-
-**Source domains:** news.google.com
-- Common signals: complain, complaint
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.5/10; verification confidence: low
 - Existing-solution language signal: 0.0/10 (not a market-size estimate)
 
 ---
