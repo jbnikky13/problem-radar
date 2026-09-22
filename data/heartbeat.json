@@ -1,8 +1,8 @@
 {
   "status": "success",
-  "last_successful_run": "2026-09-22T05:08:32.098053+00:00",
-  "raw_items": 831,
-  "new_problem_candidates": 185,
-  "total_observations": 641,
-  "clusters": 407
+  "last_successful_run": "2026-09-22T11:49:24.058848+00:00",
+  "raw_items": 838,
+  "new_problem_candidates": 191,
+  "total_observations": 663,
+  "clusters": 419
 }

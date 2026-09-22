@@ -1,8 +1,8 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-22T05:08:32.097755+00:00`
+Generated: `2026-09-22T11:49:24.058561+00:00`
 Research status: **ACTIVE**
-Unique observations collected: **641**
+Unique observations collected: **663**
 
 > Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.
 > A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.
@@ -40,34 +40,34 @@ Unique observations collected: **641**
 
 ### 2. Navy disowns fake recruitment notice, warns applicants against fraud - The Guardian Nigeria News
 **Category:** `security`  
-**Observations:** 8  
-**Evidence:** 8.6/10  
-**Pain signal:** 3.62/10  
+**Observations:** 9  
+**Evidence:** 9.3/10  
+**Pain signal:** 3.5/10  
 **Recurrence:** 10.0/10  
 **Information gap:** 2.8/10  
-**Automation signal:** 5.3/10  
-**Monetization signal:** 4.8/10  
+**Automation signal:** 5.65/10  
+**Monetization signal:** 5.15/10  
 **Source diversity:** 3.5/10  
-**Verification:** 3.4/10  
+**Verification:** 3.39/10  
 **Evidence confidence:** **low**  
-**Existing-solution language:** 6.25/10
+**Existing-solution language:** 5.56/10
 
 **Representative evidence:**
 - Navy disowns fake recruitment notice, warns applicants against fraud - The Guardian Nigeria News
 - Navy disowns fake recruitment notice, warns applicants against fraud - guardian.ng
 - FRSC Disowns Fake Recruitment Notice, Warns Applicants Against Scammers - Nigeria Info FM
-- FRSC Warns Applicants After Fake Recruitment Notice Goes Viral - thewhistler.ng
 - Nigerian Navy Disclaims Fake 2026 Batch 39 Recruitment Notice - TVC News
+- Nigerian Navy Warns Public Against Fake Recruitment Notice - Independent Newspaper Nigeria
 
 **Source domains:** news.google.com
 - Common signals: fake, fraud, scam
-- Independent source domains: 1; unique observations: 6
+- Independent source domains: 1; unique observations: 7
 - Average source/evidence quality: 3.3/10; verification confidence: low
-- Existing-solution language signal: 6.2/10 (not a market-size estimate)
+- Existing-solution language signal: 5.6/10 (not a market-size estimate)
 
 ---
 
-### 3. Ogun communities to experience six-hour power outage today - The Guardian Nigeria News
+### 3. TCN announces six-hour power outage in Lokoja, environs - Peoples Gazette Nigeria
 **Category:** `power`  
 **Observations:** 7  
 **Evidence:** 7.88/10  
@@ -82,8 +82,8 @@ Unique observations collected: **641**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- Ogun communities to experience six-hour power outage today - The Guardian Nigeria News
 - TCN announces six-hour power outage in Lokoja, environs - Peoples Gazette Nigeria
+- Ogun communities to experience six-hour power outage today - The Guardian Nigeria News
 - TCN announces 32-hour power outage across seven northeastern cities - The Guardian Nigeria News
 - Ogun communities to experience six-hour power outage today - guardian.ng
 - TCN announces 32-hour power outage across seven northeastern cities - guardian.ng
@@ -96,7 +96,36 @@ Unique observations collected: **641**
 
 ---
 
-### 4. How should Black Americans think about the relationship between immigration and anti-Blackness in the United States?
+### 4. Lagos beach break becoming too expensive for locals - africanews.com
+**Category:** `repairs`  
+**Observations:** 5  
+**Evidence:** 6.52/10  
+**Pain signal:** 4.5/10  
+**Recurrence:** 7.5/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 4.25/10  
+**Monetization signal:** 6.25/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.49/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
+- Lagos beach break becoming too expensive for locals - africanews.com
+- A beach break in Nigeria’s Lagos is becoming too expensive for many - AP News
+- A beach break in Nigeria’s Lagos is becoming too expensive for many - apnews.com
+- A beach break in Nigeria's Lagos is becoming too expensive for many - washingtonpost.com
+- A beach break in Nigeria's Lagos is becoming too expensive for many - The Washington Post
+
+**Source domains:** news.google.com
+- Common signals: too expensive, expensive
+- Independent source domains: 1; unique observations: 3
+- Average source/evidence quality: 3.5/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 5. How should Black Americans think about the relationship between immigration and anti-Blackness in the United States?
 **Category:** `repairs`  
 **Observations:** 1  
 **Evidence:** 4.07/10  
@@ -121,7 +150,32 @@ Unique observations collected: **641**
 
 ---
 
-### 5. I just hit my first 6 digits savings last month, now Im in debt
+### 6. Property Tech in Pakistan: A review of DAO Proptech
+**Category:** `repairs`  
+**Observations:** 1  
+**Evidence:** 4.07/10  
+**Pain signal:** 10.0/10  
+**Recurrence:** 3.1/10  
+**Information gap:** 4.0/10  
+**Automation signal:** 2.85/10  
+**Monetization signal:** 4.85/10  
+**Source diversity:** 3.5/10  
+**Verification:** 4.77/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 10.0/10
+
+**Representative evidence:**
+- Property Tech in Pakistan: A review of DAO Proptech
+
+**Source domains:** reddit.com
+- Common signals: scam, fraud, fake, issue, difficult
+- Independent source domains: 1; unique observations: 1
+- Average source/evidence quality: 5.8/10; verification confidence: low
+- Existing-solution language signal: 10.0/10 (not a market-size estimate)
+
+---
+
+### 7. I just hit my first 6 digits savings last month, now Im in debt
 **Category:** `repairs`  
 **Observations:** 1  
 **Evidence:** 3.95/10  
@@ -146,35 +200,7 @@ Unique observations collected: **641**
 
 ---
 
-### 6. A beach break in Nigeria’s Lagos is becoming too expensive for many - AP News
-**Category:** `repairs`  
-**Observations:** 4  
-**Evidence:** 5.82/10  
-**Pain signal:** 4.5/10  
-**Recurrence:** 6.4/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 3.9/10  
-**Monetization signal:** 5.9/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.49/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- A beach break in Nigeria’s Lagos is becoming too expensive for many - AP News
-- A beach break in Nigeria’s Lagos is becoming too expensive for many - apnews.com
-- A beach break in Nigeria's Lagos is becoming too expensive for many - washingtonpost.com
-- A beach break in Nigeria's Lagos is becoming too expensive for many - The Washington Post
-
-**Source domains:** news.google.com
-- Common signals: too expensive, expensive
-- Independent source domains: 1; unique observations: 2
-- Average source/evidence quality: 3.5/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 7. Is This "A Story of British Honduras: A Story of Us"?
+### 8. Is This "A Story of British Honduras: A Story of Us"?
 **Category:** `repairs`  
 **Observations:** 4  
 **Evidence:** 5.88/10  
@@ -202,7 +228,7 @@ Unique observations collected: **641**
 
 ---
 
-### 8. Looking for ASO / conversion advice: Good impressions growth (10.8K), but low installs (348) for my poetry app "Poesie"
+### 9. Looking for ASO / conversion advice: Good impressions growth (10.8K), but low installs (348) for my poetry app "Poesie"
 **Category:** `repairs`  
 **Observations:** 4  
 **Evidence:** 5.88/10  
@@ -230,7 +256,7 @@ Unique observations collected: **641**
 
 ---
 
-### 9. NAFDAC alerts Nigerians over suspected counterfeit toothpaste - dailypost.ng
+### 10. NAFDAC alerts Nigerians over suspected counterfeit toothpaste - dailypost.ng
 **Category:** `repairs`  
 **Observations:** 4  
 **Evidence:** 5.78/10  
@@ -258,7 +284,7 @@ Unique observations collected: **641**
 
 ---
 
-### 10. Considering Bariatric Surgery – Sleeve vs Mini Gastric Bypass vs Gastric Bypass
+### 11. Considering Bariatric Surgery – Sleeve vs Mini Gastric Bypass vs Gastric Bypass
 **Category:** `housing`  
 **Observations:** 3  
 **Evidence:** 5.22/10  
@@ -285,7 +311,7 @@ Unique observations collected: **641**
 
 ---
 
-### 11. I’m honestly tired of applying into the void.
+### 12. I’m honestly tired of applying into the void.
 **Category:** `jobs`  
 **Observations:** 2  
 **Evidence:** 4.52/10  
@@ -311,7 +337,7 @@ Unique observations collected: **641**
 
 ---
 
-### 12. ICPC UNCOVERS ANOTHER FAKE AGENCY, PRESIDENT DIRECTS SUSPENSION OF THREE FEDERAL PERMANENT SECRETARIES AND ARREST OF FAK
+### 13. ICPC UNCOVERS ANOTHER FAKE AGENCY, PRESIDENT DIRECTS SUSPENSION OF THREE FEDERAL PERMANENT SECRETARIES AND ARREST OF FAK
 **Category:** `government`  
 **Observations:** 4  
 **Evidence:** 5.78/10  
@@ -339,7 +365,7 @@ Unique observations collected: **641**
 
 ---
 
-### 13. Kenya telecom complaints shift from poor network to fraud and data billing - TechCabal
+### 14. Kenya telecom complaints shift from poor network to fraud and data billing - TechCabal
 **Category:** `connectivity`  
 **Observations:** 2  
 **Evidence:** 4.51/10  
@@ -365,7 +391,7 @@ Unique observations collected: **641**
 
 ---
 
-### 14. After FIJ’s Story, EMS Nigeria Delivers Expensive Package Held for 2 Months - fij.ng
+### 15. After FIJ’s Story, EMS Nigeria Delivers Expensive Package Held for 2 Months - FIJ NG
 **Category:** `repairs`  
 **Observations:** 4  
 **Evidence:** 5.78/10  
@@ -380,10 +406,10 @@ Unique observations collected: **641**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- After FIJ’s Story, EMS Nigeria Delivers Expensive Package Held for 2 Months - fij.ng
-- EMS Nigeria Can’t Find ‘Expensive’ Package Sent to the US in December - fij.ng
 - After FIJ’s Story, EMS Nigeria Delivers Expensive Package Held for 2 Months - FIJ NG
 - EMS Nigeria Can’t Find ‘Expensive’ Package Sent to the US in December - FIJ NG
+- After FIJ’s Story, EMS Nigeria Delivers Expensive Package Held for 2 Months - fij.ng
+- EMS Nigeria Can’t Find ‘Expensive’ Package Sent to the US in December - fij.ng
 
 **Source domains:** news.google.com
 - Common signals: expensive
@@ -393,7 +419,7 @@ Unique observations collected: **641**
 
 ---
 
-### 15. INVESTIGATION: How Online Platform Slipcraft Helps Scammers Fake Transfers, Generate Fraudulent Receipts - Sahara Report
+### 16. INVESTIGATION: How Online Platform Slipcraft Helps Scammers Fake Transfers, Generate Fraudulent Receipts - Sahara Report
 **Category:** `security`  
 **Observations:** 2  
 **Evidence:** 4.47/10  
@@ -419,7 +445,7 @@ Unique observations collected: **641**
 
 ---
 
-### 16. I’m a 13-year-old dev from Nigeria, and I built an automated legal escrow app to stop freelancers and clients from scamm
+### 17. I’m a 13-year-old dev from Nigeria, and I built an automated legal escrow app to stop freelancers and clients from scamm
 **Category:** `repairs`  
 **Observations:** 2  
 **Evidence:** 4.52/10  
@@ -445,7 +471,7 @@ Unique observations collected: **641**
 
 ---
 
-### 17. Verizon are lying S.O.B.
+### 18. Verizon are lying S.O.B.
 **Category:** `payments`  
 **Observations:** 1  
 **Evidence:** 3.86/10  
@@ -470,7 +496,35 @@ Unique observations collected: **641**
 
 ---
 
-### 18. Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week
+### 19. Dropped calls, slow data: How subscribers can complain and claim compensation - businessday.ng
+**Category:** `connectivity`  
+**Observations:** 4  
+**Evidence:** 5.82/10  
+**Pain signal:** 3.5/10  
+**Recurrence:** 6.4/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 3.9/10  
+**Monetization signal:** 3.4/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.49/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
+- Dropped calls, slow data: How subscribers can complain and claim compensation - businessday.ng
+- Dropped calls, slow data: How subscribers can complain and claim compensation - Business News Nigeria
+- Dropped calls, slow data: How subscribers can complain and claim compensation - Business News Nigeria
+- Dropped calls, slow data: How subscribers can complain and claim compensation - businessday.ng
+
+**Source domains:** news.google.com
+- Common signals: dropped calls, complain
+- Independent source domains: 1; unique observations: 2
+- Average source/evidence quality: 3.5/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 20. Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week
 **Category:** `payments`  
 **Observations:** 1  
 **Evidence:** 3.77/10  
@@ -492,59 +546,5 @@ Unique observations collected: **641**
 - Independent source domains: 1; unique observations: 1
 - Average source/evidence quality: 3.8/10; verification confidence: low
 - Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 19. Coordinator of 'fake' Made in Nigeria agency shares appointment letter 'issued by SGF office' - thecable.ng
-**Category:** `government`  
-**Observations:** 3  
-**Evidence:** 5.12/10  
-**Pain signal:** 3.5/10  
-**Recurrence:** 5.3/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 5.55/10  
-**Monetization signal:** 3.05/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.49/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 10.0/10
-
-**Representative evidence:**
-- Coordinator of 'fake' Made in Nigeria agency shares appointment letter 'issued by SGF office' - thecable.ng
-- Coordinator of 'fake' Made in Nigeria agency shares appointment letter 'issued by SGF office' - TheCable
-- Analysis: Coordinator Of ‘Fake’ Made In Nigeria Agency Shares Appointment Letter ‘Issued By SGF Office’ #trusttvnews - instagram.com
-
-**Source domains:** news.google.com
-- Common signals: fake, issue
-- Independent source domains: 1; unique observations: 2
-- Average source/evidence quality: 3.5/10; verification confidence: low
-- Existing-solution language signal: 10.0/10 (not a market-size estimate)
-
----
-
-### 20. Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - leadership.ng
-**Category:** `security`  
-**Observations:** 3  
-**Evidence:** 5.12/10  
-**Pain signal:** 5.5/10  
-**Recurrence:** 5.3/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 3.55/10  
-**Monetization signal:** 3.05/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.49/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 6.67/10
-
-**Representative evidence:**
-- Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - leadership.ng
-- Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - LEADERSHIP Newspapers
-- NIS debunks fraud claims, warns public over fake passport payment channels - The Guardian Nigeria News
-
-**Source domains:** news.google.com
-- Common signals: fraud, fake
-- Independent source domains: 1; unique observations: 2
-- Average source/evidence quality: 3.5/10; verification confidence: low
-- Existing-solution language signal: 6.7/10 (not a market-size estimate)
 
 ---
