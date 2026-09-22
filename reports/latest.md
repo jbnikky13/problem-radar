@@ -1,8 +1,8 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-22T17:04:20.581813+00:00`
+Generated: `2026-09-22T21:27:16.909901+00:00`
 Research status: **ACTIVE**
-Unique observations collected: **698**
+Unique observations collected: **709**
 
 > Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.
 > A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.
@@ -11,17 +11,17 @@ Unique observations collected: **698**
 
 ### 1. Navy disowns fake recruitment notice, warns applicants against fraud - The Guardian Nigeria News
 **Category:** `security`  
-**Observations:** 10  
-**Evidence:** 9.99/10  
-**Pain signal:** 3.4/10  
+**Observations:** 13  
+**Evidence:** 10.0/10  
+**Pain signal:** 3.19/10  
 **Recurrence:** 10.0/10  
 **Information gap:** 2.8/10  
-**Automation signal:** 6.0/10  
-**Monetization signal:** 5.5/10  
+**Automation signal:** 7.05/10  
+**Monetization signal:** 6.55/10  
 **Source diversity:** 3.5/10  
-**Verification:** 3.39/10  
+**Verification:** 3.38/10  
 **Evidence confidence:** **low**  
-**Existing-solution language:** 5.0/10
+**Existing-solution language:** 3.85/10
 
 **Representative evidence:**
 - Navy disowns fake recruitment notice, warns applicants against fraud - The Guardian Nigeria News
@@ -32,13 +32,13 @@ Unique observations collected: **698**
 
 **Source domains:** news.google.com
 - Common signals: fake, fraud, scam
-- Independent source domains: 1; unique observations: 8
+- Independent source domains: 1; unique observations: 9
 - Average source/evidence quality: 3.3/10; verification confidence: low
-- Existing-solution language signal: 5.0/10 (not a market-size estimate)
+- Existing-solution language signal: 3.8/10 (not a market-size estimate)
 
 ---
 
-### 2. AEDC announces fresh power outage in Abuja - dailypost.ng
+### 2. Power outage hits parts of Abuja, Nasarawa - Punch Newspapers
 **Category:** `power`  
 **Observations:** 10  
 **Evidence:** 9.98/10  
@@ -53,11 +53,11 @@ Unique observations collected: **698**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- AEDC announces fresh power outage in Abuja - dailypost.ng
-- Planned power outage to plunge northeastern cities into two days of darkness - dailypost.ng
 - Power outage hits parts of Abuja, Nasarawa - Punch Newspapers
 - NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
 - AEDC announces fresh power outage in Abuja - Daily Post Nigeria
+- Planned power outage to plunge northeastern cities into two days of darkness - Daily Post Nigeria
+- AEDC announces fresh power outage in Abuja - dailypost.ng
 
 **Source domains:** news.google.com
 - Common signals: power outage
@@ -109,8 +109,8 @@ Unique observations collected: **698**
 
 **Representative evidence:**
 - Ogun communities to experience six-hour power outage today - The Guardian Nigeria News
-- TCN announces 32-hour power outage across seven northeastern cities - The Guardian Nigeria News
 - TCN announces six-hour power outage in Lokoja, environs - Peoples Gazette Nigeria
+- TCN announces 32-hour power outage across seven northeastern cities - The Guardian Nigeria News
 - Ogun communities to experience six-hour power outage today - guardian.ng
 - TCN announces 32-hour power outage across seven northeastern cities - guardian.ng
 
@@ -225,7 +225,7 @@ Unique observations collected: **698**
 
 ---
 
-### 9. Dropped calls, slow data: How subscribers can complain and claim compensation - Businessday NG
+### 9. Dropped calls, slow data: How subscribers can complain and claim compensation - Business News Nigeria
 **Category:** `connectivity`  
 **Observations:** 5  
 **Evidence:** 6.52/10  
@@ -240,9 +240,9 @@ Unique observations collected: **698**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
+- Dropped calls, slow data: How subscribers can complain and claim compensation - Business News Nigeria
 - Dropped calls, slow data: How subscribers can complain and claim compensation - Businessday NG
 - Dropped calls, slow data: How subscribers can complain and claim compensation - businessday.ng
-- Dropped calls, slow data: How subscribers can complain and claim compensation - Business News Nigeria
 - Dropped calls, slow data: How subscribers can complain and claim compensation - Business News Nigeria
 - Dropped calls, slow data: How subscribers can complain and claim compensation - businessday.ng
 
@@ -406,8 +406,8 @@ Unique observations collected: **698**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- ICPC UNCOVERS ANOTHER FAKE AGENCY, PRESIDENT DIRECTS SUSPENSION OF THREE FEDERAL PERMANENT SECRETARIES AND ARREST OF FAKE AGENCY PROMOTER - Independent Corrupt Practices and Other Related Offences Commission
 - ICPC UNCOVERS ANOTHER FAKE AGENCY, PRESIDENT DIRECTS SUSPENSION OF THREE FEDERAL PERMANENT SECRETARIES AND ARREST OF FAKE AGENCY PROMOTER - icpc.gov.ng
+- ICPC UNCOVERS ANOTHER FAKE AGENCY, PRESIDENT DIRECTS SUSPENSION OF THREE FEDERAL PERMANENT SECRETARIES AND ARREST OF FAKE AGENCY PROMOTER - Independent Corrupt Practices and Other Related Offences Commission
 - [UPDATED] Tinubu Orders Arrest, Suspends Three Permanent Secretaries As ICPC Uncovers Another 'Fake' Agency - channelstv.com
 - [UPDATED] Tinubu Orders Arrest, Suspends Three Permanent Secretaries As ICPC Uncovers Another 'Fake' Agency - Channels Television
 
@@ -473,7 +473,7 @@ Unique observations collected: **698**
 
 ---
 
-### 18. “Better Customer Education Can Reduce Costly Roofing Mistakes in Nigeria” Joy Bukar said - Businessday NG
+### 18. “Better Customer Education Can Reduce Costly Roofing Mistakes in Nigeria” Joy Bukar said - Business News Nigeria
 **Category:** `business`  
 **Observations:** 3  
 **Evidence:** 5.08/10  
@@ -488,9 +488,9 @@ Unique observations collected: **698**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
+- “Better Customer Education Can Reduce Costly Roofing Mistakes in Nigeria” Joy Bukar said - Business News Nigeria
 - “Better Customer Education Can Reduce Costly Roofing Mistakes in Nigeria” Joy Bukar said - Businessday NG
 - “Better Customer Education Can Reduce Costly Roofing Mistakes in Nigeria” Joy Bukar said - businessday.ng
-- “Better Customer Education Can Reduce Costly Roofing Mistakes in Nigeria” Joy Bukar said - Business News Nigeria
 
 **Source domains:** news.google.com
 - Common signals: costly
