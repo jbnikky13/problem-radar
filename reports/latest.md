@@ -1,38 +1,38 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-21T22:04:38.280521+00:00`
+Generated: `2026-09-22T05:08:32.097755+00:00`
 Research status: **ACTIVE**
-Unique observations collected: **625**
+Unique observations collected: **641**
 
 > Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.
 > A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.
 
 ## Top recurring problem clusters
 
-### 1. NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
+### 1. Power outage hits parts of Abuja, Nasarawa - Punch Newspapers
 **Category:** `power`  
-**Observations:** 9  
-**Evidence:** 9.28/10  
+**Observations:** 10  
+**Evidence:** 9.98/10  
 **Pain signal:** 2.5/10  
 **Recurrence:** 10.0/10  
 **Information gap:** 2.8/10  
-**Automation signal:** 5.65/10  
-**Monetization signal:** 5.15/10  
+**Automation signal:** 6.0/10  
+**Monetization signal:** 5.5/10  
 **Source diversity:** 3.5/10  
 **Verification:** 3.34/10  
 **Evidence confidence:** **low**  
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
+- Power outage hits parts of Abuja, Nasarawa - Punch Newspapers
 - NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
 - AEDC announces fresh power outage in Abuja - Daily Post Nigeria
 - Planned power outage to plunge northeastern cities into two days of darkness - Daily Post Nigeria
 - AEDC announces fresh power outage in Abuja - dailypost.ng
-- Planned power outage to plunge northeastern cities into two days of darkness - dailypost.ng
 
 **Source domains:** news.google.com
 - Common signals: power outage
-- Independent source domains: 1; unique observations: 5
+- Independent source domains: 1; unique observations: 6
 - Average source/evidence quality: 3.2/10; verification confidence: low
 - Existing-solution language signal: 0.0/10 (not a market-size estimate)
 
@@ -40,30 +40,30 @@ Unique observations collected: **625**
 
 ### 2. Navy disowns fake recruitment notice, warns applicants against fraud - The Guardian Nigeria News
 **Category:** `security`  
-**Observations:** 7  
-**Evidence:** 7.9/10  
-**Pain signal:** 3.79/10  
-**Recurrence:** 9.7/10  
+**Observations:** 8  
+**Evidence:** 8.6/10  
+**Pain signal:** 3.62/10  
+**Recurrence:** 10.0/10  
 **Information gap:** 2.8/10  
-**Automation signal:** 4.95/10  
-**Monetization signal:** 4.45/10  
+**Automation signal:** 5.3/10  
+**Monetization signal:** 4.8/10  
 **Source diversity:** 3.5/10  
-**Verification:** 3.41/10  
+**Verification:** 3.4/10  
 **Evidence confidence:** **low**  
-**Existing-solution language:** 5.71/10
+**Existing-solution language:** 6.25/10
 
 **Representative evidence:**
 - Navy disowns fake recruitment notice, warns applicants against fraud - The Guardian Nigeria News
 - Navy disowns fake recruitment notice, warns applicants against fraud - guardian.ng
 - FRSC Disowns Fake Recruitment Notice, Warns Applicants Against Scammers - Nigeria Info FM
-- FRSC Warns Applicants After Fake Recruitment Notice Goes Viral - The Whistler Newspaper
+- FRSC Warns Applicants After Fake Recruitment Notice Goes Viral - thewhistler.ng
 - Nigerian Navy Disclaims Fake 2026 Batch 39 Recruitment Notice - TVC News
 
 **Source domains:** news.google.com
 - Common signals: fake, fraud, scam
 - Independent source domains: 1; unique observations: 6
 - Average source/evidence quality: 3.3/10; verification confidence: low
-- Existing-solution language signal: 5.7/10 (not a market-size estimate)
+- Existing-solution language signal: 6.2/10 (not a market-size estimate)
 
 ---
 
@@ -96,36 +96,7 @@ Unique observations collected: **625**
 
 ---
 
-### 4. Lagos beach break becoming too expensive for locals - africanews.com
-**Category:** `repairs`  
-**Observations:** 5  
-**Evidence:** 6.52/10  
-**Pain signal:** 4.5/10  
-**Recurrence:** 7.5/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 4.25/10  
-**Monetization signal:** 6.25/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.49/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- Lagos beach break becoming too expensive for locals - africanews.com
-- A beach break in Nigeria’s Lagos is becoming too expensive for many - AP News
-- A beach break in Nigeria’s Lagos is becoming too expensive for many - apnews.com
-- A beach break in Nigeria's Lagos is becoming too expensive for many - washingtonpost.com
-- A beach break in Nigeria's Lagos is becoming too expensive for many - The Washington Post
-
-**Source domains:** news.google.com
-- Common signals: too expensive, expensive
-- Independent source domains: 1; unique observations: 3
-- Average source/evidence quality: 3.5/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
-
----
-
-### 5. How should Black Americans think about the relationship between immigration and anti-Blackness in the United States?
+### 4. How should Black Americans think about the relationship between immigration and anti-Blackness in the United States?
 **Category:** `repairs`  
 **Observations:** 1  
 **Evidence:** 4.07/10  
@@ -150,7 +121,7 @@ Unique observations collected: **625**
 
 ---
 
-### 6. I just hit my first 6 digits savings last month, now Im in debt
+### 5. I just hit my first 6 digits savings last month, now Im in debt
 **Category:** `repairs`  
 **Observations:** 1  
 **Evidence:** 3.95/10  
@@ -172,6 +143,34 @@ Unique observations collected: **625**
 - Independent source domains: 1; unique observations: 1
 - Average source/evidence quality: 5.0/10; verification confidence: low
 - Existing-solution language signal: 10.0/10 (not a market-size estimate)
+
+---
+
+### 6. A beach break in Nigeria’s Lagos is becoming too expensive for many - AP News
+**Category:** `repairs`  
+**Observations:** 4  
+**Evidence:** 5.82/10  
+**Pain signal:** 4.5/10  
+**Recurrence:** 6.4/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 3.9/10  
+**Monetization signal:** 5.9/10  
+**Source diversity:** 3.5/10  
+**Verification:** 3.49/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
+- A beach break in Nigeria’s Lagos is becoming too expensive for many - AP News
+- A beach break in Nigeria’s Lagos is becoming too expensive for many - apnews.com
+- A beach break in Nigeria's Lagos is becoming too expensive for many - washingtonpost.com
+- A beach break in Nigeria's Lagos is becoming too expensive for many - The Washington Post
+
+**Source domains:** news.google.com
+- Common signals: too expensive, expensive
+- Independent source domains: 1; unique observations: 2
+- Average source/evidence quality: 3.5/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
 
 ---
 
@@ -366,7 +365,7 @@ Unique observations collected: **625**
 
 ---
 
-### 14. After FIJ’s Story, EMS Nigeria Delivers Expensive Package Held for 2 Months - FIJ NG
+### 14. After FIJ’s Story, EMS Nigeria Delivers Expensive Package Held for 2 Months - fij.ng
 **Category:** `repairs`  
 **Observations:** 4  
 **Evidence:** 5.78/10  
@@ -381,10 +380,10 @@ Unique observations collected: **625**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- After FIJ’s Story, EMS Nigeria Delivers Expensive Package Held for 2 Months - FIJ NG
-- EMS Nigeria Can’t Find ‘Expensive’ Package Sent to the US in December - FIJ NG
 - After FIJ’s Story, EMS Nigeria Delivers Expensive Package Held for 2 Months - fij.ng
 - EMS Nigeria Can’t Find ‘Expensive’ Package Sent to the US in December - fij.ng
+- After FIJ’s Story, EMS Nigeria Delivers Expensive Package Held for 2 Months - FIJ NG
+- EMS Nigeria Can’t Find ‘Expensive’ Package Sent to the US in December - FIJ NG
 
 **Source domains:** news.google.com
 - Common signals: expensive
@@ -446,7 +445,32 @@ Unique observations collected: **625**
 
 ---
 
-### 17. Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week
+### 17. Verizon are lying S.O.B.
+**Category:** `payments`  
+**Observations:** 1  
+**Evidence:** 3.86/10  
+**Pain signal:** 6.0/10  
+**Recurrence:** 3.1/10  
+**Information gap:** 2.8/10  
+**Automation signal:** 4.85/10  
+**Monetization signal:** 4.85/10  
+**Source diversity:** 3.5/10  
+**Verification:** 4.01/10  
+**Evidence confidence:** **low**  
+**Existing-solution language:** 0.0/10
+
+**Representative evidence:**
+- Verizon are lying S.O.B.
+
+**Source domains:** reddit.com
+- Common signals: fraud, complain, complaint
+- Independent source domains: 1; unique observations: 1
+- Average source/evidence quality: 4.4/10; verification confidence: low
+- Existing-solution language signal: 0.0/10 (not a market-size estimate)
+
+---
+
+### 18. Nigerian Banks Detect 46% eFraud via Customer Complaints - Nigeria Communications Week
 **Category:** `payments`  
 **Observations:** 1  
 **Evidence:** 3.77/10  
@@ -471,7 +495,7 @@ Unique observations collected: **625**
 
 ---
 
-### 18. Coordinator of 'fake' Made in Nigeria agency shares appointment letter 'issued by SGF office' - thecable.ng
+### 19. Coordinator of 'fake' Made in Nigeria agency shares appointment letter 'issued by SGF office' - thecable.ng
 **Category:** `government`  
 **Observations:** 3  
 **Evidence:** 5.12/10  
@@ -498,7 +522,7 @@ Unique observations collected: **625**
 
 ---
 
-### 19. Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - leadership.ng
+### 20. Immigration Decries Passport Payment Fraud Claims, Warns Public Against Fake Platforms - leadership.ng
 **Category:** `security`  
 **Observations:** 3  
 **Evidence:** 5.12/10  
@@ -522,31 +546,5 @@ Unique observations collected: **625**
 - Independent source domains: 1; unique observations: 2
 - Average source/evidence quality: 3.5/10; verification confidence: low
 - Existing-solution language signal: 6.7/10 (not a market-size estimate)
-
----
-
-### 20. How Nigerians Absorb the Cost of Delayed Digital Payments - humanglemedia.com
-**Category:** `payments`  
-**Observations:** 2  
-**Evidence:** 4.42/10  
-**Pain signal:** 3.5/10  
-**Recurrence:** 4.2/10  
-**Information gap:** 2.8/10  
-**Automation signal:** 5.2/10  
-**Monetization signal:** 5.2/10  
-**Source diversity:** 3.5/10  
-**Verification:** 3.49/10  
-**Evidence confidence:** **low**  
-**Existing-solution language:** 0.0/10
-
-**Representative evidence:**
-- How Nigerians Absorb the Cost of Delayed Digital Payments - humanglemedia.com
-- How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
-
-**Source domains:** news.google.com
-- Common signals: delayed, delay
-- Independent source domains: 1; unique observations: 1
-- Average source/evidence quality: 3.5/10; verification confidence: low
-- Existing-solution language signal: 0.0/10 (not a market-size estimate)
 
 ---
