@@ -1,8 +1,8 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-22T21:27:16.909901+00:00`
+Generated: `2026-09-23T04:53:47.651731+00:00`
 Research status: **ACTIVE**
-Unique observations collected: **709**
+Unique observations collected: **714**
 
 > Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.
 > A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.
@@ -28,7 +28,7 @@ Unique observations collected: **709**
 - Navy disowns fake recruitment notice, warns applicants against fraud - guardian.ng
 - FRSC Disowns Fake Recruitment Notice, Warns Applicants Against Scammers - Nigeria Info FM
 - Nigerian Navy Disclaims Fake 2026 Batch 39 Recruitment Notice - TVC News
-- Nigerian Navy Warns Public Against Fake Recruitment Notice - Independent Newspaper Nigeria
+- Nigerian Navy Warns Public Over Fake 2026 Recruitment Notice - Ships & Ports
 
 **Source domains:** news.google.com
 - Common signals: fake, fraud, scam
@@ -38,7 +38,7 @@ Unique observations collected: **709**
 
 ---
 
-### 2. Power outage hits parts of Abuja, Nasarawa - Punch Newspapers
+### 2. AEDC announces fresh power outage in Abuja - Daily Post Nigeria
 **Category:** `power`  
 **Observations:** 10  
 **Evidence:** 9.98/10  
@@ -53,10 +53,10 @@ Unique observations collected: **709**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- Power outage hits parts of Abuja, Nasarawa - Punch Newspapers
-- NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
 - AEDC announces fresh power outage in Abuja - Daily Post Nigeria
 - Planned power outage to plunge northeastern cities into two days of darkness - Daily Post Nigeria
+- Power outage hits parts of Abuja, Nasarawa - Punch Newspapers
+- NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
 - AEDC announces fresh power outage in Abuja - dailypost.ng
 
 **Source domains:** news.google.com
@@ -109,8 +109,8 @@ Unique observations collected: **709**
 
 **Representative evidence:**
 - Ogun communities to experience six-hour power outage today - The Guardian Nigeria News
-- TCN announces six-hour power outage in Lokoja, environs - Peoples Gazette Nigeria
 - TCN announces 32-hour power outage across seven northeastern cities - The Guardian Nigeria News
+- TCN announces six-hour power outage in Lokoja, environs - Peoples Gazette Nigeria
 - Ogun communities to experience six-hour power outage today - guardian.ng
 - TCN announces 32-hour power outage across seven northeastern cities - guardian.ng
 
@@ -406,8 +406,8 @@ Unique observations collected: **709**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
-- ICPC UNCOVERS ANOTHER FAKE AGENCY, PRESIDENT DIRECTS SUSPENSION OF THREE FEDERAL PERMANENT SECRETARIES AND ARREST OF FAKE AGENCY PROMOTER - icpc.gov.ng
 - ICPC UNCOVERS ANOTHER FAKE AGENCY, PRESIDENT DIRECTS SUSPENSION OF THREE FEDERAL PERMANENT SECRETARIES AND ARREST OF FAKE AGENCY PROMOTER - Independent Corrupt Practices and Other Related Offences Commission
+- ICPC UNCOVERS ANOTHER FAKE AGENCY, PRESIDENT DIRECTS SUSPENSION OF THREE FEDERAL PERMANENT SECRETARIES AND ARREST OF FAKE AGENCY PROMOTER - icpc.gov.ng
 - [UPDATED] Tinubu Orders Arrest, Suspends Three Permanent Secretaries As ICPC Uncovers Another 'Fake' Agency - channelstv.com
 - [UPDATED] Tinubu Orders Arrest, Suspends Three Permanent Secretaries As ICPC Uncovers Another 'Fake' Agency - Channels Television
 
