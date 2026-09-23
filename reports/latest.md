@@ -1,8 +1,8 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-23T04:53:47.651731+00:00`
+Generated: `2026-09-23T11:48:50.418914+00:00`
 Research status: **ACTIVE**
-Unique observations collected: **714**
+Unique observations collected: **727**
 
 > Evidence report only. Scores are research signals, not predictions, rankings of people, or automatic business recommendations.
 > A high signal means a problem deserves investigation; it does not prove market size, profitability, or product-market fit.
@@ -38,7 +38,7 @@ Unique observations collected: **714**
 
 ---
 
-### 2. AEDC announces fresh power outage in Abuja - Daily Post Nigeria
+### 2. NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
 **Category:** `power`  
 **Observations:** 10  
 **Evidence:** 9.98/10  
@@ -53,10 +53,10 @@ Unique observations collected: **714**
 **Existing-solution language:** 0.0/10
 
 **Representative evidence:**
+- NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
 - AEDC announces fresh power outage in Abuja - Daily Post Nigeria
 - Planned power outage to plunge northeastern cities into two days of darkness - Daily Post Nigeria
 - Power outage hits parts of Abuja, Nasarawa - Punch Newspapers
-- NISO announces planned power outage in Kano, Jigawa, Katsina - Peoples Gazette Nigeria
 - AEDC announces fresh power outage in Abuja - dailypost.ng
 
 **Source domains:** news.google.com
@@ -109,8 +109,8 @@ Unique observations collected: **714**
 
 **Representative evidence:**
 - Ogun communities to experience six-hour power outage today - The Guardian Nigeria News
-- TCN announces 32-hour power outage across seven northeastern cities - The Guardian Nigeria News
 - TCN announces six-hour power outage in Lokoja, environs - Peoples Gazette Nigeria
+- TCN announces 32-hour power outage across seven northeastern cities - The Guardian Nigeria News
 - Ogun communities to experience six-hour power outage today - guardian.ng
 - TCN announces 32-hour power outage across seven northeastern cities - guardian.ng
 
