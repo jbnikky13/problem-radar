@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-09-29",
+  "status": "ready_for_validation",
+  "principle": "Sell intelligence, not identities.",
+  "targets": [
+    {
+      "segment": "Public agencies",
+      "why_now": "FCSC, SON and Federal Ministry of Finance have all issued 2026 warnings about false recruitment or impersonation information.",
+      "evidence": [
+        "FCSC 2026-08-21",
+        "SON 2026-09-26",
+        "Federal Ministry of Finance 2026-07-29"
+      ],
+      "buyer_question": "Could an external monitoring layer detect false official notices faster and measure correction lag?",
+      "pilot": "Weekly official-information integrity brief for one agency/service."
+    },
+    {
+      "segment": "Telecom operators/regulators",
+      "why_now": "NCC publishes complaint statistics and has a 2026 QoS compensation framework based on measured service failures.",
+      "evidence": [
+        "NCC 2026 complaint statistics",
+        "NCC 2026 compensation framework"
+      ],
+      "buyer_question": "What external signals would reveal emerging service friction before or alongside internal complaint/QoS systems?",
+      "pilot": "Monthly aggregated service-friction brief for one geography/service category."
+    },
+    {
+      "segment": "Electricity regulators/DisCos",
+      "why_now": "NERC operates a multi-step complaint redress system, creating a measurable service-friction workflow.",
+      "evidence": [
+        "NERC complaint redress procedure"
+      ],
+      "buyer_question": "Can aggregated external signals identify changing complaint themes or unresolved service friction not visible in formal channels?",
+      "pilot": "Sector complaint-theme intelligence brief."
+    },
+    {
+      "segment": "Manufacturers/distributors",
+      "why_now": "NAFDAC's strategy includes surveillance, investigations and enforcement around substandard/falsified/counterfeit regulated products.",
+      "evidence": [
+        "NAFDAC 2024-2027 strategic plan"
+      ],
+      "buyer_question": "Where are authenticity risks or verification gaps emerging across product categories and channels?",
+      "pilot": "Category-level counterfeit-risk intelligence report."
+    }
+  ],
+  "validation_protocol": [
+    "Identify the specific decision-maker and existing data system.",
+    "Document the information gap before pitching a solution.",
+    "Offer one small intelligence brief rather than a platform sale.",
+    "Measure whether the buyer finds the signal new, timely and actionable.",
+    "Only then define recurring pricing/API requirements."
+  ],
+  "privacy_boundary": "Do not sell names, contact lists, identifiable complainants, private messages or individual behavioural profiles."
+}
