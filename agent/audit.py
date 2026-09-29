@@ -28,7 +28,7 @@ def run_audit() -> dict:
         "# Problem Radar Evidence Audit v2\n\n"
         f"Generated: {result['generated_at']}\n\n"
         f"Raw observations: {result['raw_observations']}\n\n"
-        "This is the first audit pass. The next pass will add canonical-source resolution, duplicate/event grouping, and evidence filtering.\n",
+        "This audit pass records the raw dataset baseline. A subsequent pass will add source resolution, duplicate/event grouping, and evidence filtering.\n",
         encoding="utf-8",
     )
     return result
