@@ -1,0 +1,63 @@
+{
+  "version": "1.0",
+  "principle": "Sell intelligence, not identities.",
+  "buyers": [
+    {
+      "segment": "Telecom operators",
+      "problem_theme": "service_reliability",
+      "existing_signals": "NCC publishes normalized complaint and network-performance data.",
+      "potential_product": "independent service-friction and emerging-complaint intelligence",
+      "decision_supported": "where to investigate service-quality/customer-experience gaps",
+      "validation": "identify blind spots not covered by existing operator/NCC dashboards and test willingness to pay"
+    },
+    {
+      "segment": "Telecom regulators",
+      "problem_theme": "service_reliability",
+      "existing_signals": "NCC uses complaint and QoS/QoE data for oversight.",
+      "potential_product": "cross-source early-warning intelligence",
+      "decision_supported": "where additional regulatory investigation may be warranted",
+      "validation": "test whether aggregated external signals add predictive value beyond official datasets"
+    },
+    {
+      "segment": "Electricity regulators and state regulators",
+      "problem_theme": "service_reliability",
+      "existing_signals": "NERC/state regulators operate formal complaint channels.",
+      "potential_product": "aggregated service-friction and complaint-pattern intelligence",
+      "decision_supported": "where complaint/service patterns are changing",
+      "validation": "compare external signals with regulator complaint records and determine incremental value"
+    },
+    {
+      "segment": "Manufacturers/distributors",
+      "problem_theme": "trust_verification",
+      "existing_signals": "counterfeit/substandard products are an established regulatory concern.",
+      "potential_product": "category-level counterfeit-risk intelligence",
+      "decision_supported": "where verification and channel-monitoring attention is needed",
+      "validation": "map existing authentication systems and find measurable blind spots"
+    },
+    {
+      "segment": "Public agencies",
+      "problem_theme": "trust_verification",
+      "existing_signals": "multiple agencies issue warnings about false recruitment/impersonation information.",
+      "potential_product": "official-information impersonation and false-notice monitoring",
+      "decision_supported": "when corrective communication is needed",
+      "validation": "measure detection-to-correction lag and operational monitoring cost"
+    },
+    {
+      "segment": "Banks/fintechs",
+      "problem_theme": "trust_verification",
+      "existing_signals": "fraud and information-asymmetry patterns can affect customer support and risk operations.",
+      "potential_product": "aggregated emerging fraud/problem intelligence",
+      "decision_supported": "which non-transactional problem narratives deserve investigation",
+      "validation": "establish lawful data sources and whether external signals provide incremental risk intelligence"
+    }
+  ],
+  "common_validation_questions": [
+    "What decision does the intelligence change?",
+    "What does the buyer already know internally?",
+    "What blind spot remains?",
+    "How often is the signal needed?",
+    "What is the measurable cost of missing it?",
+    "Would the buyer pay for a brief, dashboard, API or alert?"
+  ],
+  "privacy_boundary": "No names, personal contact lists, identifiable complainants, private messages or individual behavioural profiles are commercial outputs."
+}
