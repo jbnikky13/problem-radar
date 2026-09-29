@@ -1,0 +1,23 @@
+name: Problem Radar Global Intelligence
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '27 10 * * 1'
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Build global intelligence layer
+        run: python -m agent.global_intelligence
+      - name: Commit outputs
+        run: |
+          git config user.name 'problem-radar[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/global_intelligence.json reports/global-intelligence.md
+          if git diff --cached --quiet; then echo 'No changes.'; else git commit -m 'chore: update global intelligence layer'; git push origin main; fi
