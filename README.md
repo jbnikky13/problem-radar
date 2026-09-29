@@ -1,87 +1,53 @@
-# 🇳🇬 Nigeria Problem Radar
+# Problem Radar
 
-A 7-day research agent that continuously gathers public signals about everyday problems in Nigeria, extracts recurring pain points, clusters similar observations, and produces evidence-based opportunity reports.
+**Global problem intelligence — sell intelligence, not identities.**
+
+Problem Radar discovers recurring problems from public and permitted data, validates evidence, detects cross-sector mechanisms, and turns aggregated patterns into decision intelligence.
 
 ## What it does
 
-1. Collects public Google News RSS and Reddit RSS/search signals.
-2. Searches across everyday-friction topics including power, connectivity, transport, food, housing, repairs, suppliers, SME finance, healthcare, education, government services, logistics, water, security and more.
-3. Detects language associated with real-world friction (`can't find`, `too expensive`, `scam`, `takes too long`, `failed transaction`, `poor network`, etc.).
-4. Extracts structured observations with source URL and publication time.
-5. Categorizes observations and affected groups.
-6. Deduplicates repeated observations.
-7. Clusters semantically similar problems with TF-IDF/cosine similarity.
-8. Measures evidence volume, source diversity, recurrence, pain, information gap, automation potential and monetization signals separately.
-9. Generates a cumulative `reports/latest.md` research report.
-10. Runs automatically through GitHub Actions every 6 hours.
-11. Keeps a seven-day research window; after seven days the scheduled job stops collecting until manually restarted.
+1. Collects problem signals.
+2. Audits relevance and evidence quality.
+3. Groups observations into recurring problem clusters.
+4. Detects mechanisms appearing across sectors and markets.
+5. Generates business-validation experiments.
+6. Produces aggregated intelligence for organizations.
 
-## Current design principle
+## Two products from one engine
 
-**Evidence first, solutions second.** The agent must not decide what business to build. It records the problem, evidence, affected group, recurring signals and source so we can make the decision after the research window.
+### Intelligence business
 
-The scoring fields are research signals, not predictions or guarantees. A high score means the collected evidence deserves deeper investigation, not that a business will succeed.
+Organizations can consume country, sector, customer-friction and emerging-problem intelligence through reports, dashboards or APIs.
 
-## Zero-cost MVP
+### Venture discovery engine
 
-The first version does **not** require Supabase or paid AI APIs. Research data is stored as JSON in the repository and reports are committed by GitHub Actions. This makes the first seven-day experiment easy to run at ₦0.
+Problem Radar can identify problems worth validating and help test a manual MVP before significant engineering investment.
 
-Supabase/LLM enrichment can be added after we know the research pipeline is producing useful signals.
+## Global by design
 
-## Sources and ethics
+Nigeria is the initial market and data-rich starting point, not the permanent scope. The model supports country, regional, sector and cross-market analysis.
 
-Only public, non-authenticated RSS sources are used. The agent does not bypass authentication, paywalls, robots restrictions or private content. Source URLs and publication timestamps are retained for traceability. Because public feeds can contain noise, final opportunity decisions should be verified against independent sources and direct user interviews before building.
+## Privacy principle
 
-## Run locally
+**Sell intelligence, not identities.** Commercial outputs are designed around aggregation and evidence metrics. Raw identities, private messages and identifiable complainants are not the product. Any personal-data processing must have an appropriate lawful basis and safeguards for the relevant jurisdiction.
 
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-python -m agent.run
-```
+## Intelligence model
 
-Windows:
+`market → sector → problem → mechanism → evidence → trend → action`
 
-```powershell
-.venv\Scripts\activate
-```
+The commercial intelligence layer is designed to answer questions such as:
 
-## Configuration
+- What problems are recurring?
+- Where are they occurring?
+- Which sectors are affected?
+- How strong is the evidence?
+- Is the same underlying problem appearing in multiple markets?
+- What service, product or workflow could be improved?
 
-Optional environment variables:
+## Pipeline
 
-- `PROBLEM_RADAR_DAYS=7`
-- `PROBLEM_RADAR_MAX_ITEMS_PER_SOURCE=40`
-- `PROBLEM_RADAR_LOOKBACK_HOURS=48`
+`signals → evidence audit → problem clusters → cross-sector mechanisms → validation → intelligence products`
 
-No API key is required for the initial collectors.
+## Current status
 
-## Repository layout
-
-```text
-agent/
-  __init__.py
-  config.py
-  models.py
-  sources.py
-  analyzer.py
-  storage.py
-  report.py
-  run.py
-
-data/
-  observations.json
-  clusters.json
-  state.json
-reports/
-  latest.md
-.github/workflows/
-  research.yml
-```
-
-## Seven-day experiment
-
-The agent records `started_at` in `data/state.json` on its first successful run. Every later run checks that timestamp. Once the seven-day window has elapsed, the collector exits cleanly instead of continuing to create noise.
-
-To intentionally start a new experiment, delete `data/state.json` and run the workflow manually.
+The repository contains the research/audit pipeline, business-validation layer, cross-problem analysis, global intelligence layer, and aggregated intelligence data contracts. The next application layer can expose these contracts through an authenticated dashboard and API.
