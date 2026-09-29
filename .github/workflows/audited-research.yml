@@ -1,0 +1,26 @@
+name: Problem Radar Audited Research
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 7 * * *'
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Build audited clusters
+        run: python -m agent.cluster_audit
+      - name: Build opportunity dossiers
+        run: python -m agent.opportunity_dossiers
+      - name: Commit generated research
+        run: |
+          git config user.name 'problem-radar[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/problem_clusters.json data/opportunity_dossiers.json reports/audited-problem-clusters.md reports/opportunity-dossiers.md
+          if git diff --cached --quiet; then echo 'No generated changes.'; else git commit -m 'chore: update audited research outputs'; git push origin main; fi
