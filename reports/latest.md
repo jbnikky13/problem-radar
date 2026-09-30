@@ -1,6 +1,6 @@
 # 🇳🇬 Nigeria Problem Radar — Evidence Intelligence
 
-Generated: `2026-09-30T05:39:12.038887+00:00`
+Generated: `2026-09-30T12:42:47.853119+00:00`
 Research status: **COMPLETE**
 Unique observations collected: **727**
 
