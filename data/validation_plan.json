@@ -1,0 +1,445 @@
+{
+  "generated_at": "2026-09-30T13:50:12.999574+00:00",
+  "plans": [
+    {
+      "id": "PR-001",
+      "problem": "Notice Recruitment Navy Fake 2026",
+      "category": "security",
+      "priority": 0.772,
+      "research_tasks": [
+        "Find independent reports and first-person accounts.",
+        "Estimate affected population using public statistics.",
+        "Map existing Nigerian alternatives and their pricing.",
+        "Identify the paying customer, not only the beneficiary.",
+        "Interview or survey affected users.",
+        "Test a manual service before building software."
+      ],
+      "go_no_go_gates": [
+        "Evidence from multiple independent sources",
+        "Clear recurring pain",
+        "Identifiable paying customer",
+        "Existing workaround with measurable cost",
+        "Willingness-to-pay evidence",
+        "A small manual MVP can deliver value"
+      ]
+    },
+    {
+      "id": "PR-002",
+      "problem": "Over Traffic Frsc Sms Nigerians",
+      "category": "security",
+      "priority": 0.555,
+      "research_tasks": [
+        "Find independent reports and first-person accounts.",
+        "Estimate affected population using public statistics.",
+        "Map existing Nigerian alternatives and their pricing.",
+        "Identify the paying customer, not only the beneficiary.",
+        "Interview or survey affected users.",
+        "Test a manual service before building software."
+      ],
+      "go_no_go_gates": [
+        "Evidence from multiple independent sources",
+        "Clear recurring pain",
+        "Identifiable paying customer",
+        "Existing workaround with measurable cost",
+        "Willingness-to-pay evidence",
+        "A small manual MVP can deliver value"
+      ]
+    },
+    {
+      "id": "PR-007",
+      "problem": "Yorubaland Countryhuman",
+      "category": "other",
+      "priority": 0.516,
+      "research_tasks": [
+        "Find independent reports and first-person accounts.",
+        "Estimate affected population using public statistics.",
+        "Map existing Nigerian alternatives and their pricing.",
+        "Identify the paying customer, not only the beneficiary.",
+        "Interview or survey affected users.",
+        "Test a manual service before building software."
+      ],
+      "go_no_go_gates": [
+        "Evidence from multiple independent sources",
+        "Clear recurring pain",
+        "Identifiable paying customer",
+        "Existing workaround with measurable cost",
+        "Willingness-to-pay evidence",
+        "A small manual MVP can deliver value"
+      ]
+    },
+    {
+      "id": "PR-006",
+      "problem": "British Honduras Story",
+      "category": "housing",
+      "priority": 0.512,
+      "research_tasks": [
+        "Find independent reports and first-person accounts.",
+        "Estimate affected population using public statistics.",
+        "Map existing Nigerian alternatives and their pricing.",
+        "Identify the paying customer, not only the beneficiary.",
+        "Interview or survey affected users.",
+        "Test a manual service before building software."
+      ],
+      "go_no_go_gates": [
+        "Evidence from multiple independent sources",
+        "Clear recurring pain",
+        "Identifiable paying customer",
+        "Existing workaround with measurable cost",
+        "Willingness-to-pay evidence",
+        "A small manual MVP can deliver value"
+      ]
+    },
+    {
+      "id": "PR-003",
+      "problem": "Fraud Nigerians Newspapers Punch Police",
+      "category": "security",
+      "priority": 0.496,
+      "research_tasks": [
+        "Find independent reports and first-person accounts.",
+        "Estimate affected population using public statistics.",
+        "Map existing Nigerian alternatives and their pricing.",
+        "Identify the paying customer, not only the beneficiary.",
+        "Interview or survey affected users.",
+        "Test a manual service before building software."
+      ],
+      "go_no_go_gates": [
+        "Evidence from multiple independent sources",
+        "Clear recurring pain",
+        "Identifiable paying customer",
+        "Existing workaround with measurable cost",
+        "Willingness-to-pay evidence",
+        "A small manual MVP can deliver value"
+      ]
+    },
+    {
+      "id": "PR-004",
+      "problem": "Package Expensive Fij Ems Story",
+      "category": "logistics",
+      "priority": 0.496,
+      "research_tasks": [
+        "Find independent reports and first-person accounts.",
+        "Estimate affected population using public statistics.",
+        "Map existing Nigerian alternatives and their pricing.",
+        "Identify the paying customer, not only the beneficiary.",
+        "Interview or survey affected users.",
+        "Test a manual service before building software."
+      ],
+      "go_no_go_gates": [
+        "Evidence from multiple independent sources",
+        "Clear recurring pain",
+        "Identifiable paying customer",
+        "Existing workaround with measurable cost",
+        "Willingness-to-pay evidence",
+        "A small manual MVP can deliver value"
+      ]
+    },
+    {
+      "id": "PR-005",
+      "problem": "Suspected Toothpaste Alerts Nafdac Nigerians",
+      "category": "payments",
+      "priority": 0.496,
+      "research_tasks": [
+        "Find independent reports and first-person accounts.",
+        "Estimate affected population using public statistics.",
+        "Map existing Nigerian alternatives and their pricing.",
+        "Identify the paying customer, not only the beneficiary.",
+        "Interview or survey affected users.",
+        "Test a manual service before building software."
+      ],
+      "go_no_go_gates": [
+        "Evidence from multiple independent sources",
+        "Clear recurring pain",
+        "Identifiable paying customer",
+        "Existing workaround with measurable cost",
+        "Willingness-to-pay evidence",
+        "A small manual MVP can deliver value"
+      ]
+    },
+    {
+      "id": "PR-022",
+      "problem": "Bypass Gastric Surgery Bariatric Considering",
+      "category": "housing",
+      "priority": 0.459,
+      "research_tasks": [
+        "Find independent reports and first-person accounts.",
+        "Estimate affected population using public statistics.",
+        "Map existing Nigerian alternatives and their pricing.",
+        "Identify the paying customer, not only the beneficiary.",
+        "Interview or survey affected users.",
+        "Test a manual service before building software."
+      ],
+      "go_no_go_gates": [
+        "Evidence from multiple independent sources",
+        "Clear recurring pain",
+        "Identifiable paying customer",
+        "Existing workaround with measurable cost",
+        "Willingness-to-pay evidence",
+        "A small manual MVP can deliver value"
+      ]
+    },
+    {
+      "id": "PR-008",
+      "problem": "Needed Chatters Chatter",
+      "category": "jobs",
+      "priority": 0.452,
+      "research_tasks": [
+        "Find independent reports and first-person accounts.",
+        "Estimate affected population using public statistics.",
+        "Map existing Nigerian alternatives and their pricing.",
+        "Identify the paying customer, not only the beneficiary.",
+        "Interview or survey affected users.",
+        "Test a manual service before building software."
+      ],
+      "go_no_go_gates": [
+        "Evidence from multiple independent sources",
+        "Clear recurring pain",
+        "Identifiable paying customer",
+        "Existing workaround with measurable cost",
+        "Willingness-to-pay evidence",
+        "A small manual MVP can deliver value"
+      ]
+    },
+    {
+      "id": "PR-019",
+      "problem": "Refining Revolution Monopoly World Jazeera",
+      "category": "other",
+      "priority": 0.452,
+      "research_tasks": [
+        "Find independent reports and first-person accounts.",
+        "Estimate affected population using public statistics.",
+        "Map existing Nigerian alternatives and their pricing.",
+        "Identify the paying customer, not only the beneficiary.",
+        "Interview or survey affected users.",
+        "Test a manual service before building software."
+      ],
+      "go_no_go_gates": [
+        "Evidence from multiple independent sources",
+        "Clear recurring pain",
+        "Identifiable paying customer",
+        "Existing workaround with measurable cost",
+        "Willingness-to-pay evidence",
+        "A small manual MVP can deliver value"
+      ]
+    },
+    {
+      "id": "PR-009",
+      "problem": "Failed Transactions Policy Fraud Traps",
+      "category": "security",
+      "priority": 0.443,
+      "research_tasks": [
+        "Find independent reports and first-person accounts.",
+        "Estimate affected population using public statistics.",
+        "Map existing Nigerian alternatives and their pricing.",
+        "Identify the paying customer, not only the beneficiary.",
+        "Interview or survey affected users.",
+        "Test a manual service before building software."
+      ],
+      "go_no_go_gates": [
+        "Evidence from multiple independent sources",
+        "Clear recurring pain",
+        "Identifiable paying customer",
+        "Existing workaround with measurable cost",
+        "Willingness-to-pay evidence",
+        "A small manual MVP can deliver value"
+      ]
+    },
+    {
+      "id": "PR-018",
+      "problem": "Lagos Becoming Expensive Too Beach",
+      "category": "other",
+      "priority": 0.443,
+      "research_tasks": [
+        "Find independent reports and first-person accounts.",
+        "Estimate affected population using public statistics.",
+        "Map existing Nigerian alternatives and their pricing.",
+        "Identify the paying customer, not only the beneficiary.",
+        "Interview or survey affected users.",
+        "Test a manual service before building software."
+      ],
+      "go_no_go_gates": [
+        "Evidence from multiple independent sources",
+        "Clear recurring pain",
+        "Identifiable paying customer",
+        "Existing workaround with measurable cost",
+        "Willingness-to-pay evidence",
+        "A small manual MVP can deliver value"
+      ]
+    },
+    {
+      "id": "PR-021",
+      "problem": "Coordinator Issued Sgf Appointment Made",
+      "category": "security",
+      "priority": 0.443,
+      "research_tasks": [
+        "Find independent reports and first-person accounts.",
+        "Estimate affected population using public statistics.",
+        "Map existing Nigerian alternatives and their pricing.",
+        "Identify the paying customer, not only the beneficiary.",
+        "Interview or survey affected users.",
+        "Test a manual service before building software."
+      ],
+      "go_no_go_gates": [
+        "Evidence from multiple independent sources",
+        "Clear recurring pain",
+        "Identifiable paying customer",
+        "Existing workaround with measurable cost",
+        "Willingness-to-pay evidence",
+        "A small manual MVP can deliver value"
+      ]
+    },
+    {
+      "id": "PR-016",
+      "problem": "Facebook Nigerians Generated Investment Fake",
+      "category": "security",
+      "priority": 0.438,
+      "research_tasks": [
+        "Find independent reports and first-person accounts.",
+        "Estimate affected population using public statistics.",
+        "Map existing Nigerian alternatives and their pricing.",
+        "Identify the paying customer, not only the beneficiary.",
+        "Interview or survey affected users.",
+        "Test a manual service before building software."
+      ],
+      "go_no_go_gates": [
+        "Evidence from multiple independent sources",
+        "Clear recurring pain",
+        "Identifiable paying customer",
+        "Existing workaround with measurable cost",
+        "Willingness-to-pay evidence",
+        "A small manual MVP can deliver value"
+      ]
+    },
+    {
+      "id": "PR-010",
+      "problem": "Fintechs Payment Fraud Challenges Tackling",
+      "category": "payments",
+      "priority": 0.436,
+      "research_tasks": [
+        "Find independent reports and first-person accounts.",
+        "Estimate affected population using public statistics.",
+        "Map existing Nigerian alternatives and their pricing.",
+        "Identify the paying customer, not only the beneficiary.",
+        "Interview or survey affected users.",
+        "Test a manual service before building software."
+      ],
+      "go_no_go_gates": [
+        "Evidence from multiple independent sources",
+        "Clear recurring pain",
+        "Identifiable paying customer",
+        "Existing workaround with measurable cost",
+        "Willingness-to-pay evidence",
+        "A small manual MVP can deliver value"
+      ]
+    },
+    {
+      "id": "PR-011",
+      "problem": "How Job Recruitment Can Stay",
+      "category": "security",
+      "priority": 0.436,
+      "research_tasks": [
+        "Find independent reports and first-person accounts.",
+        "Estimate affected population using public statistics.",
+        "Map existing Nigerian alternatives and their pricing.",
+        "Identify the paying customer, not only the beneficiary.",
+        "Interview or survey affected users.",
+        "Test a manual service before building software."
+      ],
+      "go_no_go_gates": [
+        "Evidence from multiple independent sources",
+        "Clear recurring pain",
+        "Identifiable paying customer",
+        "Existing workaround with measurable cost",
+        "Willingness-to-pay evidence",
+        "A small manual MVP can deliver value"
+      ]
+    },
+    {
+      "id": "PR-012",
+      "problem": "Linkedln Ghost Job Scams Listings",
+      "category": "security",
+      "priority": 0.436,
+      "research_tasks": [
+        "Find independent reports and first-person accounts.",
+        "Estimate affected population using public statistics.",
+        "Map existing Nigerian alternatives and their pricing.",
+        "Identify the paying customer, not only the beneficiary.",
+        "Interview or survey affected users.",
+        "Test a manual service before building software."
+      ],
+      "go_no_go_gates": [
+        "Evidence from multiple independent sources",
+        "Clear recurring pain",
+        "Identifiable paying customer",
+        "Existing workaround with measurable cost",
+        "Willingness-to-pay evidence",
+        "A small manual MVP can deliver value"
+      ]
+    },
+    {
+      "id": "PR-013",
+      "problem": "Unemployability Unemployment Expert Cannot Separated",
+      "category": "jobs",
+      "priority": 0.436,
+      "research_tasks": [
+        "Find independent reports and first-person accounts.",
+        "Estimate affected population using public statistics.",
+        "Map existing Nigerian alternatives and their pricing.",
+        "Identify the paying customer, not only the beneficiary.",
+        "Interview or survey affected users.",
+        "Test a manual service before building software."
+      ],
+      "go_no_go_gates": [
+        "Evidence from multiple independent sources",
+        "Clear recurring pain",
+        "Identifiable paying customer",
+        "Existing workaround with measurable cost",
+        "Willingness-to-pay evidence",
+        "A small manual MVP can deliver value"
+      ]
+    },
+    {
+      "id": "PR-014",
+      "problem": "Connectivity Goals Poor Transformation Internet",
+      "category": "connectivity",
+      "priority": 0.436,
+      "research_tasks": [
+        "Find independent reports and first-person accounts.",
+        "Estimate affected population using public statistics.",
+        "Map existing Nigerian alternatives and their pricing.",
+        "Identify the paying customer, not only the beneficiary.",
+        "Interview or survey affected users.",
+        "Test a manual service before building software."
+      ],
+      "go_no_go_gates": [
+        "Evidence from multiple independent sources",
+        "Clear recurring pain",
+        "Identifiable paying customer",
+        "Existing workaround with measurable cost",
+        "Willingness-to-pay evidence",
+        "A small manual MVP can deliver value"
+      ]
+    },
+    {
+      "id": "PR-015",
+      "problem": "000 Nation Fake Credentials Certificates",
+      "category": "security",
+      "priority": 0.436,
+      "research_tasks": [
+        "Find independent reports and first-person accounts.",
+        "Estimate affected population using public statistics.",
+        "Map existing Nigerian alternatives and their pricing.",
+        "Identify the paying customer, not only the beneficiary.",
+        "Interview or survey affected users.",
+        "Test a manual service before building software."
+      ],
+      "go_no_go_gates": [
+        "Evidence from multiple independent sources",
+        "Clear recurring pain",
+        "Identifiable paying customer",
+        "Existing workaround with measurable cost",
+        "Willingness-to-pay evidence",
+        "A small manual MVP can deliver value"
+      ]
+    }
+  ]
+}
