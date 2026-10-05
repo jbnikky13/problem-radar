@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-10-05T19:20:14.969989+00:00",
+  "scope": "global",
+  "regional_signal_counts": {
+    "unspecified": 245,
+    "africa": 469,
+    "west_africa": 467,
+    "asia": 25,
+    "middle_east": 9,
+    "europe": 42,
+    "north_america": 38,
+    "latin_america": 11
+  },
+  "design_principles": [
+    "country-aware evidence collection",
+    "global problem taxonomy with local context",
+    "compare recurrence within and across markets",
+    "separate observed evidence from inference",
+    "sell aggregated intelligence rather than identities"
+  ],
+  "intelligence_units": [
+    "problem",
+    "mechanism",
+    "market",
+    "sector",
+    "population",
+    "trend",
+    "evidence",
+    "confidence"
+  ],
+  "commercial_products": [
+    "Global Problem Radar",
+    "Country Intelligence",
+    "Sector Intelligence",
+    "Enterprise Customer Intelligence",
+    "Opportunity Intelligence API"
+  ],
+  "privacy_boundary": "Raw identities are not a product. The system should minimise personal data, apply aggregation/anonymisation where appropriate, restrict access to source material, and assess jurisdiction-specific legal requirements before commercial use."
+}
