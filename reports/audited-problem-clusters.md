@@ -1,10 +1,10 @@
 # Problem Radar — Audited Problem Clusters
 
-Generated: 2026-10-07T14:34:20.955614+00:00
+Generated: 2026-10-08T14:38:01.606444+00:00
 
 Clusters: **85**
 
-## PR-001 — Fake Notice Navy Recruitment 2026
+## PR-001 — Navy Recruitment Fake Notice 2026
 - Category: `security`
 - Observations: **9**
 - Evidence score: **1.164**
@@ -18,7 +18,7 @@ Representative reports:
 - Nigerian Navy Disowns Fake 2026 Batch 39 Recruitment Notice - PRNigeria News
 - Nigerian Navy Disowns Fake 2026 Recruitment Notice - Voice of Nigeria
 
-## PR-002 — Over Traffic Frsc Offence Fake
+## PR-002 — Over Frsc Traffic Sms Offence
 - Category: `security`
 - Observations: **5**
 - Evidence score: **1.063**
@@ -32,7 +32,7 @@ Representative reports:
 - Nigerians raise alarm over FRSC traffic offence scam - Realnews Magazine
 - FRSC Warns Motorists against Fake SMS, Website over Alleged Traffic Offences - Nigeria Communications Week
 
-## PR-003 — Fraud Nigerians Newspapers Punch App
+## PR-003 — Fraud Nigerians Newspapers Punch Cases
 - Category: `security`
 - Observations: **4**
 - Evidence score: **1.032**
@@ -45,7 +45,7 @@ Representative reports:
 - Fraud tops offences as 134 Nigerians face US deportation - Punch Newspapers
 - Police unveil app for Nigerians to report fraud cases - punchng.com
 
-## PR-004 — Package Ems Expensive Fij Story
+## PR-004 — Fij Expensive Package Ems Months
 - Category: `logistics`
 - Observations: **4**
 - Evidence score: **1.032**
@@ -58,7 +58,7 @@ Representative reports:
 - After FIJ’s Story, EMS Nigeria Delivers Expensive Package Held for 2 Months - fij.ng
 - EMS Nigeria Can’t Find ‘Expensive’ Package Sent to the US in December - fij.ng
 
-## PR-005 — Counterfeit Alerts Suspected Nafdac Nigerians
+## PR-005 — Nafdac Alerts Toothpaste Nigerians Suspected
 - Category: `payments`
 - Observations: **4**
 - Evidence score: **1.032**
@@ -71,7 +71,7 @@ Representative reports:
 - NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - Business Post Nigeria
 - NAFDAC Alerts Nigerians to Suspected Counterfeit ORACIRE+ Toothpaste | - businesspost.ng
 
-## PR-006 — Story Honduras British
+## PR-006 — Honduras British Story
 - Category: `housing`
 - Observations: **4**
 - Evidence score: **1.192**
@@ -109,7 +109,7 @@ Representative reports:
 - PH CHATTER NEEDED
 - OH CHATTERS NEEDED
 
-## PR-009 — Transactions Failed Fraud Policy Traps
+## PR-009 — Fraud Transactions Policy Cashless Between
 - Category: `security`
 - Observations: **3**
 - Evidence score: **1.07**
@@ -121,7 +121,7 @@ Representative reports:
 - Cashless policy traps Nigerians between fraud, failed transactions - Businessday NG
 - Cashless policy traps Nigerians between fraud, failed transactions - businessday.ng
 
-## PR-010 — Fintechs Rising Challenges Payment Tackling
+## PR-010 — Fraud Rising Payment Fintechs Digital
 - Category: `payments`
 - Observations: **3**
 - Evidence score: **1.0**
@@ -133,7 +133,7 @@ Representative reports:
 - Tackling Nigeria’s rising digital payment fraud: Challenges and the role of fintechs - Businessday NG
 - Tackling Nigeria’s rising digital payment fraud: Challenges and the role of fintechs - businessday.ng
 
-## PR-011 — Rise Seekers Stay Can Job
+## PR-011 — Stay Fraud Can Job Safe
 - Category: `security`
 - Observations: **3**
 - Evidence score: **1.0**
@@ -145,7 +145,7 @@ Representative reports:
 - The rise of recruitment fraud in Nigeria: How job seekers can stay safe - Businessday NG
 - The rise of recruitment fraud in Nigeria: How job seekers can stay safe - businessday.ng
 
-## PR-012 — Rise Linkedln Job Scams Hit
+## PR-012 — Market Listings Job Hit Scams
 - Category: `security`
 - Observations: **3**
 - Evidence score: **1.0**
@@ -157,7 +157,7 @@ Representative reports:
 - Nigeria’s job market hit by rise in Linkedln scams, ghost listings - Businessday NG
 - Nigeria’s job market hit by rise in Linkedln scams, ghost listings - businessday.ng
 
-## PR-013 — Unemployability Expert Cannot Unemployment Separated
+## PR-013 — Cannot Unemployability Expert Unemployment Separated
 - Category: `jobs`
 - Observations: **3**
 - Evidence score: **1.0**
@@ -169,7 +169,7 @@ Representative reports:
 - Nigeria’s unemployment problem cannot be separated from unemployability- Expert - Businessday NG
 - Nigeria’s unemployment problem cannot be separated from unemployability- Expert - businessday.ng
 
-## PR-014 — Transformation Internet Frustrates Poor Goals
+## PR-014 — Digital Frustrates Internet Transformation Poor
 - Category: `connectivity`
 - Observations: **3**
 - Evidence score: **1.0**
@@ -181,7 +181,7 @@ Representative reports:
 - Nigeria’s poor, weak internet connectivity frustrates digital transformation goals - Businessday NG
 - Nigeria’s poor, weak internet connectivity frustrates digital transformation goals - businessday.ng
 
-## PR-015 — Rise Fake 000 Certificates Credentials
+## PR-015 — Credentials 000 Nation Certificates Fake
 - Category: `security`
 - Observations: **3**
 - Evidence score: **1.0**
@@ -193,7 +193,7 @@ Representative reports:
 - Nigeria’s N3,000 certificates and rise of a nation of fake credentials - Businessday NG
 - Nigeria’s N3,000 certificates and rise of a nation of fake credentials - businessday.ng
 
-## PR-016 — Generated Arcon Fake Investment Facebook
+## PR-016 — Facebook Investment Nigerians Generated Fake
 - Category: `security`
 - Observations: **3**
 - Evidence score: **1.024**
@@ -205,7 +205,7 @@ Representative reports:
 - ARCON Warns Nigerians Against Fake AI-Generated Naira Refinery Investment Ad On Facebook - Brand Communicator
 - ARCON Warns Nigerians Against Fake AI-Generated Naira Refinery Investment Ad On Facebook - brandcom.ng
 
-## PR-017 — Counterfeit Driven Against Fight Technology
+## PR-017 — Fight Driven Counterfeit Why Needs
 - Category: `security`
 - Observations: **3**
 - Evidence score: **1.0**
@@ -217,7 +217,7 @@ Representative reports:
 - Why Nigeria needs a technology-driven fight against counterfeit - Businessday NG
 - Why Nigeria needs a technology-driven fight against counterfeit - businessday.ng
 
-## PR-018 — Beach Lagos Too Becoming Break
+## PR-018 — Break Beach Expensive Lagos Becoming
 - Category: `other`
 - Observations: **3**
 - Evidence score: **1.07**
@@ -229,7 +229,7 @@ Representative reports:
 - A beach break in Nigeria’s Lagos is becoming too expensive for many - AP News
 - A beach break in Nigeria’s Lagos is becoming too expensive for many - apnews.com
 
-## PR-019 — Revolution Monopoly Refining World Jazeera
+## PR-019 — Monopoly Revolution Refining World Jazeera
 - Category: `other`
 - Observations: **3**
 - Evidence score: **1.16**
@@ -241,7 +241,7 @@ Representative reports:
 - [World] - Nigeria’s refining revolution has a monopoly problem | Al Jazeera
 - Nigeria’s refining revolution has a monopoly problem
 
-## PR-020 — List Gazette Fraud Peoples Lawyers
+## PR-020 — Fraud List Gazette Lawyers Peoples
 - Category: `security`
 - Observations: **3**
 - Evidence score: **1.0**
@@ -253,7 +253,7 @@ Representative reports:
 - FULL LIST: Names of Nigerian lawyers disbarred in U.S. for fraud, theft, corruption - Peoples Gazette Nigeria
 - FULL LIST: U.S.-based Nigerian lawyers suspended for mishandling clients’ money, fraud - Peoples Gazette Nigeria
 
-## PR-021 — Appointment Office Issued Coordinator Fake
+## PR-021 — Office Issued Coordinator Letter Agency
 - Category: `security`
 - Observations: **3**
 - Evidence score: **1.07**
@@ -265,7 +265,7 @@ Representative reports:
 - Coordinator of 'fake' Made in Nigeria agency shares appointment letter 'issued by SGF office' - TheCable
 - Analysis: Coordinator Of ‘Fake’ Made In Nigeria Agency Shares Appointment Letter ‘Issued By SGF Office’ #trusttvnews - instagram.com
 
-## PR-022 — Sleeve Surgery Gastric Bariatric Bypass
+## PR-022 — Sleeve Mini Gastric Bariatric Surgery
 - Category: `housing`
 - Observations: **3**
 - Evidence score: **1.23**
@@ -277,7 +277,7 @@ Representative reports:
 - Considering Bariatric Surgery – Sleeve vs Mini Gastric Bypass vs Gastric Bypass
 - Considering Bariatric Surgery – Sleeve vs Mini Gastric Bypass vs Gastric Bypass
 
-## PR-023 — Complaints Amid Banks Challenging Environment
+## PR-023 — Complaints Banks Amid Six Environment
 - Category: `payments`
 - Observations: **2**
 - Evidence score: **1.039**
@@ -288,7 +288,7 @@ Representative reports:
 - Six Nigerian banks report N3trn profit amid complaints, challenging environment - pmnewsnigeria.com
 - Six Nigerian banks report N3trn profit amid complaints, challenging environment - PM News Nigeria
 
-## PR-024 — Delayed Absorb Cost Nigerians Digital
+## PR-024 — Digital Absorb How Nigerians Delayed
 - Category: `payments`
 - Observations: **2**
 - Evidence score: **1.039**
@@ -299,7 +299,7 @@ Representative reports:
 - How Nigerians Absorb the Cost of Delayed Digital Payments - HumAngle
 - How Nigerians Absorb the Cost of Delayed Digital Payments - humanglemedia.com
 
-## PR-025 — Trying Sfo Ceo Arrested Fraud
+## PR-025 — Fraud Trying Sfo Arrested While
 - Category: `security`
 - Observations: **2**
 - Evidence score: **0.969**
@@ -310,7 +310,7 @@ Representative reports:
 - California CEO accused of $7M fraud arrested at SFO while trying to fly to Nigeria - San Francisco Chronicle
 - California CEO accused of $7M fraud arrested at SFO while trying to fly to Nigeria - sfchronicle.com
 
-## PR-026 — Electronic Fraud Leaves Boom Payments
+## PR-026 — Fraud Electronic Leaves Payments Risk
 - Category: `payments`
 - Observations: **2**
 - Evidence score: **0.969**
@@ -321,7 +321,7 @@ Representative reports:
 - Nigeria’s electronic payments boom leaves some at risk for fraud - The Record from Recorded Future News
 - Nigeria’s electronic payments boom leaves some at risk for fraud - therecord.media
 
-## PR-027 — Arketdata Solve Businesses Grocery Price
+## PR-027 — Verified Consumers Businesses Techcabal Using
 - Category: `food`
 - Observations: **2**
 - Evidence score: **0.969**
@@ -332,7 +332,7 @@ Representative reports:
 - How Arketdata is using verified AI-powered intelligence to solve grocery price problem for Nigerian consumers and businesses - TechCabal
 - How Arketdata is using verified AI-powered intelligence to solve grocery price problem for Nigerian consumers and businesses - techcabal.com
 
-## PR-028 — Horrible Service Delivery Frustrates Nigerians
+## PR-028 — Fij Delivery Speedaf Logistics Hundreds
 - Category: `logistics`
 - Observations: **2**
 - Evidence score: **0.969**
@@ -343,7 +343,7 @@ Representative reports:
 - Speedaf Logistics’ ‘Horrible’ Delivery Service Frustrates Nigerians by the Hundreds - FIJ NG
 - Speedaf Logistics’ ‘Horrible’ Delivery Service Frustrates Nigerians by the Hundreds - fij.ng
 
-## PR-029 — Application Produced Production Adds Delay
+## PR-029 — Adds Delay Produced Alleged Feature
 - Category: `government`
 - Observations: **2**
 - Evidence score: **0.969**
@@ -354,7 +354,7 @@ Representative reports:
 - Nigerian Immigration adds ‘Produced’ feature to passport application after alleged delay in production - mexc.co
 - Nigerian Immigration adds ‘Produced’ feature to passport application after alleged delay in production - MEXC
 
-## PR-030 — Seekers Scam Turns Job Targets
+## PR-030 — Job Targets How Turns Desperation
 - Category: `security`
 - Observations: **2**
 - Evidence score: **0.969**
