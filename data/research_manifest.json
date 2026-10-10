@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T14:24:38.278822+00:00",
+  "generated_at": "2026-10-10T13:47:57.128013+00:00",
   "status": "recovered_from_committed_cluster_state",
   "canonical_cluster_file": "data/clusters.json",
   "canonical_observation_file": "data/observations.json",
@@ -8,7 +8,7 @@
   "observation_store_count": 727,
   "heartbeat": {
     "status": "complete",
-    "completed_at": "2026-10-09T13:29:00.256302+00:00",
+    "completed_at": "2026-10-10T12:39:43.251787+00:00",
     "total_observations": 727,
     "clusters": 445
   },
