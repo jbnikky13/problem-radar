@@ -1,0 +1,180 @@
+{
+  "generated_at": "2026-10-12T21:24:38.678195+00:00",
+  "status": "research_queue",
+  "principle": "Resolve evidence before commercial or venture conclusions.",
+  "candidates": [
+    {
+      "id": "ER-001",
+      "mechanism": "trust_verification",
+      "cluster_count": 181,
+      "observation_count": 308,
+      "source_domain_count": 2,
+      "categories": [
+        "connectivity",
+        "education",
+        "food",
+        "government",
+        "healthcare",
+        "housing",
+        "jobs",
+        "other",
+        "payments",
+        "power",
+        "repairs",
+        "security",
+        "transport"
+      ],
+      "average_evidence_score": 4.17,
+      "average_recurrence_score": 3.84,
+      "evidence_status": "requires_external_resolution",
+      "resolution_questions": [
+        "Can independent primary or official sources corroborate the pattern?",
+        "Is the apparent recurrence caused by duplicate reporting?",
+        "What measurable population or economic impact supports the signal?",
+        "Which markets and sectors show the pattern independently?",
+        "What existing solutions and institutional responses exist?"
+      ],
+      "candidate_clusters": [
+        "0a23c2023406",
+        "4a7662c8ee03",
+        "74413ea0ae72",
+        "03a32bd32d04",
+        "bb30e9a2b063",
+        "834dbaa1df8e",
+        "84e6bc527625",
+        "ee311e0b6cf9",
+        "af55b5b6ff14",
+        "1c51c2cdc029"
+      ]
+    },
+    {
+      "id": "ER-003",
+      "mechanism": "unclassified",
+      "cluster_count": 163,
+      "observation_count": 223,
+      "source_domain_count": 2,
+      "categories": [
+        "agriculture",
+        "business",
+        "connectivity",
+        "education",
+        "food",
+        "government",
+        "healthcare",
+        "housing",
+        "jobs",
+        "logistics",
+        "other",
+        "payments",
+        "power",
+        "repairs",
+        "security",
+        "transport"
+      ],
+      "average_evidence_score": 4.02,
+      "average_recurrence_score": 3.5,
+      "evidence_status": "requires_external_resolution",
+      "resolution_questions": [
+        "Can independent primary or official sources corroborate the pattern?",
+        "Is the apparent recurrence caused by duplicate reporting?",
+        "What measurable population or economic impact supports the signal?",
+        "Which markets and sectors show the pattern independently?",
+        "What existing solutions and institutional responses exist?"
+      ],
+      "candidate_clusters": [
+        "46317283454e",
+        "f61670d4ec0c",
+        "7c61b48459a4",
+        "07ef9f68dfff",
+        "d3ff7a51dc6a",
+        "c68591c920d6",
+        "a69f46a0a12f",
+        "85e61559beed",
+        "b048a8b25bad",
+        "5626533dc937"
+      ]
+    },
+    {
+      "id": "ER-004",
+      "mechanism": "price_access",
+      "cluster_count": 57,
+      "observation_count": 104,
+      "source_domain_count": 2,
+      "categories": [
+        "business",
+        "connectivity",
+        "education",
+        "food",
+        "housing",
+        "other",
+        "payments",
+        "power",
+        "repairs",
+        "security",
+        "transport"
+      ],
+      "average_evidence_score": 4.27,
+      "average_recurrence_score": 4.01,
+      "evidence_status": "requires_external_resolution",
+      "resolution_questions": [
+        "Can independent primary or official sources corroborate the pattern?",
+        "Is the apparent recurrence caused by duplicate reporting?",
+        "What measurable population or economic impact supports the signal?",
+        "Which markets and sectors show the pattern independently?",
+        "What existing solutions and institutional responses exist?"
+      ],
+      "candidate_clusters": [
+        "e4ea3208ab48",
+        "67818da8ee62",
+        "12755aef10f4",
+        "f42d9a216b5e",
+        "9d38a3d30877",
+        "19671534a92f",
+        "cf8dacf35dc4",
+        "ec3a89a837a0",
+        "3ef84ba798b1",
+        "0160269ae670"
+      ]
+    },
+    {
+      "id": "ER-002",
+      "mechanism": "service_reliability",
+      "cluster_count": 43,
+      "observation_count": 91,
+      "source_domain_count": 2,
+      "categories": [
+        "business",
+        "connectivity",
+        "education",
+        "government",
+        "other",
+        "payments",
+        "power",
+        "repairs",
+        "transport"
+      ],
+      "average_evidence_score": 4.48,
+      "average_recurrence_score": 4.26,
+      "evidence_status": "requires_external_resolution",
+      "resolution_questions": [
+        "Can independent primary or official sources corroborate the pattern?",
+        "Is the apparent recurrence caused by duplicate reporting?",
+        "What measurable population or economic impact supports the signal?",
+        "Which markets and sectors show the pattern independently?",
+        "What existing solutions and institutional responses exist?"
+      ],
+      "candidate_clusters": [
+        "c906a7d9e64c",
+        "3a02eaf6b47a",
+        "d835228af3d2",
+        "968e48966a27",
+        "fd932f03e2f6",
+        "1590bd2f860e",
+        "4901586c5525",
+        "c51ecd4b4da6",
+        "b4f2c6c5de94",
+        "34c798e24f56"
+      ]
+    }
+  ]
+}
