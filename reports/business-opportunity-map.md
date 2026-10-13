@@ -1,12 +1,12 @@
 # Problem Radar — Business Opportunity Validation Map
 
-Generated: 2026-10-12T18:11:20.321732+00:00
+Generated: 2026-10-13T15:06:29.550266+00:00
 
 Purpose: identify Nigerian problems that warrant direct customer and market validation before capital or significant engineering is committed.
 
 Candidate problem clusters: **85**
 
-## PR-001 — Fake Notice Navy Recruitment 2026
+## PR-001 — Navy Notice Recruitment Fake 2026
 **Category:** `security`  
 **Validation priority:** `0.772`  
 **Evidence:** `1.164`  
@@ -28,7 +28,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-002 — Traffic Over Frsc Warns Fake
+## PR-002 — Over Traffic Frsc Offence Warns
 **Category:** `security`  
 **Validation priority:** `0.555`  
 **Evidence:** `1.063`  
@@ -72,7 +72,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-006 — British Honduras Story
+## PR-006 — Story Honduras British
 **Category:** `housing`  
 **Validation priority:** `0.512`  
 **Evidence:** `1.192`  
@@ -94,7 +94,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-003 — Fraud Nigerians Punch Newspapers Police
+## PR-003 — Nigerians Fraud Newspapers Punch Unveil
 **Category:** `security`  
 **Validation priority:** `0.496`  
 **Evidence:** `1.032`  
@@ -116,7 +116,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-004 — Ems Fij Expensive Package Story
+## PR-004 — Expensive Fij Ems Package Months
 **Category:** `logistics`  
 **Validation priority:** `0.496`  
 **Evidence:** `1.032`  
@@ -138,7 +138,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-005 — Toothpaste Alerts Counterfeit Nafdac Nigerians
+## PR-005 — Toothpaste Nafdac Alerts Nigerians Suspected
 **Category:** `payments`  
 **Validation priority:** `0.496`  
 **Evidence:** `1.032`  
@@ -160,7 +160,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-022 — Sleeve Surgery Bypass Considering Gastric
+## PR-022 — Mini Considering Bypass Surgery Bariatric
 **Category:** `housing`  
 **Validation priority:** `0.459`  
 **Evidence:** `1.23`  
@@ -204,7 +204,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-019 — Monopoly Refining Revolution World Jazeera
+## PR-019 — Revolution Monopoly Refining World Jazeera
 **Category:** `other`  
 **Validation priority:** `0.452`  
 **Evidence:** `1.16`  
@@ -226,7 +226,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-009 — Fraud Policy Traps Between Nigerians
+## PR-009 — Failed Traps Nigerians Fraud Between
 **Category:** `security`  
 **Validation priority:** `0.443`  
 **Evidence:** `1.07`  
@@ -248,7 +248,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-018 — Becoming Beach Lagos Break Expensive
+## PR-018 — Becoming Lagos Expensive Break Beach
 **Category:** `other`  
 **Validation priority:** `0.443`  
 **Evidence:** `1.07`  
@@ -270,7 +270,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-021 — Agency Letter Appointment Issued Made
+## PR-021 — Appointment Shares Coordinator Sgf Issued
 **Category:** `security`  
 **Validation priority:** `0.443`  
 **Evidence:** `1.07`  
@@ -292,7 +292,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-016 — Facebook Fake Arcon Investment Generated
+## PR-016 — Arcon Investment Facebook Nigerians Fake
 **Category:** `security`  
 **Validation priority:** `0.438`  
 **Evidence:** `1.024`  
@@ -314,7 +314,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-010 — Payment Digital Fraud Role Tackling
+## PR-010 — Fintechs Role Rising Fraud Tackling
 **Category:** `payments`  
 **Validation priority:** `0.436`  
 **Evidence:** `1.0`  
@@ -336,7 +336,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-011 — Fraud How Seekers Rise Job
+## PR-011 — Safe Job Stay Rise How
 **Category:** `security`  
 **Validation priority:** `0.436`  
 **Evidence:** `1.0`  
@@ -358,7 +358,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-012 — Ghost Listings Scams Job Rise
+## PR-012 — Job Rise Scams Linkedln Ghost
 **Category:** `security`  
 **Validation priority:** `0.436`  
 **Evidence:** `1.0`  
@@ -380,7 +380,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-013 — Cannot Expert Separated Unemployment Unemployability
+## PR-013 — Unemployability Expert Separated Unemployment Cannot
 **Category:** `jobs`  
 **Validation priority:** `0.436`  
 **Evidence:** `1.0`  
@@ -402,7 +402,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-014 — Connectivity Transformation Digital Frustrates Goals
+## PR-014 — Poor Internet Goals Weak Connectivity
 **Category:** `connectivity`  
 **Validation priority:** `0.436`  
 **Evidence:** `1.0`  
@@ -424,7 +424,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-015 — Credentials 000 Certificates Nation Fake
+## PR-015 — Rise Credentials Nation Certificates Fake
 **Category:** `security`  
 **Validation priority:** `0.436`  
 **Evidence:** `1.0`  
@@ -446,7 +446,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-017 — Technology Why Driven Counterfeit Fight
+## PR-017 — Fight Driven Why Against Needs
 **Category:** `security`  
 **Validation priority:** `0.436`  
 **Evidence:** `1.0`  
@@ -468,7 +468,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-020 — Fraud Peoples Gazette Lawyers List
+## PR-020 — Lawyers Fraud Gazette List Peoples
 **Category:** `security`  
 **Validation priority:** `0.436`  
 **Evidence:** `1.0`  
@@ -490,7 +490,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-065 — Better Worse Colonialism Far Not
+## PR-065 — Far Better Colonialism Receipts During
 **Category:** `payments`  
 **Validation priority:** `0.42`  
 **Evidence:** `1.409`  
@@ -512,7 +512,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-075 — Many There Syndrome Disorder Affecting
+## PR-075 — Online Called Nigerianis Nigerians Mental
 **Category:** `payments`  
 **Validation priority:** `0.41`  
 **Evidence:** `1.313`  
@@ -534,7 +534,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-073 — Built Each Old Automated Legal
+## PR-073 — Stop Automated Scamming Old App
 **Category:** `security`  
 **Validation priority:** `0.399`  
 **Evidence:** `1.199`  
@@ -556,7 +556,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-085 — Honestly Tired Void Applying
+## PR-085 — Honestly Tired Applying Void
 **Category:** `jobs`  
 **Validation priority:** `0.399`  
 **Evidence:** `1.199`  
@@ -578,7 +578,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-023 — N3Trn Six Complaints Profit Amid
+## PR-023 — Environment Amid Six N3Trn Banks
 **Category:** `payments`  
 **Validation priority:** `0.383`  
 **Evidence:** `1.039`  
@@ -600,7 +600,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-024 — Digital Delayed How Absorb Nigerians
+## PR-024 — How Payments Nigerians Absorb Cost
 **Category:** `payments`  
 **Validation priority:** `0.383`  
 **Evidence:** `1.039`  
@@ -622,7 +622,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-036 — Telecom Overhaul Frustrate Costs Millions
+## PR-036 — Poor Costs Frustrate Overhaul Rising
 **Category:** `connectivity`  
 **Validation priority:** `0.383`  
 **Evidence:** `1.039`  
@@ -644,7 +644,7 @@ Candidate problem clusters: **85**
 
 ---
 
-## PR-055 — Johnson Advanced Arise Cardiac Care
+## PR-055 — Expensive Care Cardiac Advanced Arise
 **Category:** `other`  
 **Validation priority:** `0.383`  
 **Evidence:** `1.039`  
