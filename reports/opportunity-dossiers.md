@@ -1,10 +1,10 @@
 # Problem Radar — Opportunity Dossiers
 
-Generated: 2026-10-14T12:54:57.705310+00:00
+Generated: 2026-10-15T12:41:50.844621+00:00
 
 Dossiers: **85**
 
-## PR-001 — Notice Fake Navy Recruitment 2026
+## PR-001 — Notice Recruitment Navy Fake 2026
 **Category:** `security`  
 **Research priority signal:** `0.843`  
 **Evidence:** 9 audited observations across 1 source domain(s).
@@ -22,7 +22,7 @@ Dossiers: **85**
 
 ---
 
-## PR-002 — Traffic Frsc Over Sms Fake
+## PR-002 — Over Traffic Frsc Offence Nigerians
 **Category:** `security`  
 **Research priority signal:** `0.628`  
 **Evidence:** 5 audited observations across 1 source domain(s).
@@ -58,7 +58,7 @@ Dossiers: **85**
 
 ---
 
-## PR-006 — Honduras British Story
+## PR-006 — Story Honduras British
 **Category:** `housing`  
 **Research priority signal:** `0.598`  
 **Evidence:** 4 audited observations across 1 source domain(s).
@@ -76,7 +76,7 @@ Dossiers: **85**
 
 ---
 
-## PR-003 — Fraud Nigerians Punch Newspapers Police
+## PR-003 — Nigerians Fraud Punch Newspapers Unveil
 **Category:** `security`  
 **Research priority signal:** `0.566`  
 **Evidence:** 4 audited observations across 1 source domain(s).
@@ -94,7 +94,7 @@ Dossiers: **85**
 
 ---
 
-## PR-004 — Package Expensive Fij Ems Months
+## PR-004 — Fij Ems Expensive Package Delivers
 **Category:** `logistics`  
 **Research priority signal:** `0.566`  
 **Evidence:** 4 audited observations across 1 source domain(s).
@@ -112,7 +112,7 @@ Dossiers: **85**
 
 ---
 
-## PR-005 — Alerts Counterfeit Nafdac Suspected Nigerians
+## PR-005 — Counterfeit Toothpaste Nigerians Suspected Nafdac
 **Category:** `payments`  
 **Research priority signal:** `0.566`  
 **Evidence:** 4 audited observations across 1 source domain(s).
@@ -130,7 +130,7 @@ Dossiers: **85**
 
 ---
 
-## PR-022 — Bariatric Gastric Bypass Mini Surgery
+## PR-022 — Considering Mini Gastric Sleeve Surgery
 **Category:** `housing`  
 **Research priority signal:** `0.551`  
 **Evidence:** 3 audited observations across 1 source domain(s).
@@ -166,7 +166,7 @@ Dossiers: **85**
 
 ---
 
-## PR-019 — Refining Monopoly Revolution World Jazeera
+## PR-019 — Revolution Refining Monopoly World Jazeera
 **Category:** `other`  
 **Research priority signal:** `0.537`  
 **Evidence:** 3 audited observations across 1 source domain(s).
@@ -184,7 +184,7 @@ Dossiers: **85**
 
 ---
 
-## PR-065 — Far Not Worse Better During
+## PR-065 — Receipts Not Worse Better Colonialism
 **Category:** `payments`  
 **Research priority signal:** `0.532`  
 **Evidence:** 2 audited observations across 1 source domain(s).
@@ -202,7 +202,7 @@ Dossiers: **85**
 
 ---
 
-## PR-009 — Transactions Fraud Failed Traps Cashless
+## PR-009 — Nigerians Traps Between Failed Cashless
 **Category:** `security`  
 **Research priority signal:** `0.519`  
 **Evidence:** 3 audited observations across 1 source domain(s).
@@ -220,7 +220,7 @@ Dossiers: **85**
 
 ---
 
-## PR-018 — Break Becoming Too Lagos Expensive
+## PR-018 — Beach Too Becoming Break Lagos
 **Category:** `other`  
 **Research priority signal:** `0.519`  
 **Evidence:** 3 audited observations across 1 source domain(s).
@@ -238,7 +238,7 @@ Dossiers: **85**
 
 ---
 
-## PR-021 — Coordinator Issued Agency Fake Shares
+## PR-021 — Appointment Made Office Issued Agency
 **Category:** `security`  
 **Research priority signal:** `0.519`  
 **Evidence:** 3 audited observations across 1 source domain(s).
@@ -256,7 +256,7 @@ Dossiers: **85**
 
 ---
 
-## PR-075 — Called Negativitatus Nnss Online Disorder
+## PR-075 — Nigerianis Stupidus Mental Nigerians There
 **Category:** `payments`  
 **Research priority signal:** `0.513`  
 **Evidence:** 2 audited observations across 1 source domain(s).
@@ -274,7 +274,7 @@ Dossiers: **85**
 
 ---
 
-## PR-016 — Arcon Generated Fake Investment Facebook
+## PR-016 — Facebook Arcon Generated Nigerians Fake
 **Category:** `security`  
 **Research priority signal:** `0.51`  
 **Evidence:** 3 audited observations across 1 source domain(s).
@@ -292,7 +292,7 @@ Dossiers: **85**
 
 ---
 
-## PR-010 — Digital Fintechs Fraud Tackling Role
+## PR-010 — Digital Role Rising Challenges Tackling
 **Category:** `payments`  
 **Research priority signal:** `0.505`  
 **Evidence:** 3 audited observations across 1 source domain(s).
@@ -310,7 +310,7 @@ Dossiers: **85**
 
 ---
 
-## PR-011 — Safe Fraud Job Seekers Can
+## PR-011 — Job Seekers How Can Recruitment
 **Category:** `security`  
 **Research priority signal:** `0.505`  
 **Evidence:** 3 audited observations across 1 source domain(s).
@@ -328,7 +328,7 @@ Dossiers: **85**
 
 ---
 
-## PR-012 — Listings Hit Market Linkedln Scams
+## PR-012 — Job Hit Listings Market Rise
 **Category:** `security`  
 **Research priority signal:** `0.505`  
 **Evidence:** 3 audited observations across 1 source domain(s).
@@ -346,7 +346,7 @@ Dossiers: **85**
 
 ---
 
-## PR-013 — Expert Unemployment Unemployability Cannot Separated
+## PR-013 — Separated Unemployability Cannot Expert Unemployment
 **Category:** `jobs`  
 **Research priority signal:** `0.505`  
 **Evidence:** 3 audited observations across 1 source domain(s).
@@ -364,7 +364,7 @@ Dossiers: **85**
 
 ---
 
-## PR-014 — Digital Goals Transformation Internet Frustrates
+## PR-014 — Frustrates Digital Poor Weak Transformation
 **Category:** `connectivity`  
 **Research priority signal:** `0.505`  
 **Evidence:** 3 audited observations across 1 source domain(s).
@@ -382,7 +382,7 @@ Dossiers: **85**
 
 ---
 
-## PR-015 — 000 Fake Nation Credentials Certificates
+## PR-015 — Credentials Nation Certificates Rise Fake
 **Category:** `security`  
 **Research priority signal:** `0.505`  
 **Evidence:** 3 audited observations across 1 source domain(s).
@@ -400,7 +400,7 @@ Dossiers: **85**
 
 ---
 
-## PR-017 — Technology Needs Against Driven Why
+## PR-017 — Counterfeit Fight Why Driven Technology
 **Category:** `security`  
 **Research priority signal:** `0.505`  
 **Evidence:** 3 audited observations across 1 source domain(s).
@@ -418,7 +418,7 @@ Dossiers: **85**
 
 ---
 
-## PR-020 — Lawyers Fraud Gazette List Peoples
+## PR-020 — Gazette Lawyers List Peoples Fraud
 **Category:** `security`  
 **Research priority signal:** `0.505`  
 **Evidence:** 3 audited observations across 1 source domain(s).
@@ -436,7 +436,7 @@ Dossiers: **85**
 
 ---
 
-## PR-073 — Scamming Clients Dev Other Freelancers
+## PR-073 — Automated Each Stop Year Clients
 **Category:** `security`  
 **Research priority signal:** `0.49`  
 **Evidence:** 2 audited observations across 1 source domain(s).
