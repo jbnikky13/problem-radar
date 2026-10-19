@@ -1,6 +1,6 @@
 # Problem Radar — Validation Plan
 
-Generated: 2026-10-19T14:43:59.310369+00:00
+Generated: 2026-10-19T15:51:10.229563+00:00
 
 The goal is to validate a business, not merely rank complaints.
 
