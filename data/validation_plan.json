@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-25T12:36:28.963966+00:00",
+  "generated_at": "2026-10-26T14:21:06.520320+00:00",
   "plans": [
     {
       "id": "PR-001",
-      "problem": "Notice Fake Recruitment Navy 2026",
+      "problem": "Notice Navy Fake Recruitment 2026",
       "category": "security",
       "priority": 0.772,
       "research_tasks": [
@@ -25,7 +25,7 @@
     },
     {
       "id": "PR-002",
-      "problem": "Traffic Over Frsc Fake Nigerians",
+      "problem": "Traffic Frsc Over Nigerians Sms",
       "category": "security",
       "priority": 0.555,
       "research_tasks": [
@@ -69,7 +69,7 @@
     },
     {
       "id": "PR-006",
-      "problem": "Story British Honduras",
+      "problem": "Honduras Story British",
       "category": "housing",
       "priority": 0.512,
       "research_tasks": [
@@ -113,7 +113,7 @@
     },
     {
       "id": "PR-004",
-      "problem": "Package Expensive Fij Ems Story",
+      "problem": "Expensive Ems Package Fij Story",
       "category": "logistics",
       "priority": 0.496,
       "research_tasks": [
@@ -135,7 +135,7 @@
     },
     {
       "id": "PR-005",
-      "problem": "Toothpaste Nigerians Suspected Nafdac Alerts",
+      "problem": "Alerts Nigerians Nafdac Suspected Counterfeit",
       "category": "payments",
       "priority": 0.496,
       "research_tasks": [
@@ -157,7 +157,7 @@
     },
     {
       "id": "PR-022",
-      "problem": "Surgery Mini Bypass Bariatric Gastric",
+      "problem": "Sleeve Gastric Bariatric Surgery Mini",
       "category": "housing",
       "priority": 0.459,
       "research_tasks": [
@@ -223,7 +223,7 @@
     },
     {
       "id": "PR-009",
-      "problem": "Nigerians Cashless Between Transactions Traps",
+      "problem": "Nigerians Traps Between Cashless Transactions",
       "category": "security",
       "priority": 0.443,
       "research_tasks": [
@@ -245,7 +245,7 @@
     },
     {
       "id": "PR-018",
-      "problem": "Expensive Beach Becoming Break Too",
+      "problem": "Beach Expensive Too Becoming Lagos",
       "category": "other",
       "priority": 0.443,
       "research_tasks": [
@@ -267,7 +267,7 @@
     },
     {
       "id": "PR-021",
-      "problem": "Issued Fake Made Appointment Sgf",
+      "problem": "Shares Appointment Issued Agency Coordinator",
       "category": "security",
       "priority": 0.443,
       "research_tasks": [
@@ -289,7 +289,7 @@
     },
     {
       "id": "PR-016",
-      "problem": "Arcon Fake Nigerians Facebook Investment",
+      "problem": "Arcon Facebook Investment Generated Nigerians",
       "category": "security",
       "priority": 0.438,
       "research_tasks": [
@@ -311,7 +311,7 @@
     },
     {
       "id": "PR-010",
-      "problem": "Tackling Payment Digital Challenges Role",
+      "problem": "Tackling Digital Payment Role Challenges",
       "category": "payments",
       "priority": 0.436,
       "research_tasks": [
@@ -333,7 +333,7 @@
     },
     {
       "id": "PR-011",
-      "problem": "Seekers How Can Stay Safe",
+      "problem": "Seekers Can How Stay Rise",
       "category": "security",
       "priority": 0.436,
       "research_tasks": [
@@ -355,7 +355,7 @@
     },
     {
       "id": "PR-012",
-      "problem": "Hit Market Ghost Listings Scams",
+      "problem": "Ghost Market Rise Job Linkedln",
       "category": "security",
       "priority": 0.436,
       "research_tasks": [
@@ -377,7 +377,7 @@
     },
     {
       "id": "PR-013",
-      "problem": "Unemployability Cannot Expert Separated Unemployment",
+      "problem": "Unemployment Expert Unemployability Separated Cannot",
       "category": "jobs",
       "priority": 0.436,
       "research_tasks": [
@@ -399,7 +399,7 @@
     },
     {
       "id": "PR-014",
-      "problem": "Goals Frustrates Internet Digital Weak",
+      "problem": "Internet Weak Poor Transformation Digital",
       "category": "connectivity",
       "priority": 0.436,
       "research_tasks": [
@@ -421,7 +421,7 @@
     },
     {
       "id": "PR-015",
-      "problem": "000 Credentials Fake Nation Rise",
+      "problem": "Credentials Nation Certificates Rise 000",
       "category": "security",
       "priority": 0.436,
       "research_tasks": [
