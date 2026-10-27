@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-26T15:27:05.245683+00:00",
+  "generated_at": "2026-10-27T13:18:17.567221+00:00",
   "plans": [
     {
       "id": "PR-001",
-      "problem": "Notice Navy Fake Recruitment 2026",
+      "problem": "Recruitment Fake Notice Navy 2026",
       "category": "security",
       "priority": 0.772,
       "research_tasks": [
@@ -25,7 +25,7 @@
     },
     {
       "id": "PR-002",
-      "problem": "Traffic Frsc Over Nigerians Sms",
+      "problem": "Frsc Over Traffic Sms Nigerians",
       "category": "security",
       "priority": 0.555,
       "research_tasks": [
@@ -69,7 +69,7 @@
     },
     {
       "id": "PR-006",
-      "problem": "Honduras Story British",
+      "problem": "Story Honduras British",
       "category": "housing",
       "priority": 0.512,
       "research_tasks": [
@@ -91,7 +91,7 @@
     },
     {
       "id": "PR-003",
-      "problem": "Nigerians Fraud Newspapers Punch App",
+      "problem": "Nigerians Fraud Punch Newspapers App",
       "category": "security",
       "priority": 0.496,
       "research_tasks": [
@@ -113,7 +113,7 @@
     },
     {
       "id": "PR-004",
-      "problem": "Expensive Ems Package Fij Story",
+      "problem": "Fij Ems Package Expensive Delivers",
       "category": "logistics",
       "priority": 0.496,
       "research_tasks": [
@@ -135,7 +135,7 @@
     },
     {
       "id": "PR-005",
-      "problem": "Alerts Nigerians Nafdac Suspected Counterfeit",
+      "problem": "Nigerians Toothpaste Counterfeit Suspected Nafdac",
       "category": "payments",
       "priority": 0.496,
       "research_tasks": [
@@ -157,7 +157,7 @@
     },
     {
       "id": "PR-022",
-      "problem": "Sleeve Gastric Bariatric Surgery Mini",
+      "problem": "Sleeve Mini Surgery Considering Gastric",
       "category": "housing",
       "priority": 0.459,
       "research_tasks": [
@@ -223,7 +223,7 @@
     },
     {
       "id": "PR-009",
-      "problem": "Nigerians Traps Between Cashless Transactions",
+      "problem": "Failed Policy Cashless Nigerians Fraud",
       "category": "security",
       "priority": 0.443,
       "research_tasks": [
@@ -245,7 +245,7 @@
     },
     {
       "id": "PR-018",
-      "problem": "Beach Expensive Too Becoming Lagos",
+      "problem": "Beach Lagos Becoming Too Break",
       "category": "other",
       "priority": 0.443,
       "research_tasks": [
@@ -267,7 +267,7 @@
     },
     {
       "id": "PR-021",
-      "problem": "Shares Appointment Issued Agency Coordinator",
+      "problem": "Issued Agency Shares Coordinator Fake",
       "category": "security",
       "priority": 0.443,
       "research_tasks": [
@@ -289,7 +289,7 @@
     },
     {
       "id": "PR-016",
-      "problem": "Arcon Facebook Investment Generated Nigerians",
+      "problem": "Nigerians Arcon Fake Facebook Generated",
       "category": "security",
       "priority": 0.438,
       "research_tasks": [
@@ -311,7 +311,7 @@
     },
     {
       "id": "PR-010",
-      "problem": "Tackling Digital Payment Role Challenges",
+      "problem": "Rising Digital Fintechs Payment Tackling",
       "category": "payments",
       "priority": 0.436,
       "research_tasks": [
@@ -333,7 +333,7 @@
     },
     {
       "id": "PR-011",
-      "problem": "Seekers Can How Stay Rise",
+      "problem": "Recruitment How Can Safe Job",
       "category": "security",
       "priority": 0.436,
       "research_tasks": [
@@ -355,7 +355,7 @@
     },
     {
       "id": "PR-012",
-      "problem": "Ghost Market Rise Job Linkedln",
+      "problem": "Listings Market Linkedln Scams Job",
       "category": "security",
       "priority": 0.436,
       "research_tasks": [
@@ -377,7 +377,7 @@
     },
     {
       "id": "PR-013",
-      "problem": "Unemployment Expert Unemployability Separated Cannot",
+      "problem": "Unemployability Separated Unemployment Cannot Expert",
       "category": "jobs",
       "priority": 0.436,
       "research_tasks": [
@@ -399,7 +399,7 @@
     },
     {
       "id": "PR-014",
-      "problem": "Internet Weak Poor Transformation Digital",
+      "problem": "Connectivity Digital Poor Weak Transformation",
       "category": "connectivity",
       "priority": 0.436,
       "research_tasks": [
@@ -421,7 +421,7 @@
     },
     {
       "id": "PR-015",
-      "problem": "Credentials Nation Certificates Rise 000",
+      "problem": "000 Nation Fake Credentials Rise",
       "category": "security",
       "priority": 0.436,
       "research_tasks": [
