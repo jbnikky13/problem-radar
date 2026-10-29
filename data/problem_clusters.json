@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T14:04:24.800757+00:00",
+  "generated_at": "2026-10-29T14:26:16.153536+00:00",
   "cluster_count": 85,
   "clusters": [
     {
@@ -47,7 +47,7 @@
     },
     {
       "id": "PR-002",
-      "title": "Traffic Frsc Over Sms Offence",
+      "title": "Traffic Frsc Over Warns Sms",
       "category": "security",
       "observation_ids": [
         "33fbcf53b6a7f141",
@@ -86,7 +86,7 @@
     },
     {
       "id": "PR-003",
-      "title": "Fraud Nigerians Newspapers Punch Police",
+      "title": "Nigerians Fraud Punch Newspapers App",
       "category": "security",
       "observation_ids": [
         "68e99a9fc0e34fda",
@@ -123,7 +123,7 @@
     },
     {
       "id": "PR-004",
-      "title": "Ems Fij Expensive Package Delivers",
+      "title": "Package Expensive Fij Ems Story",
       "category": "logistics",
       "observation_ids": [
         "cc86f04d9efaf5b4",
@@ -160,7 +160,7 @@
     },
     {
       "id": "PR-005",
-      "title": "Suspected Nigerians Alerts Toothpaste Counterfeit",
+      "title": "Alerts Suspected Nigerians Toothpaste Nafdac",
       "category": "payments",
       "observation_ids": [
         "5b3674c0cf23a365",
@@ -197,7 +197,7 @@
     },
     {
       "id": "PR-006",
-      "title": "British Story Honduras",
+      "title": "Honduras British Story",
       "category": "housing",
       "observation_ids": [
         "e234307d71cb13b5",
@@ -307,7 +307,7 @@
     },
     {
       "id": "PR-009",
-      "title": "Policy Fraud Cashless Transactions Nigerians",
+      "title": "Cashless Transactions Policy Nigerians Between",
       "category": "security",
       "observation_ids": [
         "f82307ca21fea7a9",
@@ -342,7 +342,7 @@
     },
     {
       "id": "PR-010",
-      "title": "Digital Fraud Fintechs Tackling Challenges",
+      "title": "Payment Tackling Challenges Fintechs Role",
       "category": "payments",
       "observation_ids": [
         "a36eff5efd1e2e75",
@@ -377,7 +377,7 @@
     },
     {
       "id": "PR-011",
-      "title": "Stay Job Fraud Can Rise",
+      "title": "Safe Recruitment How Job Seekers",
       "category": "security",
       "observation_ids": [
         "3d71d8a697df3895",
@@ -412,7 +412,7 @@
     },
     {
       "id": "PR-012",
-      "title": "Hit Job Listings Rise Scams",
+      "title": "Ghost Hit Scams Listings Job",
       "category": "security",
       "observation_ids": [
         "75faed5b34facd78",
@@ -447,7 +447,7 @@
     },
     {
       "id": "PR-013",
-      "title": "Separated Unemployability Expert Cannot Unemployment",
+      "title": "Expert Unemployability Separated Unemployment Cannot",
       "category": "jobs",
       "observation_ids": [
         "df4f6cce7554501d",
@@ -482,7 +482,7 @@
     },
     {
       "id": "PR-014",
-      "title": "Digital Poor Internet Frustrates Connectivity",
+      "title": "Poor Weak Digital Internet Goals",
       "category": "connectivity",
       "observation_ids": [
         "e006c8520aef5c67",
@@ -517,7 +517,7 @@
     },
     {
       "id": "PR-015",
-      "title": "Rise 000 Certificates Credentials Nation",
+      "title": "Fake Certificates 000 Nation Credentials",
       "category": "security",
       "observation_ids": [
         "8cb254a8b491f129",
@@ -552,7 +552,7 @@
     },
     {
       "id": "PR-016",
-      "title": "Generated Facebook Investment Nigerians Arcon",
+      "title": "Generated Investment Arcon Nigerians Fake",
       "category": "security",
       "observation_ids": [
         "9a23ae62fa07574f",
@@ -587,7 +587,7 @@
     },
     {
       "id": "PR-017",
-      "title": "Fight Needs Why Against Technology",
+      "title": "Fight Driven Needs Technology Counterfeit",
       "category": "security",
       "observation_ids": [
         "75138292d3740070",
@@ -622,7 +622,7 @@
     },
     {
       "id": "PR-018",
-      "title": "Becoming Break Lagos Too Beach",
+      "title": "Expensive Too Becoming Lagos Break",
       "category": "other",
       "observation_ids": [
         "c500a62789ef2494",
@@ -657,7 +657,7 @@
     },
     {
       "id": "PR-019",
-      "title": "Refining Revolution Monopoly World Jazeera",
+      "title": "Revolution Monopoly Refining World Jazeera",
       "category": "other",
       "observation_ids": [
         "6ffb83e9d09800cd",
@@ -692,7 +692,7 @@
     },
     {
       "id": "PR-020",
-      "title": "Fraud Lawyers List Peoples Gazette",
+      "title": "Peoples List Lawyers Fraud Gazette",
       "category": "security",
       "observation_ids": [
         "389560970099f8ed",
@@ -727,7 +727,7 @@
     },
     {
       "id": "PR-021",
-      "title": "Sgf Coordinator Office Issued Shares",
+      "title": "Made Coordinator Fake Agency Letter",
       "category": "security",
       "observation_ids": [
         "7c68bad4337de7f5",
@@ -762,7 +762,7 @@
     },
     {
       "id": "PR-022",
-      "title": "Bypass Bariatric Considering Gastric Sleeve",
+      "title": "Bariatric Mini Gastric Considering Surgery",
       "category": "housing",
       "observation_ids": [
         "1a482d1a67c540b2",
@@ -797,7 +797,7 @@
     },
     {
       "id": "PR-023",
-      "title": "Challenging Profit Amid Banks Complaints",
+      "title": "Complaints Six Challenging Profit Banks",
       "category": "payments",
       "observation_ids": [
         "68cac58ee7a10fb8",
@@ -830,7 +830,7 @@
     },
     {
       "id": "PR-024",
-      "title": "Digital Absorb Delayed Nigerians Payments",
+      "title": "Delayed Cost How Payments Nigerians",
       "category": "payments",
       "observation_ids": [
         "769ab5c3c17aa3b1",
@@ -863,7 +863,7 @@
     },
     {
       "id": "PR-025",
-      "title": "Trying Fly Fraud California Accused",
+      "title": "Ceo California Arrested While Trying",
       "category": "security",
       "observation_ids": [
         "08bc84a6fc576c2f",
@@ -896,7 +896,7 @@
     },
     {
       "id": "PR-026",
-      "title": "Some Fraud Electronic Leaves Boom",
+      "title": "Risk Boom Payments Some Leaves",
       "category": "payments",
       "observation_ids": [
         "bf7ebf81a6a5089f",
@@ -929,7 +929,7 @@
     },
     {
       "id": "PR-027",
-      "title": "Using Grocery Price Techcabal Arketdata",
+      "title": "Techcabal Verified Consumers Grocery Price",
       "category": "food",
       "observation_ids": [
         "d05eaa22e9e9bd21",
@@ -962,7 +962,7 @@
     },
     {
       "id": "PR-028",
-      "title": "Hundreds Frustrates Delivery Logistics Nigerians",
+      "title": "Logistics Delivery Nigerians Service Fij",
       "category": "logistics",
       "observation_ids": [
         "3052540cfc0796c2",
@@ -995,7 +995,7 @@
     },
     {
       "id": "PR-029",
-      "title": "Alleged Adds Feature Mexc Application",
+      "title": "Feature Passport Mexc Alleged Produced",
       "category": "government",
       "observation_ids": [
         "34afa4d11780120f",
@@ -1028,7 +1028,7 @@
     },
     {
       "id": "PR-030",
-      "title": "Turns Job Targets Seekers Desperation",
+      "title": "Scam How Turns Seekers Job",
       "category": "security",
       "observation_ids": [
         "4597bf98b972246e",
@@ -1061,7 +1061,7 @@
     },
     {
       "id": "PR-031",
-      "title": "Abused Job Seekers Scammed Young",
+      "title": "Job Seekers Young Abused Scammed",
       "category": "security",
       "observation_ids": [
         "652f686f02b960d7",
@@ -1094,7 +1094,7 @@
     },
     {
       "id": "PR-032",
-      "title": "Woman Covid Rental Accused Funds",
+      "title": "Funds Covid Scam Sent Woman",
       "category": "security",
       "observation_ids": [
         "ac40295605ecc11f",
@@ -1127,7 +1127,7 @@
     },
     {
       "id": "PR-033",
-      "title": "Things House Zikoko Frustrating Hunting",
+      "title": "Zikoko Things Hunting Frustrating House",
       "category": "housing",
       "observation_ids": [
         "c51fcff9a2523a32",
@@ -1160,7 +1160,7 @@
     },
     {
       "id": "PR-034",
-      "title": "Techpoint Now Why Housing Beyond",
+      "title": "Beyond Housing Africa Techpoint Proptech",
       "category": "housing",
       "observation_ids": [
         "8d78f74173e53609",
@@ -1193,7 +1193,7 @@
     },
     {
       "id": "PR-035",
-      "title": "Expensive Cheap Techcabal Why Sea",
+      "title": "Fibre Techcabal Under Cheap Expensive",
       "category": "other",
       "observation_ids": [
         "20c4591ae2cc0ac4",
@@ -1226,7 +1226,7 @@
     },
     {
       "id": "PR-036",
-      "title": "Costs Overhaul Poor Years Millions",
+      "title": "Telecom Poor Data Costs Africa",
       "category": "connectivity",
       "observation_ids": [
         "413c3468a06d257c",
@@ -1259,7 +1259,7 @@
     },
     {
       "id": "PR-037",
-      "title": "Tinubu Adeyemi Alleged Adeniyi Bola",
+      "title": "Tinubu Orders Adeyemi President Bola",
       "category": "security",
       "observation_ids": [
         "60857ce2699ae67a",
@@ -1292,7 +1292,7 @@
     },
     {
       "id": "PR-038",
-      "title": "Curb Move Counterfeit Products Unilever",
+      "title": "Products Customs Move Unilever Counterfeit",
       "category": "security",
       "observation_ids": [
         "aec9b1a0ae282e65",
@@ -1325,7 +1325,7 @@
     },
     {
       "id": "PR-039",
-      "title": "Medicine Crisis Counterfeit Gaps Nafdac",
+      "title": "Counterfeit Crisis Nafdac Medicine Regulatory",
       "category": "security",
       "observation_ids": [
         "ef2691587cf9d398",
@@ -1358,7 +1358,7 @@
     },
     {
       "id": "PR-040",
-      "title": "South Extradites Alleged Over Fraud",
+      "title": "Extradites Six Africa South Over",
       "category": "security",
       "observation_ids": [
         "cfac41c21ac70dde",
@@ -1391,7 +1391,7 @@
     },
     {
       "id": "PR-041",
-      "title": "Fraud Disbursements Bank Controls Reach",
+      "title": "Disbursements Reach Tightens World Controls",
       "category": "payments",
       "observation_ids": [
         "935ea8100f383c8f",
@@ -1424,7 +1424,7 @@
     },
     {
       "id": "PR-042",
-      "title": "Busted Factory Lagos Juice Fake",
+      "title": "Juice Busted Fake Lagos Factory",
       "category": "security",
       "observation_ids": [
         "2c8ac00654fd7f05",
@@ -1457,7 +1457,7 @@
     },
     {
       "id": "PR-043",
-      "title": "Anti Fake Police 292Kg Officer",
+      "title": "Delta Cannabis Arrests Narcotics Police",
       "category": "security",
       "observation_ids": [
         "ffdaecda38caee13",
@@ -1490,7 +1490,7 @@
     },
     {
       "id": "PR-044",
-      "title": "Icpc Discover Tinubu Permanent Three",
+      "title": "Tinubu Discover President Dey Behind",
       "category": "security",
       "observation_ids": [
         "5b6eee96cd980f89",
@@ -1523,7 +1523,7 @@
     },
     {
       "id": "PR-045",
-      "title": "4Bn Ndlea Arrests Drugs Fake",
+      "title": "Arrests Fake Ndlea Drugs 4Bn",
       "category": "security",
       "observation_ids": [
         "07baedd25a229dd3",
@@ -1556,7 +1556,7 @@
     },
     {
       "id": "PR-046",
-      "title": "Pages Promises Peddle Newspaper Afp",
+      "title": "Pages Afp Peddle Newspaper Front",
       "category": "security",
       "observation_ids": [
         "9964affe32a3cb1a",
@@ -1589,7 +1589,7 @@
     },
     {
       "id": "PR-047",
-      "title": "Poor Fraud Sector Impacting Estate",
+      "title": "Poor Impacting Negatively Sector Estate",
       "category": "security",
       "observation_ids": [
         "5aeebfca5496473f",
@@ -1622,7 +1622,7 @@
     },
     {
       "id": "PR-048",
-      "title": "Years Fraud Investment Man News",
+      "title": "Investment Man Years Fraud News",
       "category": "security",
       "observation_ids": [
         "8f3c59e6c2796a64",
@@ -1655,7 +1655,7 @@
     },
     {
       "id": "PR-049",
-      "title": "Card Abuja Residents Lament Long",
+      "title": "Long Residents Photos Abuja Inec",
       "category": "other",
       "observation_ids": [
         "99be0a738767fb9e",
@@ -1688,7 +1688,7 @@
     },
     {
       "id": "PR-050",
-      "title": "Abuja Long Queues Scarcity Guardian",
+      "title": "Long Metropolis Fuel Abuja Disappear",
       "category": "power",
       "observation_ids": [
         "c6627ec4d8fdf05d",
@@ -1721,7 +1721,7 @@
     },
     {
       "id": "PR-051",
-      "title": "Abuja Long Why Queue There",
+      "title": "Long Why Conversion Abuja Govt",
       "category": "payments",
       "observation_ids": [
         "34073e97ac9a5ff9",
@@ -1754,7 +1754,7 @@
     },
     {
       "id": "PR-052",
-      "title": "Assembly Insecurity Shutdown Call Com",
+      "title": "Senators National Call Allafrica Insecurity",
       "category": "other",
       "observation_ids": [
         "461eb0f73daaed9f",
@@ -1787,7 +1787,7 @@
     },
     {
       "id": "PR-053",
-      "title": "News Over Billion Dem Nnpc",
+      "title": "Billion Petrol Fuel Litres Over",
       "category": "power",
       "observation_ids": [
         "025d92758d1aec58",
@@ -1820,7 +1820,7 @@
     },
     {
       "id": "PR-054",
-      "title": "Price Long Queue Lagos Fuel",
+      "title": "Long Fuel Mrs Cut Rush",
       "category": "food",
       "observation_ids": [
         "ce59045f0b13034a",
@@ -1853,7 +1853,7 @@
     },
     {
       "id": "PR-055",
-      "title": "Expensive Advanced Johnson Cardiac Too",
+      "title": "Care Johnson Expensive Advanced Too",
       "category": "other",
       "observation_ids": [
         "af174d8761802280",
@@ -1886,7 +1886,7 @@
     },
     {
       "id": "PR-056",
-      "title": "Can Adesina Good Buhari Aide",
+      "title": "Enjoy Jobs Life Good Aide",
       "category": "payments",
       "observation_ids": [
         "0ba52f25fed54d31",
@@ -1919,7 +1919,7 @@
     },
     {
       "id": "PR-057",
-      "title": "Furore Federal Agency Fake Over",
+      "title": "Over Set Fake Agency Federal",
       "category": "government",
       "observation_ids": [
         "b297737a73ffabe5",
@@ -1952,7 +1952,7 @@
     },
     {
       "id": "PR-058",
-      "title": "Clear Officials Corrupt Son Undercover",
+      "title": "Son Undercover Goods Corrupt How",
       "category": "security",
       "observation_ids": [
         "1f7f9f9eafba176b",
@@ -1985,7 +1985,7 @@
     },
     {
       "id": "PR-059",
-      "title": "Examination Miracle Fraud Can Break",
+      "title": "Chain Examination Centres How Can",
       "category": "security",
       "observation_ids": [
         "440dfc7ade6d148d",
@@ -2018,7 +2018,7 @@
     },
     {
       "id": "PR-060",
-      "title": "Icpc Tinubu Intervention Foreign Deadline",
+      "title": "Tinubu Give Foreign Submit President",
       "category": "security",
       "observation_ids": [
         "10f27ebde8b778eb",
@@ -2051,7 +2051,7 @@
     },
     {
       "id": "PR-061",
-      "title": "Manage Study Fraud Case Few",
+      "title": "Funds Unit Case How Study",
       "category": "security",
       "observation_ids": [
         "ea654f822a41154e",
@@ -2084,7 +2084,7 @@
     },
     {
       "id": "PR-062",
-      "title": "Fraud Airport Over Mining Arrested",
+      "title": "Airport Arrested Over Fraud Mining",
       "category": "security",
       "observation_ids": [
         "56325959f6464c25",
@@ -2117,7 +2117,7 @@
     },
     {
       "id": "PR-063",
-      "title": "Sacks Fraud Jamb Declares War",
+      "title": "Jamb Sacks Fraud Internal Staff",
       "category": "security",
       "observation_ids": [
         "086e0afece1076ed",
@@ -2150,7 +2150,7 @@
     },
     {
       "id": "PR-064",
-      "title": "Leads Fraud Com Sentence Scheme",
+      "title": "Leads Drydenwire Investment Scheme Man",
       "category": "security",
       "observation_ids": [
         "f4da5b4a1b4b0787",
@@ -2183,7 +2183,7 @@
     },
     {
       "id": "PR-065",
-      "title": "Worse Not Colonialism Far Receipts",
+      "title": "Far Better Worse Receipts During",
       "category": "payments",
       "observation_ids": [
         "6580125fc04e436b",
@@ -2216,7 +2216,7 @@
     },
     {
       "id": "PR-066",
-      "title": "Ghanaians Odas Convicted Justice Dem",
+      "title": "Ghanaians Odas Scam Department Convict",
       "category": "security",
       "observation_ids": [
         "ceca21fe5efc1630",
@@ -2249,7 +2249,7 @@
     },
     {
       "id": "PR-067",
-      "title": "Arbitration Defeats Fraud 680M Icc",
+      "title": "Mambilla 680M Defeats Arbitration Icc",
       "category": "payments",
       "observation_ids": [
         "93fa72c4b8301af7",
@@ -2282,7 +2282,7 @@
     },
     {
       "id": "PR-068",
-      "title": "Ministries Icpc Plenty Five Get",
+      "title": "Ghost Plenty Top Five Wey",
       "category": "security",
       "observation_ids": [
         "9dbb349096a76ec1",
@@ -2315,7 +2315,7 @@
     },
     {
       "id": "PR-069",
-      "title": "Sun Products Fake Spreads Panic",
+      "title": "Products Fake Sun Panic Pandemic",
       "category": "security",
       "observation_ids": [
         "d2019cdaaefcc49f",
@@ -2348,7 +2348,7 @@
     },
     {
       "id": "PR-070",
-      "title": "Can Reversals Transfer Tekedia Failures",
+      "title": "Failures How Eliminate Reversals Tekedia",
       "category": "payments",
       "observation_ids": [
         "598e9ebdf7939197",
@@ -2381,7 +2381,7 @@
     },
     {
       "id": "PR-071",
-      "title": "Fraud Abuja Arraigns Man Vehicle",
+      "title": "Efcc Vehicle Arraigns Man Abuja",
       "category": "payments",
       "observation_ids": [
         "6c4731c4cba550d3",
@@ -2414,7 +2414,7 @@
     },
     {
       "id": "PR-072",
-      "title": "News Content Manipulated Lagos Trained",
+      "title": "Manipulated Content Trained Fake Lagos",
       "category": "security",
       "observation_ids": [
         "dc791da5575d9cc9",
@@ -2447,7 +2447,7 @@
     },
     {
       "id": "PR-073",
-      "title": "Dev Escrow Year Scamming Other",
+      "title": "Clients App Automated Year Scamming",
       "category": "security",
       "observation_ids": [
         "eebd746898d38ab4",
@@ -2480,7 +2480,7 @@
     },
     {
       "id": "PR-074",
-      "title": "Ignore Facebook Gtbank Loans Nigerians",
+      "title": "Posing Gtbank Offering Nigerians Fake",
       "category": "payments",
       "observation_ids": [
         "a78fe58ae455d756",
@@ -2513,7 +2513,7 @@
     },
     {
       "id": "PR-075",
-      "title": "Disorder Affecting Nnss Stupidus Called",
+      "title": "Nigerianis Nnss Called Many Nigerians",
       "category": "payments",
       "observation_ids": [
         "2865db3477d4ffc4",
@@ -2547,7 +2547,7 @@
     },
     {
       "id": "PR-076",
-      "title": "Guardian Live Expensive News",
+      "title": "Expensive Guardian Live News",
       "category": "other",
       "observation_ids": [
         "2c33e641e531910b",
@@ -2580,7 +2580,7 @@
     },
     {
       "id": "PR-077",
-      "title": "Adeyanju Emergency State Fake Tinubu",
+      "title": "Emergency Fake State Adeyanju Tinubu",
       "category": "security",
       "observation_ids": [
         "fcad6b2f4f902a9d",
@@ -2613,7 +2613,7 @@
     },
     {
       "id": "PR-078",
-      "title": "Probes Dollars Man Kano Caught",
+      "title": "Efcc Caught Man Kano Probes",
       "category": "security",
       "observation_ids": [
         "296df1f53e68c953",
@@ -2646,7 +2646,7 @@
     },
     {
       "id": "PR-079",
-      "title": "Fct Costly Wike Millennium Why",
+      "title": "Tower Wike Finish Fct Costly",
       "category": "other",
       "observation_ids": [
         "edfd326988293598",
@@ -2679,7 +2679,7 @@
     },
     {
       "id": "PR-080",
-      "title": "Billions Refunds Rise Against Banks",
+      "title": "Complaints Billions Cbn Refunds Banks",
       "category": "payments",
       "observation_ids": [
         "b5ef90154bd50181",
@@ -2712,7 +2712,7 @@
     },
     {
       "id": "PR-081",
-      "title": "Directive Zenith Fraud What Linked",
+      "title": "Bvns Directive Linked What Uba",
       "category": "payments",
       "observation_ids": [
         "76734bd3f0f1c636",
@@ -2745,7 +2745,7 @@
     },
     {
       "id": "PR-082",
-      "title": "Promises Fake Never Factcheckhub Candidates",
+      "title": "2027 Made Never Promises Fake",
       "category": "security",
       "observation_ids": [
         "9c37e03cb8d21971",
@@ -2778,7 +2778,7 @@
     },
     {
       "id": "PR-083",
-      "title": "Crisis Drug Drugs Bigger Fake",
+      "title": "Crisis Drug Than Fake Bigger",
       "category": "healthcare",
       "observation_ids": [
         "29c2ff32aae84018",
@@ -2811,7 +2811,7 @@
     },
     {
       "id": "PR-084",
-      "title": "Becoming Break Lagos Too Many",
+      "title": "Expensive Many Too Becoming Lagos",
       "category": "payments",
       "observation_ids": [
         "fe14e3320aa94156",
@@ -2844,7 +2844,7 @@
     },
     {
       "id": "PR-085",
-      "title": "Honestly Void Tired Applying",
+      "title": "Void Applying Honestly Tired",
       "category": "jobs",
       "observation_ids": [
         "6e8483165595864b",
