@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-29T14:26:16.273626+00:00",
+  "generated_at": "2026-10-30T14:16:25.623094+00:00",
   "plans": [
     {
       "id": "PR-001",
-      "problem": "Navy Notice Recruitment Fake 2026",
+      "problem": "Fake Navy Notice Recruitment 2026",
       "category": "security",
       "priority": 0.772,
       "research_tasks": [
@@ -25,7 +25,7 @@
     },
     {
       "id": "PR-002",
-      "problem": "Traffic Frsc Over Warns Sms",
+      "problem": "Over Frsc Traffic Offence Nigerians",
       "category": "security",
       "priority": 0.555,
       "research_tasks": [
@@ -69,7 +69,7 @@
     },
     {
       "id": "PR-006",
-      "problem": "Honduras British Story",
+      "problem": "British Story Honduras",
       "category": "housing",
       "priority": 0.512,
       "research_tasks": [
@@ -113,7 +113,7 @@
     },
     {
       "id": "PR-004",
-      "problem": "Package Expensive Fij Ems Story",
+      "problem": "Package Fij Ems Expensive Story",
       "category": "logistics",
       "priority": 0.496,
       "research_tasks": [
@@ -135,7 +135,7 @@
     },
     {
       "id": "PR-005",
-      "problem": "Alerts Suspected Nigerians Toothpaste Nafdac",
+      "problem": "Alerts Nigerians Suspected Counterfeit Toothpaste",
       "category": "payments",
       "priority": 0.496,
       "research_tasks": [
@@ -157,7 +157,7 @@
     },
     {
       "id": "PR-022",
-      "problem": "Bariatric Mini Gastric Considering Surgery",
+      "problem": "Bypass Bariatric Considering Sleeve Mini",
       "category": "housing",
       "priority": 0.459,
       "research_tasks": [
@@ -223,7 +223,7 @@
     },
     {
       "id": "PR-009",
-      "problem": "Cashless Transactions Policy Nigerians Between",
+      "problem": "Nigerians Traps Fraud Failed Transactions",
       "category": "security",
       "priority": 0.443,
       "research_tasks": [
@@ -245,7 +245,7 @@
     },
     {
       "id": "PR-018",
-      "problem": "Expensive Too Becoming Lagos Break",
+      "problem": "Lagos Beach Break Becoming Expensive",
       "category": "other",
       "priority": 0.443,
       "research_tasks": [
@@ -267,7 +267,7 @@
     },
     {
       "id": "PR-021",
-      "problem": "Made Coordinator Fake Agency Letter",
+      "problem": "Fake Letter Agency Shares Issued",
       "category": "security",
       "priority": 0.443,
       "research_tasks": [
@@ -289,7 +289,7 @@
     },
     {
       "id": "PR-016",
-      "problem": "Generated Investment Arcon Nigerians Fake",
+      "problem": "Investment Arcon Generated Facebook Fake",
       "category": "security",
       "priority": 0.438,
       "research_tasks": [
@@ -311,7 +311,7 @@
     },
     {
       "id": "PR-010",
-      "problem": "Payment Tackling Challenges Fintechs Role",
+      "problem": "Tackling Fraud Role Digital Challenges",
       "category": "payments",
       "priority": 0.436,
       "research_tasks": [
@@ -333,7 +333,7 @@
     },
     {
       "id": "PR-011",
-      "problem": "Safe Recruitment How Job Seekers",
+      "problem": "Rise Fraud How Recruitment Safe",
       "category": "security",
       "priority": 0.436,
       "research_tasks": [
@@ -355,7 +355,7 @@
     },
     {
       "id": "PR-012",
-      "problem": "Ghost Hit Scams Listings Job",
+      "problem": "Hit Listings Rise Market Scams",
       "category": "security",
       "priority": 0.436,
       "research_tasks": [
@@ -377,7 +377,7 @@
     },
     {
       "id": "PR-013",
-      "problem": "Expert Unemployability Separated Unemployment Cannot",
+      "problem": "Expert Cannot Unemployment Unemployability Separated",
       "category": "jobs",
       "priority": 0.436,
       "research_tasks": [
@@ -399,7 +399,7 @@
     },
     {
       "id": "PR-014",
-      "problem": "Poor Weak Digital Internet Goals",
+      "problem": "Poor Goals Digital Connectivity Transformation",
       "category": "connectivity",
       "priority": 0.436,
       "research_tasks": [
@@ -421,7 +421,7 @@
     },
     {
       "id": "PR-015",
-      "problem": "Fake Certificates 000 Nation Credentials",
+      "problem": "Credentials Nation Certificates Fake Rise",
       "category": "security",
       "priority": 0.436,
       "research_tasks": [
