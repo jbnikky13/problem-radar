@@ -1,6 +1,6 @@
 # Problem Radar — Evidence Audit v2
 
-Generated: 2026-11-05T14:58:53.665802+00:00
+Generated: 2026-11-06T14:38:28.745634+00:00
 
 - Raw observations: **727**
 - Audit candidates: **347**
