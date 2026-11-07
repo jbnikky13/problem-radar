@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-06T15:08:42.360801+00:00",
+  "generated_at": "2026-11-07T14:07:08.365086+00:00",
   "plans": [
     {
       "id": "PR-001",
-      "problem": "Fake Navy Recruitment Notice 2026",
+      "problem": "Fake Navy Notice Recruitment 2026",
       "category": "security",
       "priority": 0.772,
       "research_tasks": [
@@ -25,7 +25,7 @@
     },
     {
       "id": "PR-002",
-      "problem": "Frsc Traffic Over Warns Nigerians",
+      "problem": "Over Frsc Traffic Fake Nigerians",
       "category": "security",
       "priority": 0.555,
       "research_tasks": [
@@ -69,7 +69,7 @@
     },
     {
       "id": "PR-006",
-      "problem": "British Honduras Story",
+      "problem": "British Story Honduras",
       "category": "housing",
       "priority": 0.512,
       "research_tasks": [
@@ -91,7 +91,7 @@
     },
     {
       "id": "PR-003",
-      "problem": "Nigerians Fraud Newspapers Punch Unveil",
+      "problem": "Fraud Nigerians Punch Newspapers Unveil",
       "category": "security",
       "priority": 0.496,
       "research_tasks": [
@@ -113,7 +113,7 @@
     },
     {
       "id": "PR-004",
-      "problem": "Package Fij Ems Expensive Story",
+      "problem": "Expensive Ems Package Fij Story",
       "category": "logistics",
       "priority": 0.496,
       "research_tasks": [
@@ -135,7 +135,7 @@
     },
     {
       "id": "PR-005",
-      "problem": "Nigerians Counterfeit Nafdac Suspected Toothpaste",
+      "problem": "Alerts Nafdac Counterfeit Toothpaste Nigerians",
       "category": "payments",
       "priority": 0.496,
       "research_tasks": [
@@ -157,7 +157,7 @@
     },
     {
       "id": "PR-022",
-      "problem": "Mini Bariatric Considering Gastric Surgery",
+      "problem": "Bypass Sleeve Considering Bariatric Mini",
       "category": "housing",
       "priority": 0.459,
       "research_tasks": [
@@ -201,7 +201,7 @@
     },
     {
       "id": "PR-019",
-      "problem": "Refining Revolution Monopoly World Jazeera",
+      "problem": "Revolution Monopoly Refining World Jazeera",
       "category": "other",
       "priority": 0.452,
       "research_tasks": [
@@ -223,7 +223,7 @@
     },
     {
       "id": "PR-009",
-      "problem": "Between Nigerians Fraud Failed Cashless",
+      "problem": "Policy Fraud Transactions Traps Cashless",
       "category": "security",
       "priority": 0.443,
       "research_tasks": [
@@ -245,7 +245,7 @@
     },
     {
       "id": "PR-018",
-      "problem": "Beach Becoming Break Lagos Too",
+      "problem": "Break Expensive Lagos Becoming Beach",
       "category": "other",
       "priority": 0.443,
       "research_tasks": [
@@ -267,7 +267,7 @@
     },
     {
       "id": "PR-021",
-      "problem": "Shares Letter Coordinator Issued Sgf",
+      "problem": "Letter Shares Coordinator Appointment Fake",
       "category": "security",
       "priority": 0.443,
       "research_tasks": [
@@ -289,7 +289,7 @@
     },
     {
       "id": "PR-016",
-      "problem": "Nigerians Investment Fake Generated Facebook",
+      "problem": "Generated Fake Investment Nigerians Arcon",
       "category": "security",
       "priority": 0.438,
       "research_tasks": [
@@ -311,7 +311,7 @@
     },
     {
       "id": "PR-010",
-      "problem": "Tackling Fraud Challenges Rising Digital",
+      "problem": "Tackling Payment Fraud Challenges Role",
       "category": "payments",
       "priority": 0.436,
       "research_tasks": [
@@ -333,7 +333,7 @@
     },
     {
       "id": "PR-011",
-      "problem": "Fraud Job Stay Safe Can",
+      "problem": "Safe How Fraud Can Rise",
       "category": "security",
       "priority": 0.436,
       "research_tasks": [
@@ -355,7 +355,7 @@
     },
     {
       "id": "PR-012",
-      "problem": "Listings Ghost Job Linkedln Market",
+      "problem": "Scams Linkedln Listings Rise Market",
       "category": "security",
       "priority": 0.436,
       "research_tasks": [
@@ -377,7 +377,7 @@
     },
     {
       "id": "PR-013",
-      "problem": "Separated Unemployability Cannot Unemployment Expert",
+      "problem": "Expert Cannot Unemployability Unemployment Separated",
       "category": "jobs",
       "priority": 0.436,
       "research_tasks": [
@@ -399,7 +399,7 @@
     },
     {
       "id": "PR-014",
-      "problem": "Goals Weak Internet Frustrates Connectivity",
+      "problem": "Internet Goals Frustrates Digital Connectivity",
       "category": "connectivity",
       "priority": 0.436,
       "research_tasks": [
@@ -421,7 +421,7 @@
     },
     {
       "id": "PR-015",
-      "problem": "Nation 000 Credentials Fake Rise",
+      "problem": "Nation Fake Rise Certificates 000",
       "category": "security",
       "priority": 0.436,
       "research_tasks": [
