@@ -1,6 +1,6 @@
 # Evidence Resolution Queue
 
-Generated: 2026-11-02T21:55:53.475161+00:00
+Generated: 2026-11-09T22:42:21.441878+00:00
 
 These are research hypotheses, not validated market conclusions. Source diversity is treated as a critical quality control.
 
