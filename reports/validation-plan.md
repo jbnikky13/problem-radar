@@ -1,10 +1,10 @@
 # Problem Radar — Validation Plan
 
-Generated: 2026-11-24T18:56:05.079278+00:00
+Generated: 2026-11-25T17:59:56.181233+00:00
 
 The goal is to validate a business, not merely rank complaints.
 
-## PR-001 — Fake Recruitment Notice Navy 2026
+## PR-001 — Notice Navy Fake Recruitment 2026
 Priority signal: **0.772**
 
 ### Research tasks
@@ -25,7 +25,7 @@ Priority signal: **0.772**
 
 ---
 
-## PR-002 — Frsc Over Traffic Fake Sms
+## PR-002 — Traffic Over Frsc Fake Sms
 Priority signal: **0.555**
 
 ### Research tasks
@@ -88,7 +88,7 @@ Priority signal: **0.512**
 
 ---
 
-## PR-003 — Fraud Nigerians Punch Newspapers Police
+## PR-003 — Fraud Nigerians Punch Newspapers App
 Priority signal: **0.496**
 
 ### Research tasks
@@ -109,7 +109,7 @@ Priority signal: **0.496**
 
 ---
 
-## PR-004 — Fij Ems Expensive Package Held
+## PR-004 — Fij Expensive Package Ems Months
 Priority signal: **0.496**
 
 ### Research tasks
@@ -130,7 +130,7 @@ Priority signal: **0.496**
 
 ---
 
-## PR-005 — Alerts Counterfeit Toothpaste Suspected Nafdac
+## PR-005 — Nafdac Suspected Toothpaste Alerts Counterfeit
 Priority signal: **0.496**
 
 ### Research tasks
@@ -151,7 +151,7 @@ Priority signal: **0.496**
 
 ---
 
-## PR-022 — Gastric Bariatric Bypass Sleeve Mini
+## PR-022 — Mini Surgery Bariatric Considering Sleeve
 Priority signal: **0.459**
 
 ### Research tasks
@@ -193,7 +193,7 @@ Priority signal: **0.452**
 
 ---
 
-## PR-019 — Monopoly Revolution Refining World Jazeera
+## PR-019 — Refining Revolution Monopoly World Jazeera
 Priority signal: **0.452**
 
 ### Research tasks
@@ -214,7 +214,7 @@ Priority signal: **0.452**
 
 ---
 
-## PR-009 — Failed Cashless Transactions Fraud Policy
+## PR-009 — Failed Cashless Policy Transactions Fraud
 Priority signal: **0.443**
 
 ### Research tasks
@@ -235,7 +235,7 @@ Priority signal: **0.443**
 
 ---
 
-## PR-018 — Expensive Beach Too Becoming Break
+## PR-018 — Break Lagos Becoming Beach Expensive
 Priority signal: **0.443**
 
 ### Research tasks
@@ -256,7 +256,7 @@ Priority signal: **0.443**
 
 ---
 
-## PR-021 — Issued Shares Fake Office Made
+## PR-021 — Appointment Shares Office Fake Agency
 Priority signal: **0.443**
 
 ### Research tasks
@@ -277,7 +277,7 @@ Priority signal: **0.443**
 
 ---
 
-## PR-016 — Fake Generated Investment Arcon Facebook
+## PR-016 — Investment Arcon Fake Nigerians Facebook
 Priority signal: **0.438**
 
 ### Research tasks
@@ -298,7 +298,7 @@ Priority signal: **0.438**
 
 ---
 
-## PR-010 — Rising Fraud Tackling Fintechs Challenges
+## PR-010 — Challenges Payment Rising Fraud Tackling
 Priority signal: **0.436**
 
 ### Research tasks
@@ -319,7 +319,7 @@ Priority signal: **0.436**
 
 ---
 
-## PR-011 — Recruitment Stay Fraud How Seekers
+## PR-011 — How Can Job Fraud Safe
 Priority signal: **0.436**
 
 ### Research tasks
@@ -340,7 +340,7 @@ Priority signal: **0.436**
 
 ---
 
-## PR-012 — Market Hit Linkedln Ghost Listings
+## PR-012 — Ghost Linkedln Listings Job Scams
 Priority signal: **0.436**
 
 ### Research tasks
@@ -361,7 +361,7 @@ Priority signal: **0.436**
 
 ---
 
-## PR-013 — Unemployment Unemployability Separated Cannot Expert
+## PR-013 — Unemployability Separated Cannot Unemployment Expert
 Priority signal: **0.436**
 
 ### Research tasks
@@ -382,7 +382,7 @@ Priority signal: **0.436**
 
 ---
 
-## PR-014 — Frustrates Transformation Internet Goals Connectivity
+## PR-014 — Weak Transformation Poor Connectivity Goals
 Priority signal: **0.436**
 
 ### Research tasks
@@ -403,7 +403,7 @@ Priority signal: **0.436**
 
 ---
 
-## PR-015 — Fake Nation Credentials 000 Certificates
+## PR-015 — Fake 000 Certificates Credentials Rise
 Priority signal: **0.436**
 
 ### Research tasks
